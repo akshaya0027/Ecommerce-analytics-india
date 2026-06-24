@@ -1,0 +1,2098 @@
+customer_id,recency_days,frequency,monetary,R_score,F_score,M_score,RFM_score,segment,city,city_tier
+CUST00001,415,2,5092.73,2,2,4,8,Hibernating,Hyderabad,Tier 1
+CUST00002,21,1,2028.28,5,1,2,8,New Customers,Nashik,Tier 2
+CUST00003,627,2,1682.63,1,2,2,5,Lost,Ahmedabad,Tier 1
+CUST00004,184,2,4395.15,4,3,4,11,Loyal Customers,Kolkata,Tier 1
+CUST00005,7,1,367.53,5,1,1,7,New Customers,Delhi,Tier 1
+CUST00006,20,3,2197.97,5,4,2,11,Loyal Customers,Delhi,Tier 1
+CUST00007,373,2,1832.43,2,3,2,7,Hibernating,Mumbai,Tier 1
+CUST00008,588,1,2514.99,1,1,2,4,Lost,Indore,Tier 2
+CUST00009,50,6,13511.65,5,5,5,15,Champions,Kolkata,Tier 1
+CUST00011,262,3,3580.8,3,4,3,10,Potential Loyalists,Mumbai,Tier 1
+CUST00012,642,1,1477.5,1,1,2,4,Lost,Raipur,Tier 3
+CUST00013,443,2,2236.5699999999997,2,3,2,7,Hibernating,Surat,Tier 2
+CUST00014,32,1,2345.35,5,1,2,8,New Customers,Delhi,Tier 1
+CUST00015,475,1,453.82,2,1,1,4,Lost,Delhi,Tier 1
+CUST00016,28,1,1562.83,5,1,2,8,New Customers,Delhi,Tier 1
+CUST00017,289,1,1943.57,3,1,2,6,Need Attention,Bengaluru,Tier 1
+CUST00018,482,1,628.51,2,1,1,4,Lost,Chennai,Tier 1
+CUST00019,648,1,2150.58,1,1,2,4,Lost,Hyderabad,Tier 1
+CUST00021,577,1,430.25,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00022,111,1,1054.8,4,1,1,6,New Customers,Delhi,Tier 1
+CUST00023,48,4,8057.46,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST00024,544,2,1871.6999999999998,1,3,2,6,Hibernating,Hyderabad,Tier 1
+CUST00025,590,2,2055.6,1,3,2,6,Hibernating,Hyderabad,Tier 1
+CUST00026,4,3,872.8,5,4,1,10,Loyal Customers,Jaipur,Tier 2
+CUST00027,424,1,774.91,2,1,1,4,Lost,Delhi,Tier 1
+CUST00028,131,4,5718.450000000001,4,5,4,13,Champions,Chennai,Tier 1
+CUST00029,142,2,5082.25,4,3,4,11,Loyal Customers,Kolkata,Tier 1
+CUST00030,25,3,4553.0,5,4,4,13,Champions,Mumbai,Tier 1
+CUST00031,134,2,6546.39,4,3,4,11,Loyal Customers,Kolkata,Tier 1
+CUST00032,97,4,7651.96,4,5,5,14,Champions,Delhi,Tier 1
+CUST00033,149,4,3526.3900000000003,4,5,3,12,Loyal Customers,Mumbai,Tier 1
+CUST00034,615,1,2741.61,1,1,3,5,Hibernating,Kanpur,Tier 2
+CUST00035,507,4,8338.91,1,5,5,11,At Risk (High Value),Ranchi,Tier 3
+CUST00036,437,1,2092.67,2,1,2,5,Lost,Lucknow,Tier 2
+CUST00037,418,2,2178.47,2,3,2,7,Hibernating,Bengaluru,Tier 1
+CUST00038,54,2,1502.7,5,3,2,10,Loyal Customers,Mumbai,Tier 1
+CUST00039,461,3,7353.2,2,4,5,11,At Risk (High Value),Pune,Tier 1
+CUST00040,470,1,187.74,2,1,1,4,Lost,Hyderabad,Tier 1
+CUST00041,45,1,6304.8,5,1,4,10,New Customers,Mumbai,Tier 1
+CUST00042,319,2,3839.4399999999996,3,3,3,9,Potential Loyalists,Chennai,Tier 1
+CUST00043,238,3,4522.07,3,4,4,11,Potential Loyalists,Mumbai,Tier 1
+CUST00044,60,2,2811.24,5,3,3,11,Loyal Customers,Visakhapatnam,Tier 2
+CUST00045,590,1,2273.29,1,1,2,4,Lost,Bengaluru,Tier 1
+CUST00046,266,2,1425.05,3,3,2,8,Potential Loyalists,Pune,Tier 1
+CUST00048,517,1,204.39,1,1,1,3,Lost,Chennai,Tier 1
+CUST00049,532,1,2354.24,1,1,2,4,Lost,Chennai,Tier 1
+CUST00050,96,2,5415.27,4,3,4,11,Loyal Customers,Delhi,Tier 1
+CUST00051,644,1,11705.61,1,1,5,7,Hibernating,Raipur,Tier 3
+CUST00052,76,5,11097.4,5,5,5,15,Champions,Jaipur,Tier 2
+CUST00053,454,3,12999.259999999998,2,4,5,11,At Risk (High Value),Kanpur,Tier 2
+CUST00054,196,2,3099.5099999999998,4,3,3,10,Loyal Customers,Coimbatore,Tier 2
+CUST00055,524,3,5295.0,1,4,4,9,At Risk (High Value),Kolkata,Tier 1
+CUST00056,137,1,1955.66,4,1,2,7,New Customers,Patna,Tier 2
+CUST00057,671,1,1625.62,1,1,2,4,Lost,Mumbai,Tier 1
+CUST00058,531,2,881.65,1,3,1,5,Hibernating,Delhi,Tier 1
+CUST00059,53,3,4939.97,5,4,4,13,Champions,Mumbai,Tier 1
+CUST00061,69,2,5037.68,5,3,4,12,Loyal Customers,Hyderabad,Tier 1
+CUST00062,28,1,1762.69,5,1,2,8,New Customers,Bengaluru,Tier 1
+CUST00063,513,3,3098.1400000000003,1,4,3,8,Hibernating,Surat,Tier 2
+CUST00064,629,2,6115.18,1,3,4,8,Hibernating,Bengaluru,Tier 1
+CUST00065,562,3,22144.219999999998,1,4,5,10,At Risk (High Value),Bengaluru,Tier 1
+CUST00066,586,1,477.14,1,1,1,3,Lost,Chennai,Tier 1
+CUST00067,416,2,2240.91,2,3,2,7,Hibernating,Delhi,Tier 1
+CUST00068,55,1,188.08,5,1,1,7,New Customers,Lucknow,Tier 2
+CUST00069,14,2,2729.85,5,3,3,11,Loyal Customers,Mumbai,Tier 1
+CUST00070,536,3,9006.050000000001,1,4,5,10,At Risk (High Value),Amritsar,Tier 3
+CUST00071,92,1,2285.63,4,1,2,7,New Customers,Jaipur,Tier 2
+CUST00072,71,3,6433.3099999999995,5,4,4,13,Champions,Delhi,Tier 1
+CUST00073,9,3,4962.35,5,4,4,13,Champions,Mumbai,Tier 1
+CUST00074,17,4,8251.72,5,5,5,15,Champions,Surat,Tier 2
+CUST00075,119,1,2286.81,4,1,2,7,New Customers,Pune,Tier 1
+CUST00076,79,3,3681.51,4,4,3,11,Loyal Customers,Ahmedabad,Tier 1
+CUST00077,109,1,2988.47,4,1,3,8,New Customers,Jaipur,Tier 2
+CUST00078,175,3,4809.08,4,4,4,12,Champions,Mumbai,Tier 1
+CUST00079,13,1,597.49,5,1,1,7,New Customers,Bengaluru,Tier 1
+CUST00080,207,4,6049.8,3,5,4,12,Potential Loyalists,Mumbai,Tier 1
+CUST00081,534,1,1301.35,1,1,1,3,Lost,Indore,Tier 2
+CUST00082,63,4,10912.68,5,5,5,15,Champions,Kolkata,Tier 1
+CUST00083,326,5,17957.64,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST00084,523,1,795.96,1,1,1,3,Lost,Mumbai,Tier 1
+CUST00085,450,2,1443.08,2,3,2,7,Hibernating,Bengaluru,Tier 1
+CUST00086,5,4,8237.17,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST00087,278,3,5999.7300000000005,3,4,4,11,Potential Loyalists,Ahmedabad,Tier 1
+CUST00088,190,3,5187.65,4,4,4,12,Champions,Kolkata,Tier 1
+CUST00089,88,2,4330.66,4,3,4,11,Loyal Customers,Bhopal,Tier 2
+CUST00090,92,1,6306.99,4,1,4,9,New Customers,Chennai,Tier 1
+CUST00091,464,1,650.0,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00093,462,2,3687.77,2,3,3,8,Hibernating,Ahmedabad,Tier 1
+CUST00094,21,2,5901.64,5,3,4,12,Loyal Customers,Kolkata,Tier 1
+CUST00095,7,1,1253.32,5,1,1,7,New Customers,Jaipur,Tier 2
+CUST00096,75,1,2363.51,5,1,2,8,New Customers,Chennai,Tier 1
+CUST00098,410,4,8616.86,2,5,5,12,At Risk (High Value),Hyderabad,Tier 1
+CUST00099,33,3,4932.360000000001,5,4,4,13,Champions,Mumbai,Tier 1
+CUST00100,253,2,4836.7,3,3,4,10,Potential Loyalists,Mumbai,Tier 1
+CUST00101,12,4,8820.87,5,5,5,15,Champions,Mumbai,Tier 1
+CUST00102,6,2,1719.92,5,3,2,10,Loyal Customers,Kolkata,Tier 1
+CUST00103,648,2,4938.31,1,3,4,8,Hibernating,Bengaluru,Tier 1
+CUST00104,281,7,33851.81,3,5,5,13,Potential Loyalists,Chennai,Tier 1
+CUST00105,278,1,1874.45,3,1,2,6,Need Attention,Visakhapatnam,Tier 2
+CUST00106,42,1,174.68,5,1,1,7,New Customers,Delhi,Tier 1
+CUST00107,252,6,12813.98,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST00108,443,1,2593.04,2,1,3,6,Hibernating,Ahmedabad,Tier 1
+CUST00110,115,2,4680.99,4,3,4,11,Loyal Customers,Mumbai,Tier 1
+CUST00111,233,1,1041.26,3,1,1,5,Need Attention,Bengaluru,Tier 1
+CUST00112,29,3,3280.42,5,4,3,12,Loyal Customers,Delhi,Tier 1
+CUST00113,604,1,872.58,1,1,1,3,Lost,Vadodara,Tier 2
+CUST00114,317,2,2282.95,3,3,2,8,Potential Loyalists,Lucknow,Tier 2
+CUST00115,449,3,3451.69,2,4,3,9,Hibernating,Kolkata,Tier 1
+CUST00116,3,4,4469.0599999999995,5,5,4,14,Champions,Indore,Tier 2
+CUST00117,305,1,1574.23,3,1,2,6,Need Attention,Lucknow,Tier 2
+CUST00118,99,2,4998.35,4,3,4,11,Loyal Customers,Delhi,Tier 1
+CUST00119,269,1,159.84,3,1,1,5,Need Attention,Coimbatore,Tier 2
+CUST00120,38,2,1797.16,5,3,2,10,Loyal Customers,Chennai,Tier 1
+CUST00121,317,2,2526.36,3,3,2,8,Potential Loyalists,Lucknow,Tier 2
+CUST00122,381,1,1200.1,2,1,1,4,Lost,Coimbatore,Tier 2
+CUST00123,558,2,1669.8200000000002,1,3,2,6,Hibernating,Bengaluru,Tier 1
+CUST00124,121,2,4450.379999999999,4,3,4,11,Loyal Customers,Mumbai,Tier 1
+CUST00125,198,4,9693.85,4,5,5,14,Champions,Delhi,Tier 1
+CUST00126,320,1,138.94,3,1,1,5,Need Attention,Hyderabad,Tier 1
+CUST00127,369,1,506.18,2,1,1,4,Lost,Surat,Tier 2
+CUST00128,75,7,10546.05,5,5,5,15,Champions,Indore,Tier 2
+CUST00129,360,1,1283.63,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00130,48,7,16658.48,5,5,5,15,Champions,Chennai,Tier 1
+CUST00131,385,4,8233.6,2,5,5,12,At Risk (High Value),Hyderabad,Tier 1
+CUST00132,229,5,6349.009999999999,3,5,4,12,Potential Loyalists,Delhi,Tier 1
+CUST00133,102,1,837.71,4,1,1,6,New Customers,Mumbai,Tier 1
+CUST00134,563,1,3101.23,1,1,3,5,Hibernating,Bengaluru,Tier 1
+CUST00135,10,3,7911.360000000001,5,4,5,14,Champions,Kanpur,Tier 2
+CUST00136,94,2,2186.83,4,3,2,9,Loyal Customers,Bengaluru,Tier 1
+CUST00138,376,1,357.14,2,1,1,4,Lost,Pune,Tier 1
+CUST00139,86,5,11183.25,4,5,5,14,Champions,Bengaluru,Tier 1
+CUST00140,82,2,5747.76,4,3,4,11,Loyal Customers,Raipur,Tier 3
+CUST00141,447,3,6373.74,2,4,4,10,At Risk (High Value),Guwahati,Tier 3
+CUST00142,62,2,3882.24,5,3,3,11,Loyal Customers,Delhi,Tier 1
+CUST00143,58,2,3271.6400000000003,5,3,3,11,Loyal Customers,Chennai,Tier 1
+CUST00144,317,3,4680.47,3,4,4,11,Potential Loyalists,Bengaluru,Tier 1
+CUST00145,106,1,905.19,4,1,1,6,New Customers,Bengaluru,Tier 1
+CUST00146,128,2,8033.9400000000005,4,3,5,12,Loyal Customers,Mumbai,Tier 1
+CUST00147,355,1,1367.46,2,1,2,5,Lost,Kolkata,Tier 1
+CUST00148,402,2,2720.6499999999996,2,3,3,8,Hibernating,Chennai,Tier 1
+CUST00149,596,1,1897.26,1,1,2,4,Lost,Mumbai,Tier 1
+CUST00150,448,1,3002.68,2,1,3,6,Hibernating,Bengaluru,Tier 1
+CUST00152,400,1,2211.03,2,1,2,5,Lost,Delhi,Tier 1
+CUST00153,24,3,7527.56,5,4,5,14,Champions,Delhi,Tier 1
+CUST00154,20,8,10843.39,5,5,5,15,Champions,Chennai,Tier 1
+CUST00155,492,1,2674.01,1,1,3,5,Hibernating,Amritsar,Tier 3
+CUST00156,63,4,5189.63,5,5,4,14,Champions,Delhi,Tier 1
+CUST00157,313,3,4574.37,3,4,4,11,Potential Loyalists,Pune,Tier 1
+CUST00158,392,1,861.07,2,1,1,4,Lost,Jaipur,Tier 2
+CUST00160,578,2,3369.9,1,3,3,7,Hibernating,Ahmedabad,Tier 1
+CUST00161,331,5,9063.24,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST00162,195,3,7797.83,4,4,5,13,Champions,Kolkata,Tier 1
+CUST00163,220,1,1063.11,3,1,1,5,Need Attention,Kolkata,Tier 1
+CUST00164,638,1,1228.19,1,1,1,3,Lost,Chennai,Tier 1
+CUST00165,76,2,2163.73,5,3,2,10,Loyal Customers,Mumbai,Tier 1
+CUST00166,99,1,2114.35,4,1,2,7,New Customers,Nagpur,Tier 2
+CUST00167,248,1,2953.89,3,1,3,7,Need Attention,Bengaluru,Tier 1
+CUST00168,377,1,3537.97,2,1,3,6,Hibernating,Delhi,Tier 1
+CUST00169,350,3,2535.09,2,4,2,8,Hibernating,Mumbai,Tier 1
+CUST00170,175,4,5305.53,4,5,4,13,Champions,Kolkata,Tier 1
+CUST00171,484,2,9581.189999999999,2,3,5,10,Hibernating,Pune,Tier 1
+CUST00172,156,2,7979.79,4,3,5,12,Loyal Customers,Mumbai,Tier 1
+CUST00173,379,2,1919.06,2,3,2,7,Hibernating,Chennai,Tier 1
+CUST00174,60,1,2537.93,5,1,2,8,New Customers,Delhi,Tier 1
+CUST00175,174,1,472.04,4,1,1,6,New Customers,Pune,Tier 1
+CUST00176,584,4,6752.73,1,5,4,10,At Risk (High Value),Delhi,Tier 1
+CUST00177,140,1,2210.74,4,1,2,7,New Customers,Pune,Tier 1
+CUST00178,364,3,7117.39,2,4,5,11,At Risk (High Value),Hyderabad,Tier 1
+CUST00180,131,2,3240.29,4,3,3,10,Loyal Customers,Delhi,Tier 1
+CUST00182,428,7,16696.27,2,5,5,12,At Risk (High Value),Mumbai,Tier 1
+CUST00183,365,2,1971.6999999999998,2,3,2,7,Hibernating,Patna,Tier 2
+CUST00184,213,2,1560.8700000000001,3,3,2,8,Potential Loyalists,Bhopal,Tier 2
+CUST00186,121,2,2923.91,4,3,3,10,Loyal Customers,Pune,Tier 1
+CUST00188,525,1,1399.29,1,1,2,4,Lost,Chennai,Tier 1
+CUST00189,296,1,1758.92,3,1,2,6,Need Attention,Chennai,Tier 1
+CUST00190,60,1,2573.21,5,1,2,8,New Customers,Delhi,Tier 1
+CUST00191,273,4,5495.76,3,5,4,12,Potential Loyalists,Mumbai,Tier 1
+CUST00192,160,3,10497.68,4,4,5,13,Champions,Coimbatore,Tier 2
+CUST00193,486,3,9371.95,2,4,5,11,At Risk (High Value),Coimbatore,Tier 2
+CUST00194,570,2,2697.55,1,3,3,7,Hibernating,Kolkata,Tier 1
+CUST00195,25,1,1816.29,5,1,2,8,New Customers,Bengaluru,Tier 1
+CUST00196,165,3,5032.27,4,4,4,12,Champions,Bengaluru,Tier 1
+CUST00198,41,1,744.41,5,1,1,7,New Customers,Coimbatore,Tier 2
+CUST00199,292,1,494.62,3,1,1,5,Need Attention,Bhopal,Tier 2
+CUST00201,135,2,2222.19,4,3,2,9,Loyal Customers,Pune,Tier 1
+CUST00202,174,1,744.65,4,1,1,6,New Customers,Mumbai,Tier 1
+CUST00203,254,5,7356.179999999999,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST00204,629,2,2835.79,1,3,3,7,Hibernating,Coimbatore,Tier 2
+CUST00206,576,1,2648.26,1,1,3,5,Hibernating,Mumbai,Tier 1
+CUST00207,608,1,1010.65,1,1,1,3,Lost,Mumbai,Tier 1
+CUST00209,312,3,9030.779999999999,3,4,5,12,Potential Loyalists,Mumbai,Tier 1
+CUST00211,7,4,7967.150000000001,5,5,5,15,Champions,Chennai,Tier 1
+CUST00212,477,1,2282.92,2,1,2,5,Lost,Pune,Tier 1
+CUST00214,355,3,5793.950000000001,2,4,4,10,At Risk (High Value),Delhi,Tier 1
+CUST00215,196,2,5984.02,4,3,4,11,Loyal Customers,Ahmedabad,Tier 1
+CUST00216,139,1,1434.08,4,1,2,7,New Customers,Delhi,Tier 1
+CUST00218,531,1,1226.79,1,1,1,3,Lost,Ahmedabad,Tier 1
+CUST00219,280,5,7807.959999999999,3,5,5,13,Potential Loyalists,Pune,Tier 1
+CUST00220,21,1,1374.55,5,1,2,8,New Customers,Nagpur,Tier 2
+CUST00221,44,3,3851.62,5,4,3,12,Loyal Customers,Pune,Tier 1
+CUST00222,100,3,5904.83,4,4,4,12,Champions,Kolkata,Tier 1
+CUST00223,554,1,3322.98,1,1,3,5,Hibernating,Mumbai,Tier 1
+CUST00224,95,2,2988.9500000000003,4,3,3,10,Loyal Customers,Hyderabad,Tier 1
+CUST00225,445,1,1104.56,2,1,1,4,Lost,Bengaluru,Tier 1
+CUST00226,340,4,11183.25,2,5,5,12,At Risk (High Value),Delhi,Tier 1
+CUST00228,224,3,8651.6,3,4,5,12,Potential Loyalists,Hyderabad,Tier 1
+CUST00229,552,3,6791.339999999999,1,4,5,10,At Risk (High Value),Coimbatore,Tier 2
+CUST00230,499,2,2511.61,1,3,2,6,Hibernating,Kolkata,Tier 1
+CUST00231,74,2,4325.23,5,3,4,12,Loyal Customers,Lucknow,Tier 2
+CUST00232,107,3,4339.77,4,4,4,12,Champions,Chennai,Tier 1
+CUST00234,336,1,3603.03,3,1,3,7,Need Attention,Chennai,Tier 1
+CUST00235,116,2,1219.33,4,3,1,8,Loyal Customers,Delhi,Tier 1
+CUST00236,65,3,6559.15,5,4,4,13,Champions,Ahmedabad,Tier 1
+CUST00237,122,2,4531.97,4,3,4,11,Loyal Customers,Bengaluru,Tier 1
+CUST00238,19,3,6616.83,5,4,4,13,Champions,Mumbai,Tier 1
+CUST00239,228,4,4393.89,3,5,4,12,Potential Loyalists,Pune,Tier 1
+CUST00240,80,1,3786.22,4,1,3,8,New Customers,Delhi,Tier 1
+CUST00242,241,1,1195.35,3,1,1,5,Need Attention,Nashik,Tier 2
+CUST00243,170,3,8083.17,4,4,5,13,Champions,Visakhapatnam,Tier 2
+CUST00244,279,4,9428.68,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST00245,290,1,2230.19,3,1,2,6,Need Attention,Mumbai,Tier 1
+CUST00246,588,1,2432.24,1,1,2,4,Lost,Patna,Tier 2
+CUST00247,30,3,5349.22,5,4,4,13,Champions,Hyderabad,Tier 1
+CUST00248,582,3,7606.99,1,4,5,10,At Risk (High Value),Ranchi,Tier 3
+CUST00249,481,1,2590.33,2,1,2,5,Lost,Guwahati,Tier 3
+CUST00250,467,2,5012.43,2,3,4,9,Hibernating,Indore,Tier 2
+CUST00251,380,1,1637.83,2,1,2,5,Lost,Bengaluru,Tier 1
+CUST00252,467,1,287.26,2,1,1,4,Lost,Hyderabad,Tier 1
+CUST00253,302,2,861.9000000000001,3,3,1,7,Potential Loyalists,Nagpur,Tier 2
+CUST00254,438,1,972.38,2,1,1,4,Lost,Bengaluru,Tier 1
+CUST00255,187,3,7866.459999999999,4,4,5,13,Champions,Delhi,Tier 1
+CUST00256,197,1,1030.98,4,1,1,6,New Customers,Chennai,Tier 1
+CUST00257,373,6,6366.8,2,5,4,11,At Risk (High Value),Vadodara,Tier 2
+CUST00258,17,3,7290.1,5,4,5,14,Champions,Pune,Tier 1
+CUST00259,297,1,295.02,3,1,1,5,Need Attention,Kolkata,Tier 1
+CUST00261,613,2,2369.81,1,3,2,6,Hibernating,Kolkata,Tier 1
+CUST00262,57,4,3373.34,5,5,3,13,Loyal Customers,Varanasi,Tier 3
+CUST00263,360,1,1737.27,2,1,2,5,Lost,Delhi,Tier 1
+CUST00264,47,1,387.16,5,1,1,7,New Customers,Chennai,Tier 1
+CUST00265,424,1,815.22,2,1,1,4,Lost,Bhopal,Tier 2
+CUST00266,279,2,2686.27,3,3,3,9,Potential Loyalists,Ahmedabad,Tier 1
+CUST00268,482,3,3337.78,2,4,3,9,Hibernating,Pune,Tier 1
+CUST00269,468,3,6402.16,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST00270,96,2,7119.63,4,3,5,12,Loyal Customers,Bengaluru,Tier 1
+CUST00271,302,3,6041.15,3,4,4,11,Potential Loyalists,Lucknow,Tier 2
+CUST00272,68,2,3611.6899999999996,5,3,3,11,Loyal Customers,Lucknow,Tier 2
+CUST00273,106,4,4424.2,4,5,4,13,Champions,Indore,Tier 2
+CUST00275,84,2,3579.42,4,3,3,10,Loyal Customers,Chennai,Tier 1
+CUST00276,76,1,4955.21,5,1,4,10,New Customers,Chennai,Tier 1
+CUST00277,651,2,2592.2799999999997,1,3,2,6,Hibernating,Lucknow,Tier 2
+CUST00278,351,1,704.65,2,1,1,4,Lost,Pune,Tier 1
+CUST00279,44,1,588.27,5,1,1,7,New Customers,Pune,Tier 1
+CUST00280,603,3,5707.83,1,4,4,9,At Risk (High Value),Lucknow,Tier 2
+CUST00281,204,1,1641.22,3,1,2,6,Need Attention,Coimbatore,Tier 2
+CUST00282,3,6,7571.610000000001,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST00284,240,1,706.12,3,1,1,5,Need Attention,Mumbai,Tier 1
+CUST00285,189,2,4002.7400000000002,4,3,3,10,Loyal Customers,Kolkata,Tier 1
+CUST00288,651,1,3929.74,1,1,3,5,Hibernating,Chennai,Tier 1
+CUST00289,638,1,291.84,1,1,1,3,Lost,Bengaluru,Tier 1
+CUST00291,156,3,5042.8,4,4,4,12,Champions,Mumbai,Tier 1
+CUST00293,671,1,1284.44,1,1,1,3,Lost,Surat,Tier 2
+CUST00294,345,2,2688.78,2,3,3,8,Hibernating,Bengaluru,Tier 1
+CUST00295,11,2,2169.04,5,3,2,10,Loyal Customers,Mumbai,Tier 1
+CUST00296,653,1,446.17,1,1,1,3,Lost,Chennai,Tier 1
+CUST00297,294,3,6648.32,3,4,4,11,Potential Loyalists,Jaipur,Tier 2
+CUST00299,133,4,4326.56,4,5,4,13,Champions,Kolkata,Tier 1
+CUST00300,309,4,7151.33,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST00301,317,3,4824.83,3,4,4,11,Potential Loyalists,Mumbai,Tier 1
+CUST00302,119,7,14775.61,4,5,5,14,Champions,Chennai,Tier 1
+CUST00303,95,1,201.76,4,1,1,6,New Customers,Chennai,Tier 1
+CUST00304,239,1,1949.52,3,1,2,6,Need Attention,Kolkata,Tier 1
+CUST00305,108,3,2812.84,4,4,3,11,Loyal Customers,Ahmedabad,Tier 1
+CUST00306,525,3,5910.66,1,4,4,9,At Risk (High Value),Mysuru,Tier 3
+CUST00308,393,1,291.03,2,1,1,4,Lost,Bengaluru,Tier 1
+CUST00309,350,1,1475.54,2,1,2,5,Lost,Lucknow,Tier 2
+CUST00310,50,2,3401.4300000000003,5,3,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST00311,20,3,4061.48,5,4,3,12,Loyal Customers,Hyderabad,Tier 1
+CUST00312,212,3,6488.84,3,4,4,11,Potential Loyalists,Mumbai,Tier 1
+CUST00313,631,2,1669.73,1,3,2,6,Hibernating,Mumbai,Tier 1
+CUST00314,184,2,6652.71,4,3,4,11,Loyal Customers,Guwahati,Tier 3
+CUST00316,403,1,793.22,2,1,1,4,Lost,Pune,Tier 1
+CUST00317,629,2,5618.120000000001,1,3,4,8,Hibernating,Hyderabad,Tier 1
+CUST00318,88,8,15767.98,4,5,5,14,Champions,Delhi,Tier 1
+CUST00319,15,2,866.81,5,3,1,9,Loyal Customers,Delhi,Tier 1
+CUST00320,115,1,1218.75,4,1,1,6,New Customers,Delhi,Tier 1
+CUST00321,35,1,939.3,5,1,1,7,New Customers,Chennai,Tier 1
+CUST00322,553,4,8666.56,1,5,5,11,At Risk (High Value),Ahmedabad,Tier 1
+CUST00323,16,2,4884.82,5,3,4,12,Loyal Customers,Pune,Tier 1
+CUST00325,447,2,363.59000000000003,2,3,1,6,Hibernating,Nashik,Tier 2
+CUST00326,512,1,1436.64,1,1,2,4,Lost,Ahmedabad,Tier 1
+CUST00329,546,1,807.18,1,1,1,3,Lost,Hyderabad,Tier 1
+CUST00330,187,1,1328.95,4,1,2,7,New Customers,Delhi,Tier 1
+CUST00331,309,4,8436.12,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST00332,402,1,2610.74,2,1,3,6,Hibernating,Ahmedabad,Tier 1
+CUST00333,260,1,904.33,3,1,1,5,Need Attention,Mumbai,Tier 1
+CUST00334,62,2,2001.56,5,3,2,10,Loyal Customers,Mumbai,Tier 1
+CUST00335,153,8,17068.07,4,5,5,14,Champions,Mumbai,Tier 1
+CUST00336,29,2,3221.27,5,3,3,11,Loyal Customers,Mumbai,Tier 1
+CUST00337,6,6,8599.8,5,5,5,15,Champions,Indore,Tier 2
+CUST00338,240,2,2314.34,3,3,2,8,Potential Loyalists,Pune,Tier 1
+CUST00339,331,6,6949.59,3,5,5,13,Potential Loyalists,Chennai,Tier 1
+CUST00340,298,1,4802.78,3,1,4,8,Need Attention,Mumbai,Tier 1
+CUST00341,387,2,5469.26,2,3,4,9,Hibernating,Chennai,Tier 1
+CUST00342,535,1,2919.35,1,1,3,5,Hibernating,Chennai,Tier 1
+CUST00343,582,1,1008.58,1,1,1,3,Lost,Delhi,Tier 1
+CUST00344,628,1,618.38,1,1,1,3,Lost,Hyderabad,Tier 1
+CUST00345,37,2,2055.24,5,3,2,10,Loyal Customers,Hyderabad,Tier 1
+CUST00346,461,2,3486.94,2,3,3,8,Hibernating,Kolkata,Tier 1
+CUST00347,107,3,6954.51,4,4,5,13,Champions,Kolkata,Tier 1
+CUST00348,215,1,1887.7,3,1,2,6,Need Attention,Mumbai,Tier 1
+CUST00349,399,4,4918.6900000000005,2,5,4,11,At Risk (High Value),Hyderabad,Tier 1
+CUST00350,86,1,427.03,4,1,1,6,New Customers,Kolkata,Tier 1
+CUST00351,526,2,4864.4400000000005,1,3,4,8,Hibernating,Chennai,Tier 1
+CUST00352,505,3,4194.44,1,4,3,8,Hibernating,Indore,Tier 2
+CUST00354,624,1,2113.57,1,1,2,4,Lost,Delhi,Tier 1
+CUST00355,35,2,4797.17,5,3,4,12,Loyal Customers,Mumbai,Tier 1
+CUST00356,561,2,4811.95,1,3,4,8,Hibernating,Pune,Tier 1
+CUST00357,58,2,2217.23,5,3,2,10,Loyal Customers,Mumbai,Tier 1
+CUST00358,328,5,7926.38,3,5,5,13,Potential Loyalists,Kolkata,Tier 1
+CUST00359,323,3,3332.8900000000003,3,4,3,10,Potential Loyalists,Kanpur,Tier 2
+CUST00362,663,1,984.48,1,1,1,3,Lost,Pune,Tier 1
+CUST00363,235,3,7090.49,3,4,5,12,Potential Loyalists,Hyderabad,Tier 1
+CUST00364,342,2,3658.41,2,3,3,8,Hibernating,Chennai,Tier 1
+CUST00365,187,1,466.03,4,1,1,6,New Customers,Kanpur,Tier 2
+CUST00366,219,1,595.19,3,1,1,5,Need Attention,Hyderabad,Tier 1
+CUST00367,323,1,1744.47,3,1,2,6,Need Attention,Guwahati,Tier 3
+CUST00369,264,2,2758.25,3,3,3,9,Potential Loyalists,Delhi,Tier 1
+CUST00370,190,3,15141.039999999999,4,4,5,13,Champions,Mumbai,Tier 1
+CUST00371,346,1,1052.08,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00373,299,4,7970.8,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST00374,80,1,727.1,4,1,1,6,New Customers,Pune,Tier 1
+CUST00375,264,2,2800.3599999999997,3,3,3,9,Potential Loyalists,Mumbai,Tier 1
+CUST00377,471,1,2655.22,2,1,3,6,Hibernating,Nagpur,Tier 2
+CUST00379,261,1,1869.62,3,1,2,6,Need Attention,Surat,Tier 2
+CUST00380,600,1,7389.14,1,1,5,7,Hibernating,Bengaluru,Tier 1
+CUST00381,212,1,328.6,3,1,1,5,Need Attention,Mumbai,Tier 1
+CUST00382,14,2,6977.7,5,3,5,13,Loyal Customers,Pune,Tier 1
+CUST00383,59,1,2752.78,5,1,3,9,New Customers,Kolkata,Tier 1
+CUST00384,293,2,3661.9,3,3,3,9,Potential Loyalists,Bhopal,Tier 2
+CUST00385,537,6,8458.78,1,5,5,11,At Risk (High Value),Ahmedabad,Tier 1
+CUST00387,57,2,5037.1900000000005,5,3,4,12,Loyal Customers,Bengaluru,Tier 1
+CUST00388,591,1,1538.23,1,1,2,4,Lost,Delhi,Tier 1
+CUST00389,36,4,5579.0,5,5,4,14,Champions,Ahmedabad,Tier 1
+CUST00390,8,3,4321.18,5,4,4,13,Champions,Lucknow,Tier 2
+CUST00391,134,1,391.61,4,1,1,6,New Customers,Varanasi,Tier 3
+CUST00392,37,4,3773.38,5,5,3,13,Loyal Customers,Hyderabad,Tier 1
+CUST00394,516,1,763.21,1,1,1,3,Lost,Jaipur,Tier 2
+CUST00395,38,2,1974.24,5,3,2,10,Loyal Customers,Bengaluru,Tier 1
+CUST00396,36,2,6807.28,5,3,5,13,Loyal Customers,Vadodara,Tier 2
+CUST00397,70,1,3914.41,5,1,3,9,New Customers,Indore,Tier 2
+CUST00398,596,2,3205.59,1,3,3,7,Hibernating,Hyderabad,Tier 1
+CUST00399,170,3,4408.469999999999,4,4,4,12,Champions,Ahmedabad,Tier 1
+CUST00401,116,2,976.05,4,3,1,8,Loyal Customers,Mumbai,Tier 1
+CUST00402,257,4,9460.3,3,5,5,13,Potential Loyalists,Coimbatore,Tier 2
+CUST00403,50,6,8448.73,5,5,5,15,Champions,Chennai,Tier 1
+CUST00404,206,3,6128.68,3,4,4,11,Potential Loyalists,Surat,Tier 2
+CUST00405,45,2,2815.8900000000003,5,3,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST00406,36,9,14258.14,5,5,5,15,Champions,Coimbatore,Tier 2
+CUST00407,523,4,10164.66,1,5,5,11,At Risk (High Value),Hyderabad,Tier 1
+CUST00410,92,2,9602.1,4,3,5,12,Loyal Customers,Mumbai,Tier 1
+CUST00412,97,3,5928.09,4,4,4,12,Champions,Nashik,Tier 2
+CUST00413,35,3,6140.89,5,4,4,13,Champions,Nashik,Tier 2
+CUST00414,667,1,3765.16,1,1,3,5,Hibernating,Kolkata,Tier 1
+CUST00415,303,2,10459.099999999999,3,3,5,11,Potential Loyalists,Kolkata,Tier 1
+CUST00416,524,4,4781.1,1,5,4,10,At Risk (High Value),Hyderabad,Tier 1
+CUST00417,411,2,4859.24,2,3,4,9,Hibernating,Bengaluru,Tier 1
+CUST00418,149,1,759.41,4,1,1,6,New Customers,Bengaluru,Tier 1
+CUST00419,295,1,724.01,3,1,1,5,Need Attention,Pune,Tier 1
+CUST00420,567,2,6954.61,1,3,5,9,Hibernating,Ahmedabad,Tier 1
+CUST00421,462,4,9901.1,2,5,5,12,At Risk (High Value),Lucknow,Tier 2
+CUST00422,194,1,2302.04,4,1,2,7,New Customers,Lucknow,Tier 2
+CUST00423,349,4,5307.53,2,5,4,11,At Risk (High Value),Mumbai,Tier 1
+CUST00424,75,1,2589.5,5,1,2,8,New Customers,Chennai,Tier 1
+CUST00425,67,2,2728.3199999999997,5,3,3,11,Loyal Customers,Mumbai,Tier 1
+CUST00426,179,6,17663.35,4,5,5,14,Champions,Chennai,Tier 1
+CUST00427,312,3,5476.62,3,4,4,11,Potential Loyalists,Hyderabad,Tier 1
+CUST00428,389,1,279.7,2,1,1,4,Lost,Bhopal,Tier 2
+CUST00429,229,1,1122.82,3,1,1,5,Need Attention,Bengaluru,Tier 1
+CUST00430,637,1,561.27,1,1,1,3,Lost,Mumbai,Tier 1
+CUST00431,203,2,5567.42,3,3,4,10,Potential Loyalists,Delhi,Tier 1
+CUST00432,175,2,1813.02,4,3,2,9,Loyal Customers,Jaipur,Tier 2
+CUST00433,148,1,2697.36,4,1,3,8,New Customers,Kolkata,Tier 1
+CUST00434,327,2,2142.2,3,3,2,8,Potential Loyalists,Mumbai,Tier 1
+CUST00435,332,2,2480.56,3,3,2,8,Potential Loyalists,Mumbai,Tier 1
+CUST00436,157,5,10143.23,4,5,5,14,Champions,Pune,Tier 1
+CUST00437,189,6,11966.59,4,5,5,14,Champions,Mumbai,Tier 1
+CUST00438,209,1,1923.48,3,1,2,6,Need Attention,Surat,Tier 2
+CUST00439,363,2,5591.299999999999,2,3,4,9,Hibernating,Pune,Tier 1
+CUST00440,294,2,7656.049999999999,3,3,5,11,Potential Loyalists,Mumbai,Tier 1
+CUST00441,668,2,4869.67,1,3,4,8,Hibernating,Mumbai,Tier 1
+CUST00442,16,1,1758.88,5,1,2,8,New Customers,Amritsar,Tier 3
+CUST00443,82,4,5875.71,4,5,4,13,Champions,Hyderabad,Tier 1
+CUST00444,18,1,1132.8,5,1,1,7,New Customers,Hyderabad,Tier 1
+CUST00446,505,2,2695.75,1,3,3,7,Hibernating,Kanpur,Tier 2
+CUST00449,353,2,4358.02,2,3,4,9,Hibernating,Hyderabad,Tier 1
+CUST00450,47,1,229.33,5,1,1,7,New Customers,Mumbai,Tier 1
+CUST00451,466,2,2125.8199999999997,2,3,2,7,Hibernating,Jaipur,Tier 2
+CUST00453,389,1,361.56,2,1,1,4,Lost,Hyderabad,Tier 1
+CUST00454,72,3,5467.62,5,4,4,13,Champions,Visakhapatnam,Tier 2
+CUST00455,193,1,631.4,4,1,1,6,New Customers,Mumbai,Tier 1
+CUST00456,479,2,3050.51,2,3,3,8,Hibernating,Chennai,Tier 1
+CUST00457,346,1,840.66,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00458,44,1,1967.15,5,1,2,8,New Customers,Chennai,Tier 1
+CUST00459,633,1,2425.86,1,1,2,4,Lost,Mumbai,Tier 1
+CUST00460,221,1,2391.54,3,1,2,6,Need Attention,Mumbai,Tier 1
+CUST00461,16,5,7670.9,5,5,5,15,Champions,Mumbai,Tier 1
+CUST00462,393,2,3992.18,2,3,3,8,Hibernating,Pune,Tier 1
+CUST00463,61,6,6906.9,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST00464,515,1,300.03,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00465,343,1,957.69,2,1,1,4,Lost,Guwahati,Tier 3
+CUST00466,171,1,1282.3,4,1,1,6,New Customers,Hyderabad,Tier 1
+CUST00467,167,2,3671.1299999999997,4,3,3,10,Loyal Customers,Bengaluru,Tier 1
+CUST00468,326,3,4569.2300000000005,3,4,4,11,Potential Loyalists,Indore,Tier 2
+CUST00469,150,2,2379.42,4,3,2,9,Loyal Customers,Delhi,Tier 1
+CUST00470,602,1,4923.89,1,1,4,6,Hibernating,Guwahati,Tier 3
+CUST00471,393,4,9483.3,2,5,5,12,At Risk (High Value),Mumbai,Tier 1
+CUST00472,260,7,13983.71,3,5,5,13,Potential Loyalists,Raipur,Tier 3
+CUST00473,79,3,4932.87,4,4,4,12,Champions,Mumbai,Tier 1
+CUST00474,262,2,6162.21,3,3,4,10,Potential Loyalists,Coimbatore,Tier 2
+CUST00475,39,1,1312.53,5,1,2,8,New Customers,Chennai,Tier 1
+CUST00476,668,2,3282.52,1,3,3,7,Hibernating,Varanasi,Tier 3
+CUST00477,325,2,6519.51,3,3,4,10,Potential Loyalists,Mumbai,Tier 1
+CUST00480,249,1,3853.22,3,1,3,7,Need Attention,Chennai,Tier 1
+CUST00481,523,2,9026.64,1,3,5,9,Hibernating,Kolkata,Tier 1
+CUST00482,48,2,2680.9300000000003,5,3,3,11,Loyal Customers,Pune,Tier 1
+CUST00485,357,1,2362.72,2,1,2,5,Lost,Kolkata,Tier 1
+CUST00486,303,7,10274.51,3,5,5,13,Potential Loyalists,Coimbatore,Tier 2
+CUST00487,376,1,2913.36,2,1,3,6,Hibernating,Mumbai,Tier 1
+CUST00488,666,2,2636.66,1,3,3,7,Hibernating,Bengaluru,Tier 1
+CUST00489,257,2,4587.08,3,3,4,10,Potential Loyalists,Nashik,Tier 2
+CUST00490,573,3,2612.6099999999997,1,4,3,8,Hibernating,Coimbatore,Tier 2
+CUST00491,345,1,440.23,2,1,1,4,Lost,Hyderabad,Tier 1
+CUST00492,451,3,14367.82,2,4,5,11,At Risk (High Value),Kolkata,Tier 1
+CUST00493,240,5,12075.53,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST00494,159,3,5562.87,4,4,4,12,Champions,Delhi,Tier 1
+CUST00496,230,4,16339.8,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST00497,289,2,3173.03,3,3,3,9,Potential Loyalists,Kolkata,Tier 1
+CUST00498,294,1,573.64,3,1,1,5,Need Attention,Mumbai,Tier 1
+CUST00499,448,2,5201.35,2,3,4,9,Hibernating,Raipur,Tier 3
+CUST00501,281,1,1371.53,3,1,2,6,Need Attention,Pune,Tier 1
+CUST00502,60,1,9973.38,5,1,5,11,New Customers,Chennai,Tier 1
+CUST00504,611,1,3105.96,1,1,3,5,Hibernating,Surat,Tier 2
+CUST00505,249,2,3051.96,3,3,3,9,Potential Loyalists,Pune,Tier 1
+CUST00506,188,1,957.92,4,1,1,6,New Customers,Delhi,Tier 1
+CUST00507,222,3,7815.87,3,4,5,12,Potential Loyalists,Visakhapatnam,Tier 2
+CUST00509,289,2,3148.41,3,3,3,9,Potential Loyalists,Nashik,Tier 2
+CUST00510,385,2,3875.6099999999997,2,3,3,8,Hibernating,Ahmedabad,Tier 1
+CUST00511,499,1,2818.3,1,1,3,5,Hibernating,Kolkata,Tier 1
+CUST00514,156,3,4428.66,4,4,4,12,Champions,Indore,Tier 2
+CUST00515,62,1,991.04,5,1,1,7,New Customers,Mumbai,Tier 1
+CUST00516,567,4,16109.9,1,5,5,11,At Risk (High Value),Mumbai,Tier 1
+CUST00517,471,3,5644.18,2,4,4,10,At Risk (High Value),Hyderabad,Tier 1
+CUST00518,214,2,3549.87,3,3,3,9,Potential Loyalists,Lucknow,Tier 2
+CUST00519,700,2,4792.67,1,3,4,8,Hibernating,Amritsar,Tier 3
+CUST00520,177,2,3360.39,4,3,3,10,Loyal Customers,Delhi,Tier 1
+CUST00521,19,1,1009.47,5,1,1,7,New Customers,Kolkata,Tier 1
+CUST00522,153,1,861.3,4,1,1,6,New Customers,Hyderabad,Tier 1
+CUST00523,55,4,7427.78,5,5,5,15,Champions,Raipur,Tier 3
+CUST00524,648,1,1254.92,1,1,1,3,Lost,Nagpur,Tier 2
+CUST00525,447,2,1362.8600000000001,2,3,2,7,Hibernating,Nagpur,Tier 2
+CUST00526,92,5,3437.2200000000003,4,5,3,12,Loyal Customers,Chennai,Tier 1
+CUST00527,165,2,2592.6,4,3,2,9,Loyal Customers,Hyderabad,Tier 1
+CUST00528,85,2,2980.18,4,3,3,10,Loyal Customers,Bengaluru,Tier 1
+CUST00529,60,2,961.8899999999999,5,3,1,9,Loyal Customers,Mumbai,Tier 1
+CUST00530,187,2,874.95,4,3,1,8,Loyal Customers,Indore,Tier 2
+CUST00531,102,3,3232.94,4,4,3,11,Loyal Customers,Surat,Tier 2
+CUST00532,615,2,3229.25,1,3,3,7,Hibernating,Dehradun,Tier 3
+CUST00535,456,3,2669.1,2,4,3,9,Hibernating,Jaipur,Tier 2
+CUST00536,279,1,2152.22,3,1,2,6,Need Attention,Kanpur,Tier 2
+CUST00537,45,1,889.48,5,1,1,7,New Customers,Nagpur,Tier 2
+CUST00539,117,5,13105.61,4,5,5,14,Champions,Hyderabad,Tier 1
+CUST00541,406,1,512.34,2,1,1,4,Lost,Nashik,Tier 2
+CUST00542,527,2,2574.09,1,3,2,6,Hibernating,Kolkata,Tier 1
+CUST00543,338,2,6306.25,3,3,4,10,Potential Loyalists,Delhi,Tier 1
+CUST00544,119,4,8039.04,4,5,5,14,Champions,Pune,Tier 1
+CUST00545,504,4,5011.68,1,5,4,10,At Risk (High Value),Kolkata,Tier 1
+CUST00546,142,1,2217.67,4,1,2,7,New Customers,Bengaluru,Tier 1
+CUST00547,571,2,849.01,1,3,1,5,Hibernating,Mumbai,Tier 1
+CUST00548,180,3,7135.86,4,4,5,13,Champions,Pune,Tier 1
+CUST00549,244,2,3171.88,3,3,3,9,Potential Loyalists,Chennai,Tier 1
+CUST00550,322,4,3743.94,3,5,3,11,Potential Loyalists,Jaipur,Tier 2
+CUST00551,380,1,734.11,2,1,1,4,Lost,Chennai,Tier 1
+CUST00552,281,3,4427.33,3,4,4,11,Potential Loyalists,Nagpur,Tier 2
+CUST00553,95,4,9073.36,4,5,5,14,Champions,Chennai,Tier 1
+CUST00555,207,6,11217.36,3,5,5,13,Potential Loyalists,Bhopal,Tier 2
+CUST00556,22,2,4628.23,5,3,4,12,Loyal Customers,Hyderabad,Tier 1
+CUST00557,189,3,3919.6099999999997,4,4,3,11,Loyal Customers,Delhi,Tier 1
+CUST00558,13,3,4070.26,5,4,3,12,Loyal Customers,Mumbai,Tier 1
+CUST00559,272,1,5785.37,3,1,4,8,Need Attention,Ahmedabad,Tier 1
+CUST00560,246,5,13848.42,3,5,5,13,Potential Loyalists,Kolkata,Tier 1
+CUST00561,355,1,3874.14,2,1,3,6,Hibernating,Pune,Tier 1
+CUST00562,477,2,8328.35,2,3,5,10,Hibernating,Delhi,Tier 1
+CUST00564,19,4,13086.880000000001,5,5,5,15,Champions,Mumbai,Tier 1
+CUST00565,42,1,4134.0,5,1,3,9,New Customers,Bengaluru,Tier 1
+CUST00566,153,2,2331.85,4,3,2,9,Loyal Customers,Kolkata,Tier 1
+CUST00567,91,4,14123.53,4,5,5,14,Champions,Hyderabad,Tier 1
+CUST00568,228,2,3962.28,3,3,3,9,Potential Loyalists,Hyderabad,Tier 1
+CUST00569,36,1,1160.42,5,1,1,7,New Customers,Visakhapatnam,Tier 2
+CUST00570,569,2,3273.5299999999997,1,3,3,7,Hibernating,Bengaluru,Tier 1
+CUST00571,596,1,339.15,1,1,1,3,Lost,Chennai,Tier 1
+CUST00573,177,3,5647.91,4,4,4,12,Champions,Hyderabad,Tier 1
+CUST00574,199,3,4244.2,4,4,3,11,Loyal Customers,Kolkata,Tier 1
+CUST00575,525,1,4817.75,1,1,4,6,Hibernating,Indore,Tier 2
+CUST00576,255,1,1842.05,3,1,2,6,Need Attention,Nashik,Tier 2
+CUST00577,551,4,14408.230000000001,1,5,5,11,At Risk (High Value),Delhi,Tier 1
+CUST00578,408,1,1720.77,2,1,2,5,Lost,Patna,Tier 2
+CUST00579,21,3,3136.88,5,4,3,12,Loyal Customers,Chennai,Tier 1
+CUST00580,157,8,25994.75,4,5,5,14,Champions,Bengaluru,Tier 1
+CUST00581,263,1,4550.12,3,1,4,8,Need Attention,Hyderabad,Tier 1
+CUST00582,534,1,2618.2,1,1,3,5,Hibernating,Jodhpur,Tier 3
+CUST00583,28,2,1944.3400000000001,5,3,2,10,Loyal Customers,Chennai,Tier 1
+CUST00584,207,4,3539.1200000000003,3,5,3,11,Potential Loyalists,Bengaluru,Tier 1
+CUST00585,515,3,5946.3,1,4,4,9,At Risk (High Value),Kolkata,Tier 1
+CUST00586,130,5,11327.51,4,5,5,14,Champions,Delhi,Tier 1
+CUST00589,213,3,5124.89,3,4,4,11,Potential Loyalists,Mumbai,Tier 1
+CUST00591,587,1,862.58,1,1,1,3,Lost,Delhi,Tier 1
+CUST00592,181,3,6063.22,4,4,4,12,Champions,Pune,Tier 1
+CUST00593,551,2,1765.73,1,3,2,6,Hibernating,Delhi,Tier 1
+CUST00594,202,1,2663.26,3,1,3,7,Need Attention,Bengaluru,Tier 1
+CUST00595,218,1,1803.86,3,1,2,6,Need Attention,Coimbatore,Tier 2
+CUST00596,114,2,7000.82,4,3,5,12,Loyal Customers,Chennai,Tier 1
+CUST00597,216,1,3093.14,3,1,3,7,Need Attention,Pune,Tier 1
+CUST00598,185,1,2740.52,4,1,3,8,New Customers,Delhi,Tier 1
+CUST00600,41,4,5720.7,5,5,4,14,Champions,Mumbai,Tier 1
+CUST00601,344,3,9829.26,2,4,5,11,At Risk (High Value),Delhi,Tier 1
+CUST00602,133,2,1794.3,4,3,2,9,Loyal Customers,Bengaluru,Tier 1
+CUST00603,437,1,217.13,2,1,1,4,Lost,Delhi,Tier 1
+CUST00604,178,1,1574.2,4,1,2,7,New Customers,Mumbai,Tier 1
+CUST00606,313,4,5603.61,3,5,4,12,Potential Loyalists,Hyderabad,Tier 1
+CUST00607,153,5,11728.2,4,5,5,14,Champions,Delhi,Tier 1
+CUST00608,559,1,1069.74,1,1,1,3,Lost,Bengaluru,Tier 1
+CUST00609,571,4,6985.349999999999,1,5,5,11,At Risk (High Value),Chennai,Tier 1
+CUST00610,117,1,2684.38,4,1,3,8,New Customers,Pune,Tier 1
+CUST00611,360,2,2612.59,2,3,3,8,Hibernating,Mumbai,Tier 1
+CUST00612,536,2,6093.06,1,3,4,8,Hibernating,Lucknow,Tier 2
+CUST00613,542,2,3109.1800000000003,1,3,3,7,Hibernating,Kolkata,Tier 1
+CUST00615,54,1,1770.83,5,1,2,8,New Customers,Bhopal,Tier 2
+CUST00616,630,1,219.55,1,1,1,3,Lost,Patna,Tier 2
+CUST00617,323,4,6044.61,3,5,4,12,Potential Loyalists,Mumbai,Tier 1
+CUST00618,64,2,2625.27,5,3,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST00620,411,4,8695.85,2,5,5,12,At Risk (High Value),Ahmedabad,Tier 1
+CUST00621,338,2,2314.01,3,3,2,8,Potential Loyalists,Delhi,Tier 1
+CUST00622,357,1,332.38,2,1,1,4,Lost,Delhi,Tier 1
+CUST00623,655,1,267.78,1,1,1,3,Lost,Hyderabad,Tier 1
+CUST00624,719,1,659.88,1,1,1,3,Lost,Chennai,Tier 1
+CUST00625,562,1,355.69,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00626,620,1,1312.01,1,1,2,4,Lost,Hyderabad,Tier 1
+CUST00628,623,1,1281.07,1,1,1,3,Lost,Ahmedabad,Tier 1
+CUST00629,540,2,3423.89,1,3,3,7,Hibernating,Mumbai,Tier 1
+CUST00630,589,3,6129.37,1,4,4,9,At Risk (High Value),Delhi,Tier 1
+CUST00632,598,2,3292.08,1,3,3,7,Hibernating,Coimbatore,Tier 2
+CUST00633,237,3,5905.47,3,4,4,11,Potential Loyalists,Chennai,Tier 1
+CUST00634,659,1,1014.4,1,1,1,3,Lost,Chennai,Tier 1
+CUST00635,256,1,4677.97,3,1,4,8,Need Attention,Mumbai,Tier 1
+CUST00636,88,1,877.29,4,1,1,6,New Customers,Hyderabad,Tier 1
+CUST00637,533,2,1943.8400000000001,1,3,2,6,Hibernating,Chennai,Tier 1
+CUST00638,63,5,11128.48,5,5,5,15,Champions,Delhi,Tier 1
+CUST00639,472,1,3505.48,2,1,3,6,Hibernating,Bengaluru,Tier 1
+CUST00640,451,3,3722.12,2,4,3,9,Hibernating,Hyderabad,Tier 1
+CUST00642,19,8,10024.53,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST00643,146,1,3007.8,4,1,3,8,New Customers,Delhi,Tier 1
+CUST00644,282,1,3507.42,3,1,3,7,Need Attention,Bengaluru,Tier 1
+CUST00645,9,1,4110.78,5,1,3,9,New Customers,Mumbai,Tier 1
+CUST00646,79,3,1851.78,4,4,2,10,Loyal Customers,Coimbatore,Tier 2
+CUST00647,618,1,2382.64,1,1,2,4,Lost,Kolkata,Tier 1
+CUST00648,17,2,5867.69,5,3,4,12,Loyal Customers,Pune,Tier 1
+CUST00649,613,1,4548.57,1,1,4,6,Hibernating,Lucknow,Tier 2
+CUST00650,344,1,1836.49,2,1,2,5,Lost,Chennai,Tier 1
+CUST00651,393,1,362.13,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00652,353,2,1089.76,2,3,1,6,Hibernating,Chennai,Tier 1
+CUST00653,600,1,3116.72,1,1,3,5,Hibernating,Kolkata,Tier 1
+CUST00654,541,2,1963.2399999999998,1,3,2,6,Hibernating,Ahmedabad,Tier 1
+CUST00655,97,4,10280.07,4,5,5,14,Champions,Hyderabad,Tier 1
+CUST00656,407,7,15775.68,2,5,5,12,At Risk (High Value),Mumbai,Tier 1
+CUST00660,81,3,4711.04,4,4,4,12,Champions,Kolkata,Tier 1
+CUST00662,674,1,461.74,1,1,1,3,Lost,Amritsar,Tier 3
+CUST00663,359,1,2990.0,2,1,3,6,Hibernating,Kolkata,Tier 1
+CUST00664,54,3,2568.76,5,4,2,11,Loyal Customers,Delhi,Tier 1
+CUST00665,406,4,4939.54,2,5,4,11,At Risk (High Value),Mumbai,Tier 1
+CUST00667,537,1,1221.44,1,1,1,3,Lost,Delhi,Tier 1
+CUST00668,91,4,6784.53,4,5,5,14,Champions,Delhi,Tier 1
+CUST00669,149,1,5054.55,4,1,4,9,New Customers,Delhi,Tier 1
+CUST00670,171,3,3426.73,4,4,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST00671,204,3,2824.55,3,4,3,10,Potential Loyalists,Delhi,Tier 1
+CUST00672,348,2,4690.2300000000005,2,3,4,9,Hibernating,Coimbatore,Tier 2
+CUST00675,420,2,3139.66,2,3,3,8,Hibernating,Hyderabad,Tier 1
+CUST00676,479,4,6047.54,2,5,4,11,At Risk (High Value),Jodhpur,Tier 3
+CUST00677,217,7,16348.99,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST00678,644,1,3041.59,1,1,3,5,Hibernating,Hyderabad,Tier 1
+CUST00680,148,4,8231.23,4,5,5,14,Champions,Indore,Tier 2
+CUST00681,367,3,5680.84,2,4,4,10,At Risk (High Value),Surat,Tier 2
+CUST00682,117,4,12516.83,4,5,5,14,Champions,Bengaluru,Tier 1
+CUST00683,528,1,437.25,1,1,1,3,Lost,Delhi,Tier 1
+CUST00684,472,2,3904.94,2,3,3,8,Hibernating,Pune,Tier 1
+CUST00685,472,3,5404.17,2,4,4,10,At Risk (High Value),Vadodara,Tier 2
+CUST00686,280,3,3746.2799999999997,3,4,3,10,Potential Loyalists,Chennai,Tier 1
+CUST00687,527,1,530.68,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00689,184,1,891.92,4,1,1,6,New Customers,Jaipur,Tier 2
+CUST00690,698,1,2119.64,1,1,2,4,Lost,Delhi,Tier 1
+CUST00691,356,1,2582.84,2,1,2,5,Lost,Bengaluru,Tier 1
+CUST00692,194,3,5652.9,4,4,4,12,Champions,Hyderabad,Tier 1
+CUST00693,455,2,3610.5600000000004,2,3,3,8,Hibernating,Chennai,Tier 1
+CUST00694,11,4,10063.289999999999,5,5,5,15,Champions,Delhi,Tier 1
+CUST00696,306,4,4143.110000000001,3,5,3,11,Potential Loyalists,Kolkata,Tier 1
+CUST00697,229,4,4420.7699999999995,3,5,4,12,Potential Loyalists,Bengaluru,Tier 1
+CUST00698,676,1,621.36,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00700,544,2,2512.41,1,3,2,6,Hibernating,Chennai,Tier 1
+CUST00701,290,1,3238.49,3,1,3,7,Need Attention,Chennai,Tier 1
+CUST00702,111,4,11258.15,4,5,5,14,Champions,Mumbai,Tier 1
+CUST00703,2,3,4820.6900000000005,5,4,4,13,Champions,Bengaluru,Tier 1
+CUST00704,264,1,832.12,3,1,1,5,Need Attention,Delhi,Tier 1
+CUST00705,346,1,2726.88,2,1,3,6,Hibernating,Mumbai,Tier 1
+CUST00707,523,4,7107.41,1,5,5,11,At Risk (High Value),Bengaluru,Tier 1
+CUST00708,342,1,4585.96,2,1,4,7,Hibernating,Lucknow,Tier 2
+CUST00709,369,1,1029.93,2,1,1,4,Lost,Bengaluru,Tier 1
+CUST00710,568,3,3505.67,1,4,3,8,Hibernating,Pune,Tier 1
+CUST00711,404,4,5237.85,2,5,4,11,At Risk (High Value),Ahmedabad,Tier 1
+CUST00712,687,1,258.32,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00713,212,1,1998.08,3,1,2,6,Need Attention,Chennai,Tier 1
+CUST00714,639,1,2476.3,1,1,2,4,Lost,Hyderabad,Tier 1
+CUST00715,448,1,1533.9,2,1,2,5,Lost,Bengaluru,Tier 1
+CUST00716,59,2,958.44,5,3,1,9,Loyal Customers,Vadodara,Tier 2
+CUST00717,275,2,2292.79,3,3,2,8,Potential Loyalists,Surat,Tier 2
+CUST00718,562,1,2946.99,1,1,3,5,Hibernating,Ranchi,Tier 3
+CUST00720,380,1,1732.88,2,1,2,5,Lost,Ahmedabad,Tier 1
+CUST00722,365,1,445.21,2,1,1,4,Lost,Delhi,Tier 1
+CUST00723,412,1,186.35,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00725,308,4,12291.43,3,5,5,13,Potential Loyalists,Kolkata,Tier 1
+CUST00727,89,4,7971.83,4,5,5,14,Champions,Delhi,Tier 1
+CUST00729,224,7,13515.79,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST00730,528,3,4254.11,1,4,3,8,Hibernating,Delhi,Tier 1
+CUST00731,22,5,14915.47,5,5,5,15,Champions,Delhi,Tier 1
+CUST00732,96,5,6234.98,4,5,4,13,Champions,Surat,Tier 2
+CUST00733,167,5,10941.36,4,5,5,14,Champions,Pune,Tier 1
+CUST00734,637,3,5440.59,1,4,4,9,At Risk (High Value),Chennai,Tier 1
+CUST00735,360,1,2710.65,2,1,3,6,Hibernating,Bengaluru,Tier 1
+CUST00736,43,3,7731.380000000001,5,4,5,14,Champions,Bhopal,Tier 2
+CUST00737,27,2,3261.0,5,3,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST00738,44,3,5959.99,5,4,4,13,Champions,Surat,Tier 2
+CUST00739,462,2,3926.3199999999997,2,3,3,8,Hibernating,Hyderabad,Tier 1
+CUST00741,594,2,4779.35,1,3,4,8,Hibernating,Hyderabad,Tier 1
+CUST00742,77,3,2306.0600000000004,5,4,2,11,Loyal Customers,Bengaluru,Tier 1
+CUST00743,274,1,335.38,3,1,1,5,Need Attention,Ahmedabad,Tier 1
+CUST00744,523,1,4306.37,1,1,4,6,Hibernating,Chennai,Tier 1
+CUST00745,15,1,1571.26,5,1,2,8,New Customers,Delhi,Tier 1
+CUST00746,342,1,5103.49,2,1,4,7,Hibernating,Coimbatore,Tier 2
+CUST00747,241,7,12370.2,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST00748,278,3,4245.74,3,4,3,10,Potential Loyalists,Chennai,Tier 1
+CUST00749,238,5,11435.53,3,5,5,13,Potential Loyalists,Visakhapatnam,Tier 2
+CUST00750,357,2,4263.67,2,3,4,9,Hibernating,Kolkata,Tier 1
+CUST00751,345,3,6564.32,2,4,4,10,At Risk (High Value),Mumbai,Tier 1
+CUST00752,105,1,218.56,4,1,1,6,New Customers,Kanpur,Tier 2
+CUST00753,115,3,3457.2000000000003,4,4,3,11,Loyal Customers,Kolkata,Tier 1
+CUST00754,235,1,321.24,3,1,1,5,Need Attention,Bengaluru,Tier 1
+CUST00755,149,2,4693.89,4,3,4,11,Loyal Customers,Delhi,Tier 1
+CUST00756,505,3,5385.8,1,4,4,9,At Risk (High Value),Lucknow,Tier 2
+CUST00757,483,5,9087.32,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST00759,454,5,11578.130000000001,2,5,5,12,At Risk (High Value),Coimbatore,Tier 2
+CUST00760,395,2,1591.1100000000001,2,3,2,7,Hibernating,Lucknow,Tier 2
+CUST00761,95,2,3052.21,4,3,3,10,Loyal Customers,Delhi,Tier 1
+CUST00763,600,1,2222.69,1,1,2,4,Lost,Delhi,Tier 1
+CUST00764,159,3,4369.49,4,4,4,12,Champions,Ahmedabad,Tier 1
+CUST00766,441,3,4304.42,2,4,4,10,At Risk (High Value),Kolkata,Tier 1
+CUST00767,156,4,8333.78,4,5,5,14,Champions,Jaipur,Tier 2
+CUST00769,239,4,9051.71,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST00770,340,2,1150.0,2,3,1,6,Hibernating,Surat,Tier 2
+CUST00771,103,1,2808.53,4,1,3,8,New Customers,Mumbai,Tier 1
+CUST00772,481,1,2426.26,2,1,2,5,Lost,Nagpur,Tier 2
+CUST00775,700,1,2264.36,1,1,2,4,Lost,Lucknow,Tier 2
+CUST00776,471,1,2261.27,2,1,2,5,Lost,Delhi,Tier 1
+CUST00777,445,3,11579.67,2,4,5,11,At Risk (High Value),Delhi,Tier 1
+CUST00778,17,4,11989.8,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST00779,159,3,5257.25,4,4,4,12,Champions,Ahmedabad,Tier 1
+CUST00780,60,1,1636.72,5,1,2,8,New Customers,Pune,Tier 1
+CUST00781,455,1,2712.75,2,1,3,6,Hibernating,Pune,Tier 1
+CUST00782,573,2,2876.85,1,3,3,7,Hibernating,Chennai,Tier 1
+CUST00783,16,1,135.01,5,1,1,7,New Customers,Delhi,Tier 1
+CUST00784,699,1,3175.3,1,1,3,5,Hibernating,Bengaluru,Tier 1
+CUST00785,81,3,5625.04,4,4,4,12,Champions,Delhi,Tier 1
+CUST00786,331,2,4714.76,3,3,4,10,Potential Loyalists,Visakhapatnam,Tier 2
+CUST00787,327,2,2342.23,3,3,2,8,Potential Loyalists,Kolkata,Tier 1
+CUST00788,383,1,3267.02,2,1,3,6,Hibernating,Hyderabad,Tier 1
+CUST00789,560,5,7155.05,1,5,5,11,At Risk (High Value),Hyderabad,Tier 1
+CUST00790,20,3,6301.74,5,4,4,13,Champions,Kanpur,Tier 2
+CUST00791,502,2,6143.15,1,3,4,8,Hibernating,Delhi,Tier 1
+CUST00792,203,4,6453.01,3,5,4,12,Potential Loyalists,Kolkata,Tier 1
+CUST00793,201,1,291.03,3,1,1,5,Need Attention,Chennai,Tier 1
+CUST00795,346,2,2782.54,2,3,3,8,Hibernating,Mumbai,Tier 1
+CUST00796,607,2,6348.11,1,3,4,8,Hibernating,Indore,Tier 2
+CUST00797,123,2,1762.43,4,3,2,9,Loyal Customers,Vadodara,Tier 2
+CUST00798,258,2,3901.9,3,3,3,9,Potential Loyalists,Kolkata,Tier 1
+CUST00800,14,2,819.16,5,3,1,9,Loyal Customers,Patna,Tier 2
+CUST00801,444,2,4153.75,2,3,3,8,Hibernating,Pune,Tier 1
+CUST00802,443,2,4890.65,2,3,4,9,Hibernating,Delhi,Tier 1
+CUST00803,249,1,778.95,3,1,1,5,Need Attention,Kolkata,Tier 1
+CUST00804,147,2,3370.23,4,3,3,10,Loyal Customers,Kolkata,Tier 1
+CUST00805,178,4,8303.09,4,5,5,14,Champions,Hyderabad,Tier 1
+CUST00806,56,6,10809.25,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST00807,253,4,7727.47,3,5,5,13,Potential Loyalists,Vadodara,Tier 2
+CUST00808,249,3,2980.0699999999997,3,4,3,10,Potential Loyalists,Patna,Tier 2
+CUST00809,330,1,2769.72,3,1,3,7,Need Attention,Hyderabad,Tier 1
+CUST00810,35,3,12413.439999999999,5,4,5,14,Champions,Mumbai,Tier 1
+CUST00811,23,1,3365.5,5,1,3,9,New Customers,Amritsar,Tier 3
+CUST00812,225,3,4762.6,3,4,4,11,Potential Loyalists,Nagpur,Tier 2
+CUST00813,344,1,1310.62,2,1,2,5,Lost,Mumbai,Tier 1
+CUST00814,399,2,7346.41,2,3,5,10,Hibernating,Patna,Tier 2
+CUST00815,396,1,704.24,2,1,1,4,Lost,Indore,Tier 2
+CUST00817,404,1,1060.65,2,1,1,4,Lost,Kolkata,Tier 1
+CUST00818,187,1,4528.29,4,1,4,9,New Customers,Hyderabad,Tier 1
+CUST00819,151,3,3770.06,4,4,3,11,Loyal Customers,Mumbai,Tier 1
+CUST00820,629,2,2705.69,1,3,3,7,Hibernating,Bengaluru,Tier 1
+CUST00821,549,3,12268.119999999999,1,4,5,10,At Risk (High Value),Lucknow,Tier 2
+CUST00822,42,1,595.44,5,1,1,7,New Customers,Mumbai,Tier 1
+CUST00824,661,1,5017.96,1,1,4,6,Hibernating,Hyderabad,Tier 1
+CUST00825,593,1,3189.25,1,1,3,5,Hibernating,Chennai,Tier 1
+CUST00826,237,3,6845.550000000001,3,4,5,12,Potential Loyalists,Patna,Tier 2
+CUST00828,551,2,5970.73,1,3,4,8,Hibernating,Bengaluru,Tier 1
+CUST00829,590,1,349.39,1,1,1,3,Lost,Ahmedabad,Tier 1
+CUST00830,515,1,1979.76,1,1,2,4,Lost,Hyderabad,Tier 1
+CUST00831,448,2,4618.46,2,3,4,9,Hibernating,Delhi,Tier 1
+CUST00832,626,3,7147.8099999999995,1,4,5,10,At Risk (High Value),Hyderabad,Tier 1
+CUST00834,593,1,1987.93,1,1,2,4,Lost,Delhi,Tier 1
+CUST00835,148,1,2319.3,4,1,2,7,New Customers,Chennai,Tier 1
+CUST00836,204,1,296.47,3,1,1,5,Need Attention,Hyderabad,Tier 1
+CUST00837,620,1,1230.13,1,1,1,3,Lost,Visakhapatnam,Tier 2
+CUST00838,23,1,867.98,5,1,1,7,New Customers,Bengaluru,Tier 1
+CUST00839,643,2,2450.08,1,3,2,6,Hibernating,Kolkata,Tier 1
+CUST00840,349,2,1490.56,2,3,2,7,Hibernating,Kolkata,Tier 1
+CUST00841,369,2,5037.54,2,3,4,9,Hibernating,Mumbai,Tier 1
+CUST00843,10,2,1370.15,5,3,2,10,Loyal Customers,Delhi,Tier 1
+CUST00844,454,3,2631.54,2,4,3,9,Hibernating,Guwahati,Tier 3
+CUST00845,32,3,7494.0,5,4,5,14,Champions,Delhi,Tier 1
+CUST00846,341,1,3382.27,2,1,3,6,Hibernating,Hyderabad,Tier 1
+CUST00847,163,1,1146.1,4,1,1,6,New Customers,Mumbai,Tier 1
+CUST00848,641,1,760.78,1,1,1,3,Lost,Dehradun,Tier 3
+CUST00849,52,2,4105.82,5,3,3,11,Loyal Customers,Chennai,Tier 1
+CUST00850,52,4,8415.24,5,5,5,15,Champions,Kolkata,Tier 1
+CUST00851,145,3,7036.08,4,4,5,13,Champions,Mumbai,Tier 1
+CUST00853,206,2,5614.29,3,3,4,10,Potential Loyalists,Delhi,Tier 1
+CUST00855,170,2,1389.8899999999999,4,3,2,9,Loyal Customers,Delhi,Tier 1
+CUST00856,586,1,1052.03,1,1,1,3,Lost,Delhi,Tier 1
+CUST00858,160,1,3257.22,4,1,3,8,New Customers,Chennai,Tier 1
+CUST00859,258,2,3062.52,3,3,3,9,Potential Loyalists,Kolkata,Tier 1
+CUST00860,29,1,1797.64,5,1,2,8,New Customers,Mumbai,Tier 1
+CUST00861,517,1,720.62,1,1,1,3,Lost,Jaipur,Tier 2
+CUST00862,408,2,5426.77,2,3,4,9,Hibernating,Hyderabad,Tier 1
+CUST00863,73,1,2865.17,5,1,3,9,New Customers,Chennai,Tier 1
+CUST00865,28,4,5024.75,5,5,4,14,Champions,Hyderabad,Tier 1
+CUST00866,310,1,522.59,3,1,1,5,Need Attention,Kolkata,Tier 1
+CUST00867,521,1,1874.28,1,1,2,4,Lost,Delhi,Tier 1
+CUST00868,435,2,10235.24,2,3,5,10,Hibernating,Delhi,Tier 1
+CUST00869,201,1,375.44,3,1,1,5,Need Attention,Indore,Tier 2
+CUST00870,518,2,3491.85,1,3,3,7,Hibernating,Kanpur,Tier 2
+CUST00872,175,1,425.75,4,1,1,6,New Customers,Bengaluru,Tier 1
+CUST00873,177,2,7425.530000000001,4,3,5,12,Loyal Customers,Pune,Tier 1
+CUST00874,205,3,5193.53,3,4,4,11,Potential Loyalists,Hyderabad,Tier 1
+CUST00875,181,5,16301.56,4,5,5,14,Champions,Mumbai,Tier 1
+CUST00876,293,3,5507.63,3,4,4,11,Potential Loyalists,Delhi,Tier 1
+CUST00877,193,3,3019.77,4,4,3,11,Loyal Customers,Ahmedabad,Tier 1
+CUST00878,152,1,936.55,4,1,1,6,New Customers,Pune,Tier 1
+CUST00879,82,2,4396.07,4,3,4,11,Loyal Customers,Mumbai,Tier 1
+CUST00880,103,4,9280.35,4,5,5,14,Champions,Delhi,Tier 1
+CUST00882,274,1,951.26,3,1,1,5,Need Attention,Pune,Tier 1
+CUST00883,329,3,11664.519999999999,3,4,5,12,Potential Loyalists,Mumbai,Tier 1
+CUST00884,328,5,11770.98,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST00885,409,2,3875.7,2,3,3,8,Hibernating,Lucknow,Tier 2
+CUST00886,602,1,1507.43,1,1,2,4,Lost,Delhi,Tier 1
+CUST00887,477,1,2396.32,2,1,2,5,Lost,Pune,Tier 1
+CUST00888,278,2,1532.39,3,3,2,8,Potential Loyalists,Delhi,Tier 1
+CUST00889,446,5,9113.15,2,5,5,12,At Risk (High Value),Mumbai,Tier 1
+CUST00890,463,1,2072.38,2,1,2,5,Lost,Delhi,Tier 1
+CUST00891,88,1,594.42,4,1,1,6,New Customers,Ahmedabad,Tier 1
+CUST00892,272,5,9613.05,3,5,5,13,Potential Loyalists,Indore,Tier 2
+CUST00893,542,2,3772.59,1,3,3,7,Hibernating,Surat,Tier 2
+CUST00894,42,3,6508.200000000001,5,4,4,13,Champions,Hyderabad,Tier 1
+CUST00895,301,1,3008.93,3,1,3,7,Need Attention,Pune,Tier 1
+CUST00896,616,1,766.56,1,1,1,3,Lost,Delhi,Tier 1
+CUST00897,88,1,1363.17,4,1,2,7,New Customers,Bengaluru,Tier 1
+CUST00899,376,2,6055.22,2,3,4,9,Hibernating,Mumbai,Tier 1
+CUST00900,30,4,6168.209999999999,5,5,4,14,Champions,Mumbai,Tier 1
+CUST00902,50,5,8090.2,5,5,5,15,Champions,Mumbai,Tier 1
+CUST00903,536,3,6227.32,1,4,4,9,At Risk (High Value),Delhi,Tier 1
+CUST00904,34,1,274.62,5,1,1,7,New Customers,Kolkata,Tier 1
+CUST00906,421,1,2389.42,2,1,2,5,Lost,Coimbatore,Tier 2
+CUST00907,232,2,1131.17,3,3,1,7,Potential Loyalists,Surat,Tier 2
+CUST00908,381,1,738.54,2,1,1,4,Lost,Bengaluru,Tier 1
+CUST00909,117,1,2222.57,4,1,2,7,New Customers,Bengaluru,Tier 1
+CUST00910,9,1,694.94,5,1,1,7,New Customers,Hyderabad,Tier 1
+CUST00911,481,3,4797.67,2,4,4,10,At Risk (High Value),Kolkata,Tier 1
+CUST00912,581,4,5588.7699999999995,1,5,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST00913,443,4,4495.78,2,5,4,11,At Risk (High Value),Kolkata,Tier 1
+CUST00915,275,1,1122.67,3,1,1,5,Need Attention,Chennai,Tier 1
+CUST00916,531,2,6557.209999999999,1,3,4,8,Hibernating,Hyderabad,Tier 1
+CUST00918,651,1,1238.93,1,1,1,3,Lost,Kanpur,Tier 2
+CUST00919,56,1,2737.53,5,1,3,9,New Customers,Jaipur,Tier 2
+CUST00920,223,3,5218.39,3,4,4,11,Potential Loyalists,Delhi,Tier 1
+CUST00921,88,3,5576.24,4,4,4,12,Champions,Indore,Tier 2
+CUST00923,287,2,10406.04,3,3,5,11,Potential Loyalists,Coimbatore,Tier 2
+CUST00924,672,3,4600.35,1,4,4,9,At Risk (High Value),Lucknow,Tier 2
+CUST00925,394,3,3043.92,2,4,3,9,Hibernating,Hyderabad,Tier 1
+CUST00926,187,2,3091.01,4,3,3,10,Loyal Customers,Mumbai,Tier 1
+CUST00927,395,3,8184.66,2,4,5,11,At Risk (High Value),Bengaluru,Tier 1
+CUST00928,546,1,3830.6,1,1,3,5,Hibernating,Chennai,Tier 1
+CUST00929,61,1,318.55,5,1,1,7,New Customers,Kolkata,Tier 1
+CUST00930,343,3,4874.93,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST00931,316,2,4555.45,3,3,4,10,Potential Loyalists,Delhi,Tier 1
+CUST00932,247,4,7620.61,3,5,5,13,Potential Loyalists,Nagpur,Tier 2
+CUST00933,225,1,1423.0,3,1,2,6,Need Attention,Jodhpur,Tier 3
+CUST00934,123,1,1052.98,4,1,1,6,New Customers,Chennai,Tier 1
+CUST00935,316,4,12757.630000000001,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST00936,32,3,11887.3,5,4,5,14,Champions,Bengaluru,Tier 1
+CUST00937,17,1,1532.6,5,1,2,8,New Customers,Mumbai,Tier 1
+CUST00938,222,4,7547.46,3,5,5,13,Potential Loyalists,Visakhapatnam,Tier 2
+CUST00939,364,2,2459.2,2,3,2,7,Hibernating,Mumbai,Tier 1
+CUST00940,2,1,1712.56,5,1,2,8,New Customers,Kolkata,Tier 1
+CUST00941,516,6,13546.68,1,5,5,11,At Risk (High Value),Bengaluru,Tier 1
+CUST00942,246,2,2444.77,3,3,2,8,Potential Loyalists,Chennai,Tier 1
+CUST00943,241,3,6590.9800000000005,3,4,4,11,Potential Loyalists,Pune,Tier 1
+CUST00945,182,2,6283.68,4,3,4,11,Loyal Customers,Delhi,Tier 1
+CUST00946,136,2,1398.5500000000002,4,3,2,9,Loyal Customers,Mumbai,Tier 1
+CUST00947,199,1,4718.5,4,1,4,9,New Customers,Delhi,Tier 1
+CUST00948,89,1,1446.84,4,1,2,7,New Customers,Coimbatore,Tier 2
+CUST00950,439,1,2033.67,2,1,2,5,Lost,Kolkata,Tier 1
+CUST00952,656,2,3098.9,1,3,3,7,Hibernating,Pune,Tier 1
+CUST00953,55,1,4613.82,5,1,4,10,New Customers,Delhi,Tier 1
+CUST00954,95,3,5754.32,4,4,4,12,Champions,Visakhapatnam,Tier 2
+CUST00955,128,1,1816.62,4,1,2,7,New Customers,Hyderabad,Tier 1
+CUST00956,326,1,1633.42,3,1,2,6,Need Attention,Hyderabad,Tier 1
+CUST00957,200,2,6299.0599999999995,3,3,4,10,Potential Loyalists,Chennai,Tier 1
+CUST00958,276,1,1942.06,3,1,2,6,Need Attention,Mumbai,Tier 1
+CUST00959,20,2,5949.2,5,3,4,12,Loyal Customers,Delhi,Tier 1
+CUST00960,460,4,10522.88,2,5,5,12,At Risk (High Value),Ahmedabad,Tier 1
+CUST00961,224,5,10771.52,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST00962,513,1,871.22,1,1,1,3,Lost,Kolkata,Tier 1
+CUST00963,381,4,8683.71,2,5,5,12,At Risk (High Value),Delhi,Tier 1
+CUST00965,347,3,6708.39,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST00966,196,3,3342.76,4,4,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST00967,422,2,1662.35,2,3,2,7,Hibernating,Ahmedabad,Tier 1
+CUST00968,470,1,7528.29,2,1,5,8,Hibernating,Bengaluru,Tier 1
+CUST00969,73,1,251.27,5,1,1,7,New Customers,Kolkata,Tier 1
+CUST00970,196,3,6456.990000000001,4,4,4,12,Champions,Chennai,Tier 1
+CUST00972,133,2,1777.16,4,3,2,9,Loyal Customers,Vadodara,Tier 2
+CUST00973,628,1,2362.96,1,1,2,4,Lost,Ahmedabad,Tier 1
+CUST00974,575,3,5325.54,1,4,4,9,At Risk (High Value),Delhi,Tier 1
+CUST00976,149,4,8785.94,4,5,5,14,Champions,Bengaluru,Tier 1
+CUST00977,351,4,7448.83,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST00978,79,1,1504.84,4,1,2,7,New Customers,Mumbai,Tier 1
+CUST00980,21,2,2428.96,5,3,2,10,Loyal Customers,Kolkata,Tier 1
+CUST00981,674,2,918.13,1,3,1,5,Hibernating,Bengaluru,Tier 1
+CUST00983,305,1,658.77,3,1,1,5,Need Attention,Mumbai,Tier 1
+CUST00984,461,1,1291.61,2,1,1,4,Lost,Mumbai,Tier 1
+CUST00985,49,1,2751.61,5,1,3,9,New Customers,Ahmedabad,Tier 1
+CUST00986,9,3,3869.8500000000004,5,4,3,12,Loyal Customers,Chennai,Tier 1
+CUST00987,139,1,214.4,4,1,1,6,New Customers,Pune,Tier 1
+CUST00988,38,2,3325.3500000000004,5,3,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST00990,13,4,5366.58,5,5,4,14,Champions,Surat,Tier 2
+CUST00992,28,6,7354.37,5,5,5,15,Champions,Pune,Tier 1
+CUST00993,14,6,12773.17,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST00994,591,2,5404.06,1,3,4,8,Hibernating,Kolkata,Tier 1
+CUST00995,32,4,6582.879999999999,5,5,4,14,Champions,Bengaluru,Tier 1
+CUST00996,64,5,11529.17,5,5,5,15,Champions,Mumbai,Tier 1
+CUST00997,461,1,578.35,2,1,1,4,Lost,Visakhapatnam,Tier 2
+CUST00998,47,3,3676.94,5,4,3,12,Loyal Customers,Delhi,Tier 1
+CUST01000,529,3,2295.57,1,4,2,7,Hibernating,Hyderabad,Tier 1
+CUST01002,197,1,1889.4,4,1,2,7,New Customers,Chennai,Tier 1
+CUST01003,184,5,8738.4,4,5,5,14,Champions,Indore,Tier 2
+CUST01005,84,3,6912.33,4,4,5,13,Champions,Lucknow,Tier 2
+CUST01006,108,4,16045.48,4,5,5,14,Champions,Pune,Tier 1
+CUST01007,110,3,8755.85,4,4,5,13,Champions,Pune,Tier 1
+CUST01008,32,8,14774.45,5,5,5,15,Champions,Nagpur,Tier 2
+CUST01011,329,2,2947.9300000000003,3,3,3,9,Potential Loyalists,Delhi,Tier 1
+CUST01012,309,1,780.05,3,1,1,5,Need Attention,Amritsar,Tier 3
+CUST01013,375,1,407.09,2,1,1,4,Lost,Kanpur,Tier 2
+CUST01014,138,2,702.71,4,3,1,8,Loyal Customers,Mumbai,Tier 1
+CUST01015,375,4,2384.48,2,5,2,9,Hibernating,Pune,Tier 1
+CUST01016,88,2,7004.14,4,3,5,12,Loyal Customers,Patna,Tier 2
+CUST01017,478,2,6028.18,2,3,4,9,Hibernating,Delhi,Tier 1
+CUST01018,325,2,3815.69,3,3,3,9,Potential Loyalists,Kolkata,Tier 1
+CUST01019,24,1,1803.97,5,1,2,8,New Customers,Visakhapatnam,Tier 2
+CUST01020,177,1,393.78,4,1,1,6,New Customers,Mumbai,Tier 1
+CUST01021,251,3,5203.96,3,4,4,11,Potential Loyalists,Pune,Tier 1
+CUST01022,94,3,5199.53,4,4,4,12,Champions,Bengaluru,Tier 1
+CUST01023,385,3,4936.48,2,4,4,10,At Risk (High Value),Patna,Tier 2
+CUST01024,680,1,1959.8,1,1,2,4,Lost,Raipur,Tier 3
+CUST01025,150,2,4363.6,4,3,4,11,Loyal Customers,Kanpur,Tier 2
+CUST01027,338,1,1610.52,3,1,2,6,Need Attention,Indore,Tier 2
+CUST01028,435,2,6290.91,2,3,4,9,Hibernating,Nagpur,Tier 2
+CUST01029,258,4,14096.36,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST01030,462,3,6493.360000000001,2,4,4,10,At Risk (High Value),Surat,Tier 2
+CUST01031,412,2,5479.83,2,3,4,9,Hibernating,Mumbai,Tier 1
+CUST01032,77,1,2431.07,5,1,2,8,New Customers,Kolkata,Tier 1
+CUST01033,104,1,2670.98,4,1,3,8,New Customers,Delhi,Tier 1
+CUST01034,547,1,6105.01,1,1,4,6,Hibernating,Mumbai,Tier 1
+CUST01035,135,4,8956.46,4,5,5,14,Champions,Mumbai,Tier 1
+CUST01036,401,2,3791.86,2,3,3,8,Hibernating,Pune,Tier 1
+CUST01037,493,1,641.7,1,1,1,3,Lost,Bengaluru,Tier 1
+CUST01039,146,5,16215.11,4,5,5,14,Champions,Mumbai,Tier 1
+CUST01040,80,7,7891.91,4,5,5,14,Champions,Bengaluru,Tier 1
+CUST01041,97,1,1150.76,4,1,1,6,New Customers,Chennai,Tier 1
+CUST01042,323,3,13473.2,3,4,5,12,Potential Loyalists,Lucknow,Tier 2
+CUST01043,320,1,2462.65,3,1,2,6,Need Attention,Bengaluru,Tier 1
+CUST01044,13,7,13137.38,5,5,5,15,Champions,Kolkata,Tier 1
+CUST01045,51,2,2556.2599999999998,5,3,2,10,Loyal Customers,Bhopal,Tier 2
+CUST01046,317,2,10323.900000000001,3,3,5,11,Potential Loyalists,Kolkata,Tier 1
+CUST01047,361,3,7257.88,2,4,5,11,At Risk (High Value),Delhi,Tier 1
+CUST01048,243,1,3486.05,3,1,3,7,Need Attention,Mumbai,Tier 1
+CUST01049,303,1,1950.54,3,1,2,6,Need Attention,Indore,Tier 2
+CUST01050,591,1,2835.54,1,1,3,5,Hibernating,Mumbai,Tier 1
+CUST01051,569,2,2907.0,1,3,3,7,Hibernating,Bhopal,Tier 2
+CUST01052,642,3,2714.87,1,4,3,8,Hibernating,Chennai,Tier 1
+CUST01053,53,1,1322.4,5,1,2,8,New Customers,Vadodara,Tier 2
+CUST01054,470,1,1596.4,2,1,2,5,Lost,Lucknow,Tier 2
+CUST01055,292,3,5210.66,3,4,4,11,Potential Loyalists,Dehradun,Tier 3
+CUST01056,28,1,435.93,5,1,1,7,New Customers,Bengaluru,Tier 1
+CUST01057,129,3,4882.72,4,4,4,12,Champions,Jaipur,Tier 2
+CUST01058,419,3,1971.09,2,4,2,8,Hibernating,Hyderabad,Tier 1
+CUST01059,72,2,12000.76,5,3,5,13,Loyal Customers,Chennai,Tier 1
+CUST01060,31,2,3650.0099999999998,5,3,3,11,Loyal Customers,Kolkata,Tier 1
+CUST01061,314,1,1256.68,3,1,1,5,Need Attention,Bhopal,Tier 2
+CUST01063,215,2,4658.67,3,3,4,10,Potential Loyalists,Jaipur,Tier 2
+CUST01064,335,2,5554.2,3,3,4,10,Potential Loyalists,Hyderabad,Tier 1
+CUST01065,471,1,2491.36,2,1,2,5,Lost,Hyderabad,Tier 1
+CUST01066,16,3,4298.08,5,4,4,13,Champions,Ahmedabad,Tier 1
+CUST01067,57,1,965.79,5,1,1,7,New Customers,Delhi,Tier 1
+CUST01068,525,3,4503.2699999999995,1,4,4,9,At Risk (High Value),Mumbai,Tier 1
+CUST01069,277,3,8749.16,3,4,5,12,Potential Loyalists,Bengaluru,Tier 1
+CUST01070,651,1,2616.17,1,1,3,5,Hibernating,Bengaluru,Tier 1
+CUST01071,75,1,1722.45,5,1,2,8,New Customers,Bengaluru,Tier 1
+CUST01072,25,1,1764.84,5,1,2,8,New Customers,Delhi,Tier 1
+CUST01073,622,2,1876.71,1,3,2,6,Hibernating,Mumbai,Tier 1
+CUST01074,408,1,175.99,2,1,1,4,Lost,Mumbai,Tier 1
+CUST01075,287,4,3738.41,3,5,3,11,Potential Loyalists,Amritsar,Tier 3
+CUST01076,477,1,981.16,2,1,1,4,Lost,Hyderabad,Tier 1
+CUST01077,70,4,9997.630000000001,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01078,522,3,10534.369999999999,1,4,5,10,At Risk (High Value),Pune,Tier 1
+CUST01079,133,2,3182.49,4,3,3,10,Loyal Customers,Delhi,Tier 1
+CUST01080,300,1,1220.52,3,1,1,5,Need Attention,Nashik,Tier 2
+CUST01082,596,2,2519.7699999999995,1,3,2,6,Hibernating,Mumbai,Tier 1
+CUST01084,103,2,3800.88,4,3,3,10,Loyal Customers,Bhopal,Tier 2
+CUST01085,12,3,5994.83,5,4,4,13,Champions,Kanpur,Tier 2
+CUST01086,33,1,1297.69,5,1,1,7,New Customers,Chennai,Tier 1
+CUST01087,370,2,1074.27,2,3,1,6,Hibernating,Kolkata,Tier 1
+CUST01088,597,1,3080.51,1,1,3,5,Hibernating,Delhi,Tier 1
+CUST01089,108,1,576.67,4,1,1,6,New Customers,Varanasi,Tier 3
+CUST01090,430,2,8478.689999999999,2,3,5,10,Hibernating,Delhi,Tier 1
+CUST01091,363,1,2432.74,2,1,2,5,Lost,Kanpur,Tier 2
+CUST01092,11,1,1015.46,5,1,1,7,New Customers,Pune,Tier 1
+CUST01093,123,4,11866.08,4,5,5,14,Champions,Kolkata,Tier 1
+CUST01094,277,7,21082.5,3,5,5,13,Potential Loyalists,Chennai,Tier 1
+CUST01095,583,3,3680.7200000000003,1,4,3,8,Hibernating,Delhi,Tier 1
+CUST01096,135,1,2061.51,4,1,2,7,New Customers,Delhi,Tier 1
+CUST01097,90,3,6779.1900000000005,4,4,5,13,Champions,Delhi,Tier 1
+CUST01098,32,1,668.14,5,1,1,7,New Customers,Delhi,Tier 1
+CUST01099,549,1,336.06,1,1,1,3,Lost,Jaipur,Tier 2
+CUST01100,295,3,3768.56,3,4,3,10,Potential Loyalists,Bengaluru,Tier 1
+CUST01101,438,2,2543.8599999999997,2,3,2,7,Hibernating,Mumbai,Tier 1
+CUST01102,239,3,4829.65,3,4,4,11,Potential Loyalists,Ranchi,Tier 3
+CUST01104,349,1,2771.02,2,1,3,6,Hibernating,Patna,Tier 2
+CUST01105,15,4,9643.82,5,5,5,15,Champions,Varanasi,Tier 3
+CUST01106,456,3,5271.42,2,4,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01107,27,6,22057.4,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01108,39,1,402.39,5,1,1,7,New Customers,Ahmedabad,Tier 1
+CUST01109,289,6,11855.92,3,5,5,13,Potential Loyalists,Pune,Tier 1
+CUST01113,460,3,7070.34,2,4,5,11,At Risk (High Value),Delhi,Tier 1
+CUST01114,29,2,3024.3999999999996,5,3,3,11,Loyal Customers,Chennai,Tier 1
+CUST01116,54,6,12877.73,5,5,5,15,Champions,Kolkata,Tier 1
+CUST01117,595,1,2039.56,1,1,2,4,Lost,Mumbai,Tier 1
+CUST01118,136,2,4869.52,4,3,4,11,Loyal Customers,Bhopal,Tier 2
+CUST01119,248,1,1322.97,3,1,2,6,Need Attention,Bengaluru,Tier 1
+CUST01120,348,1,1696.16,2,1,2,5,Lost,Mumbai,Tier 1
+CUST01121,485,1,815.08,2,1,1,4,Lost,Coimbatore,Tier 2
+CUST01122,380,1,3914.81,2,1,3,6,Hibernating,Nashik,Tier 2
+CUST01125,487,1,3593.34,2,1,3,6,Hibernating,Pune,Tier 1
+CUST01126,153,1,909.9,4,1,1,6,New Customers,Chennai,Tier 1
+CUST01127,28,4,2300.69,5,5,2,12,Loyal Customers,Mumbai,Tier 1
+CUST01128,175,2,1437.53,4,3,2,9,Loyal Customers,Hyderabad,Tier 1
+CUST01129,106,4,10163.21,4,5,5,14,Champions,Hyderabad,Tier 1
+CUST01132,231,3,4424.85,3,4,4,11,Potential Loyalists,Chennai,Tier 1
+CUST01133,236,2,5194.41,3,3,4,10,Potential Loyalists,Mumbai,Tier 1
+CUST01134,652,1,6069.82,1,1,4,6,Hibernating,Delhi,Tier 1
+CUST01135,178,1,776.96,4,1,1,6,New Customers,Pune,Tier 1
+CUST01138,172,2,1827.93,4,3,2,9,Loyal Customers,Chennai,Tier 1
+CUST01139,224,3,9182.67,3,4,5,12,Potential Loyalists,Chennai,Tier 1
+CUST01142,378,3,8890.82,2,4,5,11,At Risk (High Value),Bengaluru,Tier 1
+CUST01144,158,2,2087.0699999999997,4,3,2,9,Loyal Customers,Kolkata,Tier 1
+CUST01145,203,3,1378.18,3,4,2,9,Potential Loyalists,Bengaluru,Tier 1
+CUST01146,284,1,164.05,3,1,1,5,Need Attention,Bhopal,Tier 2
+CUST01147,351,1,1499.76,2,1,2,5,Lost,Lucknow,Tier 2
+CUST01148,147,3,9563.92,4,4,5,13,Champions,Pune,Tier 1
+CUST01151,46,2,3218.52,5,3,3,11,Loyal Customers,Pune,Tier 1
+CUST01152,609,1,1744.39,1,1,2,4,Lost,Nagpur,Tier 2
+CUST01153,282,1,4909.23,3,1,4,8,Need Attention,Pune,Tier 1
+CUST01154,115,3,4414.389999999999,4,4,4,12,Champions,Pune,Tier 1
+CUST01156,596,3,6787.3,1,4,5,10,At Risk (High Value),Ahmedabad,Tier 1
+CUST01157,474,1,2799.26,2,1,3,6,Hibernating,Delhi,Tier 1
+CUST01158,2,3,8137.469999999999,5,4,5,14,Champions,Bhopal,Tier 2
+CUST01160,393,2,2033.48,2,3,2,7,Hibernating,Mumbai,Tier 1
+CUST01162,37,3,9960.97,5,4,5,14,Champions,Mumbai,Tier 1
+CUST01164,179,1,3752.18,4,1,3,8,New Customers,Ahmedabad,Tier 1
+CUST01165,527,2,2122.37,1,3,2,6,Hibernating,Delhi,Tier 1
+CUST01166,25,2,7169.530000000001,5,3,5,13,Loyal Customers,Surat,Tier 2
+CUST01167,636,2,6263.71,1,3,4,8,Hibernating,Surat,Tier 2
+CUST01168,98,1,1534.87,4,1,2,7,New Customers,Chennai,Tier 1
+CUST01169,233,3,3503.34,3,4,3,10,Potential Loyalists,Mumbai,Tier 1
+CUST01170,7,6,19321.68,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST01171,141,1,2247.25,4,1,2,7,New Customers,Kolkata,Tier 1
+CUST01172,318,3,2853.26,3,4,3,10,Potential Loyalists,Jodhpur,Tier 3
+CUST01173,31,2,5102.25,5,3,4,12,Loyal Customers,Kolkata,Tier 1
+CUST01174,78,4,6249.16,4,5,4,13,Champions,Bengaluru,Tier 1
+CUST01175,393,6,10312.74,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST01176,552,1,2202.21,1,1,2,4,Lost,Chennai,Tier 1
+CUST01179,218,4,6403.0599999999995,3,5,4,12,Potential Loyalists,Ahmedabad,Tier 1
+CUST01180,384,3,4967.6900000000005,2,4,4,10,At Risk (High Value),Chennai,Tier 1
+CUST01181,280,2,1334.44,3,3,2,8,Potential Loyalists,Guwahati,Tier 3
+CUST01182,362,3,4698.86,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST01183,206,2,1483.01,3,3,2,8,Potential Loyalists,Kolkata,Tier 1
+CUST01184,186,4,5764.35,4,5,4,13,Champions,Vadodara,Tier 2
+CUST01185,407,1,302.81,2,1,1,4,Lost,Mumbai,Tier 1
+CUST01186,636,2,4202.56,1,3,3,7,Hibernating,Vadodara,Tier 2
+CUST01187,271,2,1507.51,3,3,2,8,Potential Loyalists,Pune,Tier 1
+CUST01188,602,2,3462.0600000000004,1,3,3,7,Hibernating,Mumbai,Tier 1
+CUST01189,84,1,745.87,4,1,1,6,New Customers,Bengaluru,Tier 1
+CUST01190,200,1,605.03,3,1,1,5,Need Attention,Pune,Tier 1
+CUST01191,124,1,1411.58,4,1,2,7,New Customers,Mumbai,Tier 1
+CUST01192,199,1,2739.28,4,1,3,8,New Customers,Kolkata,Tier 1
+CUST01193,203,3,6048.66,3,4,4,11,Potential Loyalists,Bengaluru,Tier 1
+CUST01194,488,1,2599.78,2,1,3,6,Hibernating,Kolkata,Tier 1
+CUST01195,133,1,1820.07,4,1,2,7,New Customers,Mumbai,Tier 1
+CUST01196,116,3,5790.12,4,4,4,12,Champions,Indore,Tier 2
+CUST01197,580,1,700.93,1,1,1,3,Lost,Raipur,Tier 3
+CUST01198,619,3,10257.28,1,4,5,10,At Risk (High Value),Ranchi,Tier 3
+CUST01199,244,1,1346.44,3,1,2,6,Need Attention,Ahmedabad,Tier 1
+CUST01200,490,2,2516.72,1,3,2,6,Hibernating,Mumbai,Tier 1
+CUST01202,531,2,6879.900000000001,1,3,5,9,Hibernating,Mumbai,Tier 1
+CUST01203,384,1,821.51,2,1,1,4,Lost,Mumbai,Tier 1
+CUST01204,534,1,1037.29,1,1,1,3,Lost,Bengaluru,Tier 1
+CUST01206,495,1,687.47,1,1,1,3,Lost,Jaipur,Tier 2
+CUST01207,219,1,1741.6,3,1,2,6,Need Attention,Pune,Tier 1
+CUST01208,456,2,7323.02,2,3,5,10,Hibernating,Hyderabad,Tier 1
+CUST01209,109,4,6618.27,4,5,4,13,Champions,Bengaluru,Tier 1
+CUST01210,49,4,5092.42,5,5,4,14,Champions,Dehradun,Tier 3
+CUST01211,416,3,4391.86,2,4,4,10,At Risk (High Value),Hyderabad,Tier 1
+CUST01212,687,1,656.1,1,1,1,3,Lost,Hyderabad,Tier 1
+CUST01213,638,2,3488.3399999999997,1,3,3,7,Hibernating,Delhi,Tier 1
+CUST01214,8,2,2209.31,5,3,2,10,Loyal Customers,Lucknow,Tier 2
+CUST01215,324,2,2763.74,3,3,3,9,Potential Loyalists,Pune,Tier 1
+CUST01217,613,1,1033.9,1,1,1,3,Lost,Mumbai,Tier 1
+CUST01218,150,4,5988.28,4,5,4,13,Champions,Pune,Tier 1
+CUST01219,360,3,11203.94,2,4,5,11,At Risk (High Value),Pune,Tier 1
+CUST01221,279,2,3708.51,3,3,3,9,Potential Loyalists,Nashik,Tier 2
+CUST01222,125,1,4490.24,4,1,4,9,New Customers,Delhi,Tier 1
+CUST01223,118,1,2240.0,4,1,2,7,New Customers,Hyderabad,Tier 1
+CUST01224,9,3,2737.86,5,4,3,12,Loyal Customers,Kanpur,Tier 2
+CUST01225,605,1,1310.75,1,1,2,4,Lost,Hyderabad,Tier 1
+CUST01226,84,1,2023.14,4,1,2,7,New Customers,Kolkata,Tier 1
+CUST01227,369,1,1775.81,2,1,2,5,Lost,Hyderabad,Tier 1
+CUST01228,202,4,12758.83,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST01229,8,5,8543.2,5,5,5,15,Champions,Jodhpur,Tier 3
+CUST01230,345,1,3146.57,2,1,3,6,Hibernating,Hyderabad,Tier 1
+CUST01231,419,4,6772.04,2,5,4,11,At Risk (High Value),Coimbatore,Tier 2
+CUST01233,224,1,1271.92,3,1,1,5,Need Attention,Delhi,Tier 1
+CUST01234,211,2,6121.95,3,3,4,10,Potential Loyalists,Mumbai,Tier 1
+CUST01235,90,1,393.77,4,1,1,6,New Customers,Pune,Tier 1
+CUST01236,360,2,2266.0,2,3,2,7,Hibernating,Hyderabad,Tier 1
+CUST01237,300,6,16020.090000000002,3,5,5,13,Potential Loyalists,Indore,Tier 2
+CUST01239,576,1,481.43,1,1,1,3,Lost,Ranchi,Tier 3
+CUST01242,164,5,12806.45,4,5,5,14,Champions,Jaipur,Tier 2
+CUST01243,624,1,12161.67,1,1,5,7,Hibernating,Jaipur,Tier 2
+CUST01245,370,2,5799.84,2,3,4,9,Hibernating,Ahmedabad,Tier 1
+CUST01246,12,1,1880.85,5,1,2,8,New Customers,Kolkata,Tier 1
+CUST01248,667,2,5589.23,1,3,4,8,Hibernating,Mumbai,Tier 1
+CUST01249,636,1,807.42,1,1,1,3,Lost,Patna,Tier 2
+CUST01250,185,5,9732.24,4,5,5,14,Champions,Kolkata,Tier 1
+CUST01251,314,5,9112.87,3,5,5,13,Potential Loyalists,Lucknow,Tier 2
+CUST01252,227,2,3986.73,3,3,3,9,Potential Loyalists,Chennai,Tier 1
+CUST01253,328,4,5313.53,3,5,4,12,Potential Loyalists,Mumbai,Tier 1
+CUST01257,353,2,3254.07,2,3,3,8,Hibernating,Delhi,Tier 1
+CUST01258,672,1,2158.18,1,1,2,4,Lost,Chennai,Tier 1
+CUST01259,569,1,2911.71,1,1,3,5,Hibernating,Mumbai,Tier 1
+CUST01260,45,2,8342.35,5,3,5,13,Loyal Customers,Kolkata,Tier 1
+CUST01261,356,3,6087.750000000001,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST01262,130,3,4977.280000000001,4,4,4,12,Champions,Lucknow,Tier 2
+CUST01263,594,1,1455.97,1,1,2,4,Lost,Bengaluru,Tier 1
+CUST01264,437,1,2285.42,2,1,2,5,Lost,Hyderabad,Tier 1
+CUST01265,244,2,4274.67,3,3,4,10,Potential Loyalists,Mumbai,Tier 1
+CUST01266,231,1,803.55,3,1,1,5,Need Attention,Mumbai,Tier 1
+CUST01267,459,6,13945.02,2,5,5,12,At Risk (High Value),Hyderabad,Tier 1
+CUST01268,419,1,353.49,2,1,1,4,Lost,Chennai,Tier 1
+CUST01270,387,2,2364.67,2,3,2,7,Hibernating,Bengaluru,Tier 1
+CUST01271,272,1,3567.28,3,1,3,7,Need Attention,Pune,Tier 1
+CUST01272,223,1,1445.17,3,2,2,7,Need Attention,Indore,Tier 2
+CUST01273,8,2,6642.82,5,3,4,12,Loyal Customers,Jaipur,Tier 2
+CUST01274,125,1,3869.65,4,2,3,9,New Customers,Mumbai,Tier 1
+CUST01275,179,2,10029.53,4,3,5,12,Loyal Customers,Chennai,Tier 1
+CUST01276,605,1,4109.81,1,2,3,6,Hibernating,Mumbai,Tier 1
+CUST01278,317,2,2634.63,3,3,3,9,Potential Loyalists,Amritsar,Tier 3
+CUST01279,482,3,10964.37,2,4,5,11,At Risk (High Value),Delhi,Tier 1
+CUST01280,229,1,1379.5,3,2,2,7,Need Attention,Chennai,Tier 1
+CUST01281,18,3,20544.28,5,4,5,14,Champions,Kolkata,Tier 1
+CUST01283,370,3,4736.46,2,4,4,10,At Risk (High Value),Kolkata,Tier 1
+CUST01284,259,1,1024.67,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01285,27,3,3038.7200000000003,5,4,3,12,Loyal Customers,Bengaluru,Tier 1
+CUST01286,558,2,1957.04,1,3,2,6,Hibernating,Chennai,Tier 1
+CUST01287,16,4,7965.509999999999,5,5,5,15,Champions,Mumbai,Tier 1
+CUST01288,319,1,4994.94,3,2,4,9,Need Attention,Bengaluru,Tier 1
+CUST01289,586,1,7073.78,1,2,5,8,Hibernating,Mumbai,Tier 1
+CUST01290,542,1,969.56,1,2,1,4,Lost,Mumbai,Tier 1
+CUST01291,430,6,13665.25,2,5,5,12,At Risk (High Value),Hyderabad,Tier 1
+CUST01293,52,1,2279.28,5,2,2,9,New Customers,Kolkata,Tier 1
+CUST01294,83,1,1015.49,4,2,1,7,New Customers,Pune,Tier 1
+CUST01295,150,2,4804.7,4,3,4,11,Loyal Customers,Lucknow,Tier 2
+CUST01296,489,1,2989.24,1,2,3,6,Hibernating,Delhi,Tier 1
+CUST01297,25,6,5305.14,5,5,4,14,Champions,Delhi,Tier 1
+CUST01298,41,3,1081.56,5,4,1,10,Loyal Customers,Mumbai,Tier 1
+CUST01299,47,5,18253.559999999998,5,5,5,15,Champions,Kolkata,Tier 1
+CUST01301,585,3,3524.3599999999997,1,4,3,8,Hibernating,Mumbai,Tier 1
+CUST01302,69,2,3633.0,5,3,3,11,Loyal Customers,Vadodara,Tier 2
+CUST01303,342,1,1494.71,2,2,2,6,Lost,Mumbai,Tier 1
+CUST01304,571,4,6502.12,1,5,4,10,At Risk (High Value),Chennai,Tier 1
+CUST01306,190,6,8654.56,4,5,5,14,Champions,Indore,Tier 2
+CUST01307,126,2,5888.860000000001,4,3,4,11,Loyal Customers,Ahmedabad,Tier 1
+CUST01309,674,1,294.11,1,2,1,4,Lost,Bengaluru,Tier 1
+CUST01310,126,2,1672.8700000000001,4,3,2,9,Loyal Customers,Surat,Tier 2
+CUST01311,86,1,1403.2,4,2,2,8,New Customers,Mumbai,Tier 1
+CUST01312,419,2,2768.7999999999997,2,3,3,8,Hibernating,Coimbatore,Tier 2
+CUST01313,3,1,3136.82,5,2,3,10,New Customers,Chennai,Tier 1
+CUST01314,451,2,5344.58,2,3,4,9,Hibernating,Surat,Tier 2
+CUST01315,76,5,5876.79,5,5,4,14,Champions,Hyderabad,Tier 1
+CUST01316,207,2,3553.79,3,3,3,9,Potential Loyalists,Pune,Tier 1
+CUST01317,3,1,922.18,5,2,1,8,New Customers,Chennai,Tier 1
+CUST01318,654,1,597.8,1,2,1,4,Lost,Ahmedabad,Tier 1
+CUST01319,527,1,4405.9,1,2,4,7,Hibernating,Mumbai,Tier 1
+CUST01320,220,1,3918.37,3,2,3,8,Need Attention,Mumbai,Tier 1
+CUST01321,198,1,407.08,4,2,1,7,New Customers,Delhi,Tier 1
+CUST01322,570,4,4683.0599999999995,1,5,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01323,160,2,7630.389999999999,4,3,5,12,Loyal Customers,Indore,Tier 2
+CUST01325,444,1,2329.02,2,2,2,6,Lost,Mysuru,Tier 3
+CUST01326,27,2,1543.8400000000001,5,3,2,10,Loyal Customers,Bengaluru,Tier 1
+CUST01327,27,1,1442.1,5,2,2,9,New Customers,Delhi,Tier 1
+CUST01328,29,1,4128.23,5,2,3,10,New Customers,Lucknow,Tier 2
+CUST01330,491,1,9331.68,1,2,5,8,Hibernating,Chennai,Tier 1
+CUST01332,23,2,3494.33,5,3,3,11,Loyal Customers,Ahmedabad,Tier 1
+CUST01333,32,2,3127.57,5,3,3,11,Loyal Customers,Delhi,Tier 1
+CUST01334,486,3,7124.49,2,4,5,11,At Risk (High Value),Dehradun,Tier 3
+CUST01336,2,1,3988.81,5,2,3,10,New Customers,Pune,Tier 1
+CUST01337,308,3,7186.25,3,4,5,12,Potential Loyalists,Delhi,Tier 1
+CUST01338,567,4,5539.33,1,5,4,10,At Risk (High Value),Pune,Tier 1
+CUST01339,468,4,12559.32,2,5,5,12,At Risk (High Value),Mumbai,Tier 1
+CUST01340,533,1,2430.74,1,2,2,5,Lost,Mumbai,Tier 1
+CUST01341,63,4,8524.2,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST01342,161,2,3594.06,4,3,3,10,Loyal Customers,Hyderabad,Tier 1
+CUST01343,509,2,4912.06,1,3,4,8,Hibernating,Indore,Tier 2
+CUST01344,212,1,2701.07,3,2,3,8,Need Attention,Ahmedabad,Tier 1
+CUST01347,178,2,4749.66,4,3,4,11,Loyal Customers,Bengaluru,Tier 1
+CUST01348,149,2,3133.64,4,3,3,10,Loyal Customers,Hyderabad,Tier 1
+CUST01349,241,2,4092.87,3,3,3,9,Potential Loyalists,Amritsar,Tier 3
+CUST01350,83,5,7745.74,4,5,5,14,Champions,Mumbai,Tier 1
+CUST01351,289,5,7463.83,3,5,5,13,Potential Loyalists,Indore,Tier 2
+CUST01352,117,5,12820.339999999998,4,5,5,14,Champions,Kolkata,Tier 1
+CUST01353,629,1,2369.54,1,2,2,5,Lost,Hyderabad,Tier 1
+CUST01354,641,2,3917.1499999999996,1,3,3,7,Hibernating,Ahmedabad,Tier 1
+CUST01355,163,1,2290.9,4,2,2,8,New Customers,Chennai,Tier 1
+CUST01357,364,1,2641.02,2,2,3,7,Hibernating,Coimbatore,Tier 2
+CUST01358,570,2,2767.42,1,3,3,7,Hibernating,Hyderabad,Tier 1
+CUST01359,54,2,2847.24,5,3,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST01360,124,3,2529.9700000000003,4,4,2,10,Loyal Customers,Kolkata,Tier 1
+CUST01362,36,4,3487.78,5,5,3,13,Loyal Customers,Delhi,Tier 1
+CUST01363,49,1,1183.13,5,2,1,8,New Customers,Kolkata,Tier 1
+CUST01364,167,2,2580.4300000000003,4,3,2,9,Loyal Customers,Kolkata,Tier 1
+CUST01365,184,3,1974.3200000000002,4,4,2,10,Loyal Customers,Ahmedabad,Tier 1
+CUST01366,6,1,1247.66,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST01367,624,2,3896.15,1,3,3,7,Hibernating,Ahmedabad,Tier 1
+CUST01368,572,2,3546.35,1,3,3,7,Hibernating,Visakhapatnam,Tier 2
+CUST01369,327,1,4650.1,3,2,4,9,Need Attention,Delhi,Tier 1
+CUST01370,128,1,361.62,4,2,1,7,New Customers,Delhi,Tier 1
+CUST01371,218,2,6592.21,3,3,4,10,Potential Loyalists,Raipur,Tier 3
+CUST01372,579,3,6372.18,1,4,4,9,At Risk (High Value),Delhi,Tier 1
+CUST01373,409,2,4246.0199999999995,2,3,3,8,Hibernating,Indore,Tier 2
+CUST01374,430,3,3512.9,2,4,3,9,Hibernating,Chennai,Tier 1
+CUST01375,182,4,1854.69,4,5,2,11,Loyal Customers,Delhi,Tier 1
+CUST01376,51,4,1700.21,5,5,2,12,Loyal Customers,Indore,Tier 2
+CUST01377,47,2,5294.41,5,3,4,12,Loyal Customers,Hyderabad,Tier 1
+CUST01378,106,3,4129.16,4,4,3,11,Loyal Customers,Chennai,Tier 1
+CUST01379,411,4,5765.66,2,5,4,11,At Risk (High Value),Bengaluru,Tier 1
+CUST01380,229,4,4553.42,3,5,4,12,Potential Loyalists,Kolkata,Tier 1
+CUST01381,382,2,2340.6,2,3,2,7,Hibernating,Delhi,Tier 1
+CUST01382,466,2,8740.56,2,3,5,10,Hibernating,Hyderabad,Tier 1
+CUST01384,86,1,3215.88,4,2,3,9,New Customers,Bengaluru,Tier 1
+CUST01385,118,1,361.39,4,2,1,7,New Customers,Pune,Tier 1
+CUST01386,183,1,750.41,4,2,1,7,New Customers,Bengaluru,Tier 1
+CUST01387,93,1,1529.8,4,2,2,8,New Customers,Jaipur,Tier 2
+CUST01389,493,1,533.74,1,2,1,4,Lost,Raipur,Tier 3
+CUST01390,71,4,3222.6800000000003,5,5,3,13,Loyal Customers,Hyderabad,Tier 1
+CUST01391,216,1,1418.62,3,2,2,7,Need Attention,Delhi,Tier 1
+CUST01392,51,1,195.07,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST01393,544,2,4230.8,1,3,3,7,Hibernating,Delhi,Tier 1
+CUST01394,496,1,2460.09,1,2,2,5,Lost,Chennai,Tier 1
+CUST01395,651,1,1560.24,1,2,2,5,Lost,Bengaluru,Tier 1
+CUST01396,216,1,372.21,3,2,1,6,Need Attention,Surat,Tier 2
+CUST01397,390,3,6539.93,2,4,4,10,At Risk (High Value),Hyderabad,Tier 1
+CUST01398,133,1,1426.19,4,2,2,8,New Customers,Delhi,Tier 1
+CUST01399,172,1,1136.82,4,2,1,7,New Customers,Kolkata,Tier 1
+CUST01400,223,1,879.43,3,2,1,6,Need Attention,Pune,Tier 1
+CUST01401,429,1,1219.96,2,2,1,5,Lost,Delhi,Tier 1
+CUST01402,71,2,2211.7200000000003,5,3,2,10,Loyal Customers,Delhi,Tier 1
+CUST01403,629,2,4905.63,1,3,4,8,Hibernating,Mumbai,Tier 1
+CUST01404,127,3,4523.9800000000005,4,4,4,12,Champions,Ahmedabad,Tier 1
+CUST01405,476,1,628.48,2,2,1,5,Lost,Pune,Tier 1
+CUST01406,311,6,7445.85,3,5,5,13,Potential Loyalists,Chennai,Tier 1
+CUST01407,620,2,4020.0,1,3,3,7,Hibernating,Nagpur,Tier 2
+CUST01408,120,1,3386.26,4,2,3,9,New Customers,Lucknow,Tier 2
+CUST01409,526,1,1941.23,1,2,2,5,Lost,Kolkata,Tier 1
+CUST01410,64,1,931.59,5,2,1,8,New Customers,Indore,Tier 2
+CUST01411,77,1,980.83,5,2,1,8,New Customers,Delhi,Tier 1
+CUST01412,38,2,3264.17,5,3,3,11,Loyal Customers,Mumbai,Tier 1
+CUST01414,155,3,5671.87,4,4,4,12,Champions,Mumbai,Tier 1
+CUST01415,303,1,660.67,3,2,1,6,Need Attention,Chennai,Tier 1
+CUST01416,82,3,3771.43,4,4,3,11,Loyal Customers,Vadodara,Tier 2
+CUST01417,163,1,6098.16,4,2,4,10,New Customers,Mumbai,Tier 1
+CUST01418,273,4,6600.759999999999,3,5,4,12,Potential Loyalists,Mumbai,Tier 1
+CUST01420,334,2,1674.7,3,3,2,8,Potential Loyalists,Vadodara,Tier 2
+CUST01421,131,1,3233.76,4,2,3,9,New Customers,Bengaluru,Tier 1
+CUST01422,370,2,4349.0599999999995,2,3,4,9,Hibernating,Chennai,Tier 1
+CUST01423,183,3,6235.47,4,4,4,12,Champions,Mumbai,Tier 1
+CUST01424,419,2,4526.799999999999,2,3,4,9,Hibernating,Delhi,Tier 1
+CUST01425,601,1,1033.87,1,2,1,4,Lost,Amritsar,Tier 3
+CUST01426,133,1,878.08,4,2,1,7,New Customers,Ranchi,Tier 3
+CUST01427,16,1,2344.63,5,2,2,9,New Customers,Mumbai,Tier 1
+CUST01428,284,1,892.91,3,2,1,6,Need Attention,Nashik,Tier 2
+CUST01429,321,3,3397.6400000000003,3,4,3,10,Potential Loyalists,Kolkata,Tier 1
+CUST01430,293,1,801.01,3,2,1,6,Need Attention,Indore,Tier 2
+CUST01431,52,1,1247.8,5,2,1,8,New Customers,Hyderabad,Tier 1
+CUST01432,101,2,14592.67,4,3,5,12,Loyal Customers,Chennai,Tier 1
+CUST01433,405,3,8111.219999999999,2,4,5,11,At Risk (High Value),Chennai,Tier 1
+CUST01435,34,2,1987.28,5,3,2,10,Loyal Customers,Delhi,Tier 1
+CUST01436,31,1,502.78,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST01437,304,5,8918.91,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST01438,314,1,2085.02,3,2,2,7,Need Attention,Pune,Tier 1
+CUST01439,30,2,2274.51,5,3,2,10,Loyal Customers,Delhi,Tier 1
+CUST01440,149,2,3241.09,4,3,3,10,Loyal Customers,Pune,Tier 1
+CUST01441,357,3,2324.57,2,4,2,8,Hibernating,Raipur,Tier 3
+CUST01442,243,1,4649.99,3,2,4,9,Need Attention,Mumbai,Tier 1
+CUST01443,191,2,4293.65,4,3,4,11,Loyal Customers,Pune,Tier 1
+CUST01444,87,1,2278.17,4,2,2,8,New Customers,Hyderabad,Tier 1
+CUST01445,359,1,1424.6,2,2,2,6,Lost,Indore,Tier 2
+CUST01447,3,6,10314.15,5,5,5,15,Champions,Pune,Tier 1
+CUST01448,511,2,4258.94,1,3,4,8,Hibernating,Nagpur,Tier 2
+CUST01449,59,3,8506.09,5,4,5,14,Champions,Kanpur,Tier 2
+CUST01451,307,1,6275.79,3,2,4,9,Need Attention,Chennai,Tier 1
+CUST01452,97,1,1500.01,4,2,2,8,New Customers,Kolkata,Tier 1
+CUST01453,513,3,8903.01,1,4,5,10,At Risk (High Value),Indore,Tier 2
+CUST01454,371,3,2857.55,2,4,3,9,Hibernating,Kolkata,Tier 1
+CUST01455,170,2,1778.15,4,3,2,9,Loyal Customers,Mumbai,Tier 1
+CUST01456,240,1,849.42,3,2,1,6,Need Attention,Vadodara,Tier 2
+CUST01457,270,2,7225.139999999999,3,3,5,11,Potential Loyalists,Pune,Tier 1
+CUST01458,386,2,3114.1,2,3,3,8,Hibernating,Pune,Tier 1
+CUST01459,308,1,3503.57,3,2,3,8,Need Attention,Delhi,Tier 1
+CUST01460,153,4,7042.46,4,5,5,14,Champions,Pune,Tier 1
+CUST01461,380,1,2742.72,2,2,3,7,Hibernating,Hyderabad,Tier 1
+CUST01462,64,3,4112.93,5,4,3,12,Loyal Customers,Pune,Tier 1
+CUST01463,191,2,2805.42,4,3,3,10,Loyal Customers,Mumbai,Tier 1
+CUST01464,714,1,2245.4,1,2,2,5,Lost,Pune,Tier 1
+CUST01466,184,1,4043.02,4,2,3,9,New Customers,Mumbai,Tier 1
+CUST01467,376,1,2841.52,2,2,3,7,Hibernating,Mysuru,Tier 3
+CUST01468,101,2,5159.85,4,3,4,11,Loyal Customers,Hyderabad,Tier 1
+CUST01469,438,3,1361.24,2,4,2,8,Hibernating,Indore,Tier 2
+CUST01470,67,1,256.71,5,2,1,8,New Customers,Jaipur,Tier 2
+CUST01471,487,2,4904.610000000001,2,3,4,9,Hibernating,Kolkata,Tier 1
+CUST01472,354,1,2229.51,2,2,2,6,Lost,Ahmedabad,Tier 1
+CUST01473,374,1,464.89,2,2,1,5,Lost,Bhopal,Tier 2
+CUST01474,47,2,4150.46,5,3,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST01475,145,1,1632.19,4,2,2,8,New Customers,Bengaluru,Tier 1
+CUST01476,291,1,1839.22,3,2,2,7,Need Attention,Pune,Tier 1
+CUST01477,580,1,2468.77,1,2,2,5,Lost,Lucknow,Tier 2
+CUST01478,39,6,13850.189999999999,5,5,5,15,Champions,Jaipur,Tier 2
+CUST01479,503,3,6122.4400000000005,1,4,4,9,At Risk (High Value),Lucknow,Tier 2
+CUST01480,37,1,816.74,5,2,1,8,New Customers,Hyderabad,Tier 1
+CUST01481,579,1,7755.12,1,2,5,8,Hibernating,Surat,Tier 2
+CUST01482,191,3,9420.45,4,4,5,13,Champions,Mumbai,Tier 1
+CUST01483,6,4,8760.2,5,5,5,15,Champions,Chennai,Tier 1
+CUST01485,49,7,18912.51,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST01486,290,7,21102.12,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST01487,3,5,7331.93,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01488,596,2,1799.96,1,3,2,6,Hibernating,Pune,Tier 1
+CUST01489,431,1,2778.61,2,2,3,7,Hibernating,Hyderabad,Tier 1
+CUST01491,506,4,5899.92,1,5,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01492,568,2,3540.56,1,3,3,7,Hibernating,Hyderabad,Tier 1
+CUST01493,151,4,6098.8099999999995,4,5,4,13,Champions,Delhi,Tier 1
+CUST01494,638,1,246.21,1,2,1,4,Lost,Mumbai,Tier 1
+CUST01495,446,3,7857.66,2,4,5,11,At Risk (High Value),Kolkata,Tier 1
+CUST01496,357,5,10410.18,2,5,5,12,At Risk (High Value),Pune,Tier 1
+CUST01498,11,5,7619.06,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01499,263,3,2252.07,3,4,2,9,Potential Loyalists,Hyderabad,Tier 1
+CUST01500,441,3,9600.93,2,4,5,11,At Risk (High Value),Indore,Tier 2
+CUST01501,385,1,581.15,2,2,1,5,Lost,Chennai,Tier 1
+CUST01502,214,1,535.11,3,2,1,6,Need Attention,Chennai,Tier 1
+CUST01503,90,1,682.16,4,2,1,7,New Customers,Mumbai,Tier 1
+CUST01504,257,1,762.06,3,2,1,6,Need Attention,Bengaluru,Tier 1
+CUST01505,109,2,2346.71,4,3,2,9,Loyal Customers,Hyderabad,Tier 1
+CUST01506,22,1,922.15,5,2,1,8,New Customers,Hyderabad,Tier 1
+CUST01508,286,2,3111.2,3,3,3,9,Potential Loyalists,Chennai,Tier 1
+CUST01509,308,2,5184.74,3,3,4,10,Potential Loyalists,Kolkata,Tier 1
+CUST01510,274,1,296.34,3,2,1,6,Need Attention,Jaipur,Tier 2
+CUST01511,429,1,1228.55,2,2,1,5,Lost,Surat,Tier 2
+CUST01513,442,1,201.42,2,2,1,5,Lost,Nashik,Tier 2
+CUST01514,181,6,8154.1900000000005,4,5,5,14,Champions,Mumbai,Tier 1
+CUST01515,233,5,12402.47,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST01516,22,1,1147.03,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST01518,46,2,5692.04,5,3,4,12,Loyal Customers,Coimbatore,Tier 2
+CUST01519,168,3,5569.86,4,4,4,12,Champions,Delhi,Tier 1
+CUST01520,11,1,1952.17,5,2,2,9,New Customers,Patna,Tier 2
+CUST01521,207,7,8301.18,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST01522,234,2,3889.53,3,3,3,9,Potential Loyalists,Vadodara,Tier 2
+CUST01523,500,5,14045.59,1,5,5,11,At Risk (High Value),Bengaluru,Tier 1
+CUST01524,547,1,1999.16,1,2,2,5,Lost,Mumbai,Tier 1
+CUST01525,7,5,5487.59,5,5,4,14,Champions,Chennai,Tier 1
+CUST01527,357,2,4831.93,2,3,4,9,Hibernating,Bengaluru,Tier 1
+CUST01528,147,2,5001.69,4,3,4,11,Loyal Customers,Bengaluru,Tier 1
+CUST01529,305,3,8175.57,3,4,5,12,Potential Loyalists,Lucknow,Tier 2
+CUST01531,336,8,13543.15,3,5,5,13,Potential Loyalists,Bengaluru,Tier 1
+CUST01532,273,1,612.12,3,2,1,6,Need Attention,Kolkata,Tier 1
+CUST01533,606,2,3300.31,1,3,3,7,Hibernating,Ahmedabad,Tier 1
+CUST01534,42,1,5269.84,5,2,4,11,New Customers,Bengaluru,Tier 1
+CUST01535,581,1,545.97,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST01536,296,2,5695.0599999999995,3,3,4,10,Potential Loyalists,Mumbai,Tier 1
+CUST01537,182,2,568.73,4,3,1,8,Loyal Customers,Delhi,Tier 1
+CUST01538,99,1,470.23,4,2,1,7,New Customers,Pune,Tier 1
+CUST01539,309,1,1616.2,3,2,2,7,Need Attention,Delhi,Tier 1
+CUST01540,31,2,3259.6099999999997,5,3,3,11,Loyal Customers,Chennai,Tier 1
+CUST01541,2,2,1570.4399999999998,5,3,2,10,Loyal Customers,Pune,Tier 1
+CUST01542,3,7,14427.82,5,5,5,15,Champions,Mumbai,Tier 1
+CUST01543,160,1,692.81,4,2,1,7,New Customers,Kolkata,Tier 1
+CUST01544,335,1,3692.03,3,2,3,8,Need Attention,Bengaluru,Tier 1
+CUST01545,626,1,2357.73,1,2,2,5,Lost,Guwahati,Tier 3
+CUST01546,382,1,223.29,2,2,1,5,Lost,Chennai,Tier 1
+CUST01547,336,4,2666.11,3,5,3,11,Potential Loyalists,Lucknow,Tier 2
+CUST01548,133,3,3490.84,4,4,3,11,Loyal Customers,Chennai,Tier 1
+CUST01549,320,1,552.34,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01550,690,1,1326.31,1,2,2,5,Lost,Kolkata,Tier 1
+CUST01551,484,1,1341.18,2,2,2,6,Lost,Nashik,Tier 2
+CUST01552,44,1,1186.66,5,2,1,8,New Customers,Kolkata,Tier 1
+CUST01553,45,5,13440.699999999999,5,5,5,15,Champions,Surat,Tier 2
+CUST01554,399,1,1226.8,2,2,1,5,Lost,Bhopal,Tier 2
+CUST01556,55,2,2200.68,5,3,2,10,Loyal Customers,Delhi,Tier 1
+CUST01557,70,4,6104.25,5,5,4,14,Champions,Kolkata,Tier 1
+CUST01558,628,2,5393.84,1,3,4,8,Hibernating,Hyderabad,Tier 1
+CUST01559,131,1,2606.83,4,2,3,9,New Customers,Nagpur,Tier 2
+CUST01560,566,1,3826.3,1,2,3,6,Hibernating,Coimbatore,Tier 2
+CUST01561,182,2,4991.2,4,3,4,11,Loyal Customers,Bengaluru,Tier 1
+CUST01562,658,2,2502.68,1,3,2,6,Hibernating,Delhi,Tier 1
+CUST01563,414,1,1425.94,2,2,2,6,Lost,Jaipur,Tier 2
+CUST01564,273,2,1374.26,3,3,2,8,Potential Loyalists,Bengaluru,Tier 1
+CUST01565,196,1,3987.15,4,2,3,9,New Customers,Surat,Tier 2
+CUST01566,333,3,6882.280000000001,3,4,5,12,Potential Loyalists,Hyderabad,Tier 1
+CUST01567,94,1,6535.8,4,2,4,10,New Customers,Pune,Tier 1
+CUST01568,575,1,2458.86,1,2,2,5,Lost,Mumbai,Tier 1
+CUST01569,192,2,3812.4,4,3,3,10,Loyal Customers,Kolkata,Tier 1
+CUST01570,205,2,4599.85,3,3,4,10,Potential Loyalists,Hyderabad,Tier 1
+CUST01571,70,2,2474.1800000000003,5,3,2,10,Loyal Customers,Kolkata,Tier 1
+CUST01573,693,1,263.91,1,2,1,4,Lost,Ahmedabad,Tier 1
+CUST01574,395,4,3239.76,2,5,3,10,Hibernating,Indore,Tier 2
+CUST01575,599,1,4423.17,1,2,4,7,Hibernating,Delhi,Tier 1
+CUST01576,229,6,10479.599999999999,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST01577,478,1,8229.82,2,2,5,9,Hibernating,Mumbai,Tier 1
+CUST01578,24,3,4165.45,5,4,3,12,Loyal Customers,Pune,Tier 1
+CUST01579,636,1,992.02,1,2,1,4,Lost,Kolkata,Tier 1
+CUST01580,230,2,1133.15,3,3,1,7,Potential Loyalists,Chennai,Tier 1
+CUST01581,304,4,4869.24,3,5,4,12,Potential Loyalists,Delhi,Tier 1
+CUST01582,106,4,12681.17,4,5,5,14,Champions,Hyderabad,Tier 1
+CUST01583,70,1,2054.83,5,2,2,9,New Customers,Kolkata,Tier 1
+CUST01584,460,1,1093.83,2,2,1,5,Lost,Chennai,Tier 1
+CUST01585,544,4,9618.32,1,5,5,11,At Risk (High Value),Amritsar,Tier 3
+CUST01586,42,1,3137.42,5,2,3,10,New Customers,Delhi,Tier 1
+CUST01588,311,2,4143.27,3,3,3,9,Potential Loyalists,Hyderabad,Tier 1
+CUST01589,324,2,1220.53,3,3,1,7,Potential Loyalists,Hyderabad,Tier 1
+CUST01590,236,4,9699.99,3,5,5,13,Potential Loyalists,Ahmedabad,Tier 1
+CUST01591,89,1,2112.67,4,2,2,8,New Customers,Pune,Tier 1
+CUST01592,391,1,2386.15,2,2,2,6,Lost,Varanasi,Tier 3
+CUST01593,83,4,7544.41,4,5,5,14,Champions,Mumbai,Tier 1
+CUST01594,334,1,326.12,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01595,211,2,3976.9100000000003,3,3,3,9,Potential Loyalists,Ahmedabad,Tier 1
+CUST01596,476,2,2427.11,2,3,2,7,Hibernating,Kolkata,Tier 1
+CUST01597,330,1,1280.2,3,2,1,6,Need Attention,Bengaluru,Tier 1
+CUST01599,199,2,7810.24,4,3,5,12,Loyal Customers,Mumbai,Tier 1
+CUST01600,473,1,602.98,2,2,1,5,Lost,Coimbatore,Tier 2
+CUST01601,6,3,2265.74,5,4,2,11,Loyal Customers,Delhi,Tier 1
+CUST01602,100,2,9734.8,4,3,5,12,Loyal Customers,Bengaluru,Tier 1
+CUST01603,206,3,7014.84,3,4,5,12,Potential Loyalists,Delhi,Tier 1
+CUST01604,155,1,1204.61,4,2,1,7,New Customers,Bengaluru,Tier 1
+CUST01605,242,1,3031.53,3,2,3,8,Need Attention,Mumbai,Tier 1
+CUST01606,206,1,535.89,3,2,1,6,Need Attention,Chennai,Tier 1
+CUST01607,20,1,9554.08,5,2,5,12,New Customers,Mumbai,Tier 1
+CUST01608,127,1,617.96,4,2,1,7,New Customers,Lucknow,Tier 2
+CUST01609,50,1,264.66,5,2,1,8,New Customers,Delhi,Tier 1
+CUST01610,362,1,854.6,2,2,1,5,Lost,Chennai,Tier 1
+CUST01611,593,1,1119.15,1,2,1,4,Lost,Bhopal,Tier 2
+CUST01612,423,2,751.8199999999999,2,3,1,6,Hibernating,Pune,Tier 1
+CUST01613,37,2,9880.53,5,3,5,13,Loyal Customers,Chennai,Tier 1
+CUST01614,385,1,3000.04,2,2,3,7,Hibernating,Bengaluru,Tier 1
+CUST01615,438,2,1951.4099999999999,2,3,2,7,Hibernating,Bengaluru,Tier 1
+CUST01616,479,1,3107.36,2,2,3,7,Hibernating,Pune,Tier 1
+CUST01617,7,2,5646.79,5,3,4,12,Loyal Customers,Varanasi,Tier 3
+CUST01618,190,2,1279.11,4,3,1,8,Loyal Customers,Pune,Tier 1
+CUST01619,582,1,233.54,1,2,1,4,Lost,Chennai,Tier 1
+CUST01620,484,1,1407.67,2,2,2,6,Lost,Ahmedabad,Tier 1
+CUST01621,434,1,795.83,2,2,1,5,Lost,Hyderabad,Tier 1
+CUST01622,139,1,1966.9,4,2,2,8,New Customers,Mumbai,Tier 1
+CUST01623,243,4,8339.7,3,5,5,13,Potential Loyalists,Kolkata,Tier 1
+CUST01624,20,3,4687.96,5,4,4,13,Champions,Nashik,Tier 2
+CUST01625,441,4,5045.25,2,5,4,11,At Risk (High Value),Delhi,Tier 1
+CUST01626,136,5,15847.3,4,5,5,14,Champions,Pune,Tier 1
+CUST01627,95,2,2038.1699999999998,4,3,2,9,Loyal Customers,Delhi,Tier 1
+CUST01629,533,2,5758.450000000001,1,3,4,8,Hibernating,Mumbai,Tier 1
+CUST01631,371,4,7383.44,2,5,5,12,At Risk (High Value),Ahmedabad,Tier 1
+CUST01632,656,1,2698.24,1,2,3,6,Hibernating,Bengaluru,Tier 1
+CUST01633,426,1,3041.45,2,2,3,7,Hibernating,Pune,Tier 1
+CUST01634,97,3,10488.900000000001,4,4,5,13,Champions,Lucknow,Tier 2
+CUST01635,298,1,3403.66,3,2,3,8,Need Attention,Patna,Tier 2
+CUST01636,69,9,9422.24,5,5,5,15,Champions,Delhi,Tier 1
+CUST01637,71,6,15283.5,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01638,245,3,3965.99,3,4,3,10,Potential Loyalists,Delhi,Tier 1
+CUST01639,516,4,8569.01,1,5,5,11,At Risk (High Value),Varanasi,Tier 3
+CUST01640,8,1,3954.64,5,2,3,10,New Customers,Patna,Tier 2
+CUST01641,457,3,2085.2,2,4,2,8,Hibernating,Chennai,Tier 1
+CUST01642,186,2,4194.34,4,3,3,10,Loyal Customers,Nagpur,Tier 2
+CUST01643,446,2,988.71,2,3,1,6,Hibernating,Chennai,Tier 1
+CUST01644,508,3,4672.5,1,4,4,9,At Risk (High Value),Kolkata,Tier 1
+CUST01645,621,1,7844.82,1,2,5,8,Hibernating,Mumbai,Tier 1
+CUST01646,191,1,2377.98,4,2,2,8,New Customers,Ahmedabad,Tier 1
+CUST01647,132,1,2921.14,4,2,3,9,New Customers,Mumbai,Tier 1
+CUST01648,521,2,2276.11,1,3,2,6,Hibernating,Surat,Tier 2
+CUST01649,74,5,5913.92,5,5,4,14,Champions,Jaipur,Tier 2
+CUST01650,25,1,380.28,5,2,1,8,New Customers,Pune,Tier 1
+CUST01651,219,6,7229.01,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST01653,549,2,4206.05,1,3,3,7,Hibernating,Bengaluru,Tier 1
+CUST01654,41,1,523.83,5,2,1,8,New Customers,Bengaluru,Tier 1
+CUST01655,28,2,2361.05,5,3,2,10,Loyal Customers,Mumbai,Tier 1
+CUST01656,598,1,5665.04,1,2,4,7,Hibernating,Vadodara,Tier 2
+CUST01657,403,5,7529.54,2,5,5,12,At Risk (High Value),Chennai,Tier 1
+CUST01658,232,1,675.83,3,2,1,6,Need Attention,Bengaluru,Tier 1
+CUST01659,49,2,3705.8,5,3,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST01660,102,3,3764.3,4,4,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST01663,175,4,7012.6,4,5,5,14,Champions,Patna,Tier 2
+CUST01664,699,1,2847.52,1,2,3,6,Hibernating,Chennai,Tier 1
+CUST01665,45,1,3053.91,5,2,3,10,New Customers,Varanasi,Tier 3
+CUST01666,312,1,617.49,3,2,1,6,Need Attention,Nagpur,Tier 2
+CUST01667,189,1,742.78,4,2,1,7,New Customers,Delhi,Tier 1
+CUST01668,75,2,2577.23,5,3,2,10,Loyal Customers,Vadodara,Tier 2
+CUST01669,501,2,4104.9,1,3,3,7,Hibernating,Mumbai,Tier 1
+CUST01670,306,4,9700.26,3,5,5,13,Potential Loyalists,Surat,Tier 2
+CUST01671,349,2,7566.62,2,3,5,10,Hibernating,Hyderabad,Tier 1
+CUST01672,114,1,266.11,4,2,1,7,New Customers,Bhopal,Tier 2
+CUST01673,205,3,3946.3299999999995,3,4,3,10,Potential Loyalists,Indore,Tier 2
+CUST01674,36,3,7979.77,5,4,5,14,Champions,Lucknow,Tier 2
+CUST01675,428,3,2516.05,2,4,2,8,Hibernating,Lucknow,Tier 2
+CUST01676,128,1,1938.43,4,2,2,8,New Customers,Bengaluru,Tier 1
+CUST01677,475,1,2646.84,2,2,3,7,Hibernating,Mumbai,Tier 1
+CUST01678,460,1,1375.17,2,2,2,6,Lost,Hyderabad,Tier 1
+CUST01679,365,4,11030.130000000001,2,5,5,12,At Risk (High Value),Delhi,Tier 1
+CUST01681,145,2,4130.84,4,3,3,10,Loyal Customers,Bengaluru,Tier 1
+CUST01683,1,1,954.93,5,2,1,8,New Customers,Pune,Tier 1
+CUST01684,586,3,6782.17,1,4,5,10,At Risk (High Value),Surat,Tier 2
+CUST01685,198,1,1386.31,4,2,2,8,New Customers,Delhi,Tier 1
+CUST01687,220,1,940.51,3,2,1,6,Need Attention,Patna,Tier 2
+CUST01688,548,1,3812.42,1,2,3,6,Hibernating,Chennai,Tier 1
+CUST01689,331,6,6470.96,3,5,4,12,Potential Loyalists,Kolkata,Tier 1
+CUST01690,192,1,951.65,4,2,1,7,New Customers,Jaipur,Tier 2
+CUST01691,146,2,1829.5,4,3,2,9,Loyal Customers,Delhi,Tier 1
+CUST01692,159,1,2577.31,4,2,2,8,New Customers,Chennai,Tier 1
+CUST01693,234,2,642.1,3,3,1,7,Potential Loyalists,Hyderabad,Tier 1
+CUST01694,231,5,4894.59,3,5,4,12,Potential Loyalists,Delhi,Tier 1
+CUST01695,208,1,1063.28,3,2,1,6,Need Attention,Hyderabad,Tier 1
+CUST01696,300,1,1236.96,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01697,62,1,270.82,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST01698,32,1,2708.34,5,2,3,10,New Customers,Delhi,Tier 1
+CUST01699,655,1,644.42,1,2,1,4,Lost,Guwahati,Tier 3
+CUST01700,47,1,1415.63,5,2,2,9,New Customers,Chennai,Tier 1
+CUST01701,420,2,3008.6400000000003,2,3,3,8,Hibernating,Ranchi,Tier 3
+CUST01702,375,1,1678.78,2,2,2,6,Lost,Hyderabad,Tier 1
+CUST01703,431,2,5878.4,2,3,4,9,Hibernating,Bengaluru,Tier 1
+CUST01704,357,1,813.61,2,2,1,5,Lost,Chennai,Tier 1
+CUST01705,653,1,685.87,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST01707,48,4,3210.54,5,5,3,13,Loyal Customers,Pune,Tier 1
+CUST01708,31,1,2684.03,5,2,3,10,New Customers,Delhi,Tier 1
+CUST01709,373,4,9891.81,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST01710,146,1,1568.49,4,2,2,8,New Customers,Pune,Tier 1
+CUST01711,375,2,2345.0,2,3,2,7,Hibernating,Delhi,Tier 1
+CUST01712,423,2,3188.69,2,3,3,8,Hibernating,Mumbai,Tier 1
+CUST01715,225,2,4151.62,3,3,3,9,Potential Loyalists,Mumbai,Tier 1
+CUST01716,608,2,1118.5,1,3,1,5,Hibernating,Varanasi,Tier 3
+CUST01717,29,4,9422.630000000001,5,5,5,15,Champions,Mumbai,Tier 1
+CUST01720,449,3,4973.32,2,4,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01721,176,1,982.98,4,2,1,7,New Customers,Delhi,Tier 1
+CUST01722,559,2,1413.95,1,3,2,6,Hibernating,Mumbai,Tier 1
+CUST01723,212,3,11194.79,3,4,5,12,Potential Loyalists,Bengaluru,Tier 1
+CUST01724,324,4,13920.74,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST01725,336,4,2676.66,3,5,3,11,Potential Loyalists,Pune,Tier 1
+CUST01726,462,4,5280.2,2,5,4,11,At Risk (High Value),Mumbai,Tier 1
+CUST01727,311,2,3105.68,3,3,3,9,Potential Loyalists,Chennai,Tier 1
+CUST01728,178,3,5382.789999999999,4,4,4,12,Champions,Dehradun,Tier 3
+CUST01729,293,1,530.64,3,2,1,6,Need Attention,Surat,Tier 2
+CUST01730,362,1,2378.29,2,2,2,6,Lost,Kolkata,Tier 1
+CUST01731,572,1,933.01,1,2,1,4,Lost,Bengaluru,Tier 1
+CUST01732,539,1,6064.27,1,2,4,7,Hibernating,Kolkata,Tier 1
+CUST01733,289,2,6013.32,3,3,4,10,Potential Loyalists,Chennai,Tier 1
+CUST01734,56,4,8530.86,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01735,498,2,5243.59,1,3,4,8,Hibernating,Mumbai,Tier 1
+CUST01736,29,1,778.88,5,2,1,8,New Customers,Bhopal,Tier 2
+CUST01737,91,3,11714.67,4,4,5,13,Champions,Hyderabad,Tier 1
+CUST01738,525,2,921.96,1,3,1,5,Hibernating,Delhi,Tier 1
+CUST01739,476,2,4412.0,2,3,4,9,Hibernating,Hyderabad,Tier 1
+CUST01740,16,2,2644.1200000000003,5,3,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST01741,338,2,749.98,3,3,1,7,Potential Loyalists,Surat,Tier 2
+CUST01742,367,1,7069.86,2,2,5,9,Hibernating,Ahmedabad,Tier 1
+CUST01743,149,1,564.41,4,2,1,7,New Customers,Jaipur,Tier 2
+CUST01744,332,4,13790.320000000002,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST01745,279,5,10698.48,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST01746,207,3,5225.18,3,4,4,11,Potential Loyalists,Chennai,Tier 1
+CUST01747,529,1,316.79,1,2,1,4,Lost,Mumbai,Tier 1
+CUST01748,607,2,6652.43,1,3,4,8,Hibernating,Bengaluru,Tier 1
+CUST01749,400,3,7908.51,2,4,5,11,At Risk (High Value),Ahmedabad,Tier 1
+CUST01750,351,3,4673.64,2,4,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01752,400,1,300.08,2,2,1,5,Lost,Delhi,Tier 1
+CUST01753,657,2,2862.5699999999997,1,3,3,7,Hibernating,Mumbai,Tier 1
+CUST01754,94,2,3497.9700000000003,4,3,3,10,Loyal Customers,Delhi,Tier 1
+CUST01755,55,1,8867.96,5,2,5,12,New Customers,Mysuru,Tier 3
+CUST01757,70,2,9631.970000000001,5,3,5,13,Loyal Customers,Guwahati,Tier 3
+CUST01758,52,1,1715.54,5,2,2,9,New Customers,Chennai,Tier 1
+CUST01759,4,1,8144.5,5,2,5,12,New Customers,Mumbai,Tier 1
+CUST01760,140,2,3945.4700000000003,4,3,3,10,Loyal Customers,Chennai,Tier 1
+CUST01761,19,1,2196.36,5,2,2,9,New Customers,Hyderabad,Tier 1
+CUST01762,123,1,1787.3,4,2,2,8,New Customers,Nagpur,Tier 2
+CUST01763,260,2,1983.47,3,3,2,8,Potential Loyalists,Mumbai,Tier 1
+CUST01764,246,2,2302.38,3,3,2,8,Potential Loyalists,Chennai,Tier 1
+CUST01765,99,3,6789.110000000001,4,4,5,13,Champions,Delhi,Tier 1
+CUST01766,472,2,925.71,2,3,1,6,Hibernating,Bengaluru,Tier 1
+CUST01769,297,2,2903.62,3,3,3,9,Potential Loyalists,Hyderabad,Tier 1
+CUST01770,690,1,2435.04,1,2,2,5,Lost,Hyderabad,Tier 1
+CUST01771,346,1,2082.93,2,2,2,6,Lost,Hyderabad,Tier 1
+CUST01772,110,9,14621.07,4,5,5,14,Champions,Jaipur,Tier 2
+CUST01773,206,1,570.47,3,2,1,6,Need Attention,Coimbatore,Tier 2
+CUST01774,4,2,8404.88,5,3,5,13,Loyal Customers,Nashik,Tier 2
+CUST01776,64,4,9512.29,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST01777,476,2,10657.390000000001,2,3,5,10,Hibernating,Pune,Tier 1
+CUST01778,275,3,8367.09,3,4,5,12,Potential Loyalists,Hyderabad,Tier 1
+CUST01779,520,1,691.67,1,2,1,4,Lost,Bengaluru,Tier 1
+CUST01780,530,2,8761.27,1,3,5,9,Hibernating,Nagpur,Tier 2
+CUST01781,492,1,3497.89,1,2,3,6,Hibernating,Mumbai,Tier 1
+CUST01782,2,1,1285.11,5,2,1,8,New Customers,Coimbatore,Tier 2
+CUST01783,546,3,3555.3899999999994,1,4,3,8,Hibernating,Hyderabad,Tier 1
+CUST01784,193,2,5806.34,4,3,4,11,Loyal Customers,Kolkata,Tier 1
+CUST01785,168,1,1620.09,4,2,2,8,New Customers,Pune,Tier 1
+CUST01786,185,3,2366.34,4,4,2,10,Loyal Customers,Coimbatore,Tier 2
+CUST01788,560,2,6252.639999999999,1,3,4,8,Hibernating,Kolkata,Tier 1
+CUST01789,371,3,5407.6,2,4,4,10,At Risk (High Value),Mumbai,Tier 1
+CUST01790,70,1,251.15,5,2,1,8,New Customers,Chennai,Tier 1
+CUST01791,201,4,12479.199999999999,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST01792,377,4,8265.38,2,5,5,12,At Risk (High Value),Ahmedabad,Tier 1
+CUST01793,238,2,3637.2299999999996,3,3,3,9,Potential Loyalists,Chennai,Tier 1
+CUST01794,33,1,2105.44,5,2,2,9,New Customers,Pune,Tier 1
+CUST01795,528,1,1570.66,1,2,2,5,Lost,Mumbai,Tier 1
+CUST01796,408,1,3261.82,2,2,3,7,Hibernating,Mumbai,Tier 1
+CUST01797,658,1,1591.9,1,2,2,5,Lost,Ahmedabad,Tier 1
+CUST01798,26,1,2250.78,5,2,2,9,New Customers,Mumbai,Tier 1
+CUST01799,314,1,859.51,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01801,158,2,1853.81,4,3,2,9,Loyal Customers,Nashik,Tier 2
+CUST01802,237,1,1902.21,3,2,2,7,Need Attention,Ahmedabad,Tier 1
+CUST01803,608,1,4920.44,1,2,4,7,Hibernating,Bengaluru,Tier 1
+CUST01804,54,2,2688.63,5,3,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST01805,329,1,668.12,3,2,1,6,Need Attention,Bengaluru,Tier 1
+CUST01806,500,2,5391.89,1,3,4,8,Hibernating,Jaipur,Tier 2
+CUST01807,520,3,3074.69,1,4,3,8,Hibernating,Pune,Tier 1
+CUST01808,330,2,2329.1,3,3,2,8,Potential Loyalists,Delhi,Tier 1
+CUST01809,402,1,3762.16,2,2,3,7,Hibernating,Delhi,Tier 1
+CUST01810,665,1,2569.35,1,2,2,5,Lost,Mumbai,Tier 1
+CUST01811,195,1,349.31,4,2,1,7,New Customers,Pune,Tier 1
+CUST01812,465,3,5619.59,2,4,4,10,At Risk (High Value),Jaipur,Tier 2
+CUST01813,386,3,6707.349999999999,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST01814,365,1,5737.22,2,2,4,8,Hibernating,Mumbai,Tier 1
+CUST01815,291,1,1089.82,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01816,374,6,11610.119999999999,2,5,5,12,At Risk (High Value),Ranchi,Tier 3
+CUST01817,469,1,1493.77,2,2,2,6,Lost,Bengaluru,Tier 1
+CUST01818,306,3,7102.7,3,4,5,12,Potential Loyalists,Jaipur,Tier 2
+CUST01819,547,4,2125.63,1,5,2,8,Hibernating,Kolkata,Tier 1
+CUST01820,682,1,519.21,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST01821,257,1,4559.2,3,2,4,9,Need Attention,Delhi,Tier 1
+CUST01822,443,2,2171.1,2,3,2,7,Hibernating,Mumbai,Tier 1
+CUST01823,247,3,1808.8200000000002,3,4,2,9,Potential Loyalists,Kolkata,Tier 1
+CUST01824,139,4,3421.08,4,5,3,12,Loyal Customers,Jaipur,Tier 2
+CUST01825,540,2,3426.26,1,3,3,7,Hibernating,Pune,Tier 1
+CUST01826,270,2,4339.88,3,3,4,10,Potential Loyalists,Chennai,Tier 1
+CUST01827,324,1,1779.73,3,2,2,7,Need Attention,Mumbai,Tier 1
+CUST01828,76,4,8212.76,5,5,5,15,Champions,Ranchi,Tier 3
+CUST01829,522,2,4712.4400000000005,1,3,4,8,Hibernating,Lucknow,Tier 2
+CUST01830,111,1,873.27,4,2,1,7,New Customers,Bengaluru,Tier 1
+CUST01831,49,2,2483.7299999999996,5,4,2,11,Loyal Customers,Jodhpur,Tier 3
+CUST01832,456,2,5373.52,2,4,4,10,At Risk (High Value),Kolkata,Tier 1
+CUST01833,109,1,704.37,4,2,1,7,New Customers,Kolkata,Tier 1
+CUST01834,28,1,2317.42,5,2,2,9,New Customers,Ahmedabad,Tier 1
+CUST01835,332,1,1445.87,3,2,2,7,Need Attention,Lucknow,Tier 2
+CUST01836,187,1,592.62,4,2,1,7,New Customers,Pune,Tier 1
+CUST01837,200,1,1116.18,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01838,42,3,6706.9,5,4,4,13,Champions,Bengaluru,Tier 1
+CUST01839,413,1,493.58,2,2,1,5,Lost,Patna,Tier 2
+CUST01840,290,1,1088.95,3,2,1,6,Need Attention,Delhi,Tier 1
+CUST01841,183,3,2706.26,4,4,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST01843,572,2,4852.610000000001,1,4,4,9,At Risk (High Value),Hyderabad,Tier 1
+CUST01844,235,1,764.74,3,2,1,6,Need Attention,Kolkata,Tier 1
+CUST01845,341,1,597.97,2,2,1,5,Lost,Kanpur,Tier 2
+CUST01846,182,2,4864.1,4,4,4,12,Champions,Delhi,Tier 1
+CUST01847,600,1,838.33,1,2,1,4,Lost,Mumbai,Tier 1
+CUST01848,623,1,1670.72,1,2,2,5,Lost,Delhi,Tier 1
+CUST01849,52,2,3325.5699999999997,5,4,3,12,Loyal Customers,Bhopal,Tier 2
+CUST01850,79,6,12939.04,4,5,5,14,Champions,Pune,Tier 1
+CUST01851,468,2,4170.7300000000005,2,4,3,9,Hibernating,Bengaluru,Tier 1
+CUST01852,377,1,1028.78,2,2,1,5,Lost,Surat,Tier 2
+CUST01853,57,1,1171.97,5,2,1,8,New Customers,Indore,Tier 2
+CUST01854,313,2,2118.54,3,4,2,9,Potential Loyalists,Nagpur,Tier 2
+CUST01856,454,3,6379.81,2,4,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01857,123,6,5482.96,4,5,4,13,Champions,Ahmedabad,Tier 1
+CUST01858,344,1,264.96,2,2,1,5,Lost,Hyderabad,Tier 1
+CUST01860,218,1,4894.62,3,2,4,9,Need Attention,Ahmedabad,Tier 1
+CUST01861,374,1,974.72,2,2,1,5,Lost,Jaipur,Tier 2
+CUST01862,160,5,9330.08,4,5,5,14,Champions,Pune,Tier 1
+CUST01863,68,2,6208.589999999999,5,4,4,13,Champions,Delhi,Tier 1
+CUST01864,296,2,1522.26,3,4,2,9,Potential Loyalists,Chennai,Tier 1
+CUST01865,268,2,6116.75,3,4,4,11,Potential Loyalists,Jodhpur,Tier 3
+CUST01866,523,2,1856.97,1,4,2,7,Hibernating,Vadodara,Tier 2
+CUST01867,12,3,5764.83,5,4,4,13,Champions,Mumbai,Tier 1
+CUST01868,336,1,1132.92,3,2,1,6,Need Attention,Delhi,Tier 1
+CUST01869,15,1,3358.75,5,2,3,10,New Customers,Mumbai,Tier 1
+CUST01870,64,4,5938.14,5,5,4,14,Champions,Ahmedabad,Tier 1
+CUST01871,239,2,3173.98,3,4,3,10,Potential Loyalists,Surat,Tier 2
+CUST01872,114,2,5213.98,4,4,4,12,Champions,Delhi,Tier 1
+CUST01873,497,1,2647.33,1,2,3,6,Hibernating,Chennai,Tier 1
+CUST01874,37,1,981.69,5,2,1,8,New Customers,Nagpur,Tier 2
+CUST01876,417,2,6540.42,2,4,4,10,At Risk (High Value),Chennai,Tier 1
+CUST01877,603,2,3766.0,1,4,3,8,Hibernating,Kolkata,Tier 1
+CUST01878,114,2,1652.66,4,4,2,10,Loyal Customers,Chennai,Tier 1
+CUST01879,689,1,401.57,1,2,1,4,Lost,Bengaluru,Tier 1
+CUST01880,361,1,1986.38,2,2,2,6,Lost,Kolkata,Tier 1
+CUST01881,537,1,2986.64,1,2,3,6,Hibernating,Pune,Tier 1
+CUST01882,39,2,3391.04,5,4,3,12,Loyal Customers,Bhopal,Tier 2
+CUST01883,474,1,1393.52,2,2,2,6,Lost,Kolkata,Tier 1
+CUST01885,45,2,2226.1800000000003,5,4,2,11,Loyal Customers,Delhi,Tier 1
+CUST01886,142,2,3446.97,4,4,3,11,Loyal Customers,Hyderabad,Tier 1
+CUST01887,290,3,8695.74,3,4,5,12,Potential Loyalists,Mumbai,Tier 1
+CUST01888,558,2,2600.59,1,4,3,8,Hibernating,Delhi,Tier 1
+CUST01889,298,1,966.28,3,2,1,6,Need Attention,Ahmedabad,Tier 1
+CUST01890,432,3,4255.5,2,4,3,9,Hibernating,Varanasi,Tier 3
+CUST01891,190,2,3454.4300000000003,4,4,3,11,Loyal Customers,Mumbai,Tier 1
+CUST01893,392,3,4122.1900000000005,2,4,3,9,Hibernating,Lucknow,Tier 2
+CUST01894,356,7,11315.32,2,5,5,12,At Risk (High Value),Delhi,Tier 1
+CUST01895,321,1,3927.46,3,2,3,8,Need Attention,Chennai,Tier 1
+CUST01896,547,1,927.54,1,2,1,4,Lost,Ahmedabad,Tier 1
+CUST01898,25,1,2388.97,5,2,2,9,New Customers,Delhi,Tier 1
+CUST01899,255,1,922.53,3,2,1,6,Need Attention,Bengaluru,Tier 1
+CUST01900,492,3,3964.5200000000004,1,4,3,8,Hibernating,Jaipur,Tier 2
+CUST01901,585,1,1144.0,1,2,1,4,Lost,Chennai,Tier 1
+CUST01902,91,5,9929.23,4,5,5,14,Champions,Mumbai,Tier 1
+CUST01903,26,1,174.53,5,2,1,8,New Customers,Ahmedabad,Tier 1
+CUST01904,171,3,13259.669999999998,4,4,5,13,Champions,Mumbai,Tier 1
+CUST01905,67,1,2818.6,5,2,3,10,New Customers,Ahmedabad,Tier 1
+CUST01907,350,1,4237.2,2,2,3,7,Hibernating,Nashik,Tier 2
+CUST01908,8,2,2960.21,5,4,3,12,Loyal Customers,Hyderabad,Tier 1
+CUST01909,140,3,3965.3500000000004,4,4,3,11,Loyal Customers,Bengaluru,Tier 1
+CUST01910,232,3,3991.5,3,4,3,10,Potential Loyalists,Delhi,Tier 1
+CUST01911,421,1,2699.44,2,2,3,7,Hibernating,Bengaluru,Tier 1
+CUST01912,45,3,3894.1899999999996,5,4,3,12,Loyal Customers,Bhopal,Tier 2
+CUST01914,414,2,3312.4,2,4,3,9,Hibernating,Hyderabad,Tier 1
+CUST01915,52,9,14411.21,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01916,65,1,398.57,5,2,1,8,New Customers,Ahmedabad,Tier 1
+CUST01917,7,3,10142.21,5,4,5,14,Champions,Bhopal,Tier 2
+CUST01918,481,1,793.7,2,2,1,5,Lost,Kolkata,Tier 1
+CUST01919,338,2,5546.389999999999,3,4,4,11,Potential Loyalists,Hyderabad,Tier 1
+CUST01920,280,1,552.22,3,2,1,6,Need Attention,Hyderabad,Tier 1
+CUST01921,228,2,3853.58,3,4,3,10,Potential Loyalists,Pune,Tier 1
+CUST01922,9,2,6273.92,5,4,4,13,Champions,Mumbai,Tier 1
+CUST01923,458,2,2174.7,2,4,2,8,Hibernating,Kolkata,Tier 1
+CUST01924,28,2,8798.41,5,4,5,14,Champions,Bengaluru,Tier 1
+CUST01925,93,4,16701.0,4,5,5,14,Champions,Lucknow,Tier 2
+CUST01926,11,4,7082.52,5,5,5,15,Champions,Mumbai,Tier 1
+CUST01927,508,1,644.6,1,2,1,4,Lost,Kolkata,Tier 1
+CUST01928,50,6,10876.84,5,5,5,15,Champions,Chennai,Tier 1
+CUST01929,623,1,7712.4,1,2,5,8,Hibernating,Pune,Tier 1
+CUST01930,346,4,5828.32,2,5,4,11,At Risk (High Value),Mumbai,Tier 1
+CUST01931,418,1,1253.28,2,2,1,5,Lost,Kolkata,Tier 1
+CUST01932,59,1,2213.98,5,2,2,9,New Customers,Kolkata,Tier 1
+CUST01933,283,2,6500.8,3,4,4,11,Potential Loyalists,Kolkata,Tier 1
+CUST01934,181,4,15957.149999999998,4,5,5,14,Champions,Kolkata,Tier 1
+CUST01935,637,1,2814.51,1,2,3,6,Hibernating,Pune,Tier 1
+CUST01936,103,1,249.57,4,2,1,7,New Customers,Lucknow,Tier 2
+CUST01938,135,4,3345.76,4,5,3,12,Loyal Customers,Surat,Tier 2
+CUST01939,531,2,1087.17,1,4,1,6,Hibernating,Chennai,Tier 1
+CUST01940,703,1,246.81,1,2,1,4,Lost,Mumbai,Tier 1
+CUST01941,228,2,3689.99,3,4,3,10,Potential Loyalists,Mumbai,Tier 1
+CUST01942,414,1,1042.46,2,2,1,5,Lost,Bengaluru,Tier 1
+CUST01943,208,4,14028.86,3,5,5,13,Potential Loyalists,Jaipur,Tier 2
+CUST01944,239,5,16303.92,3,5,5,13,Potential Loyalists,Pune,Tier 1
+CUST01945,1,2,3061.48,5,4,3,12,Loyal Customers,Lucknow,Tier 2
+CUST01946,186,2,4463.030000000001,4,4,4,12,Champions,Chennai,Tier 1
+CUST01947,276,3,5248.6,3,5,4,12,Potential Loyalists,Hyderabad,Tier 1
+CUST01948,354,2,4605.27,2,4,4,10,At Risk (High Value),Delhi,Tier 1
+CUST01949,415,4,8294.21,2,5,5,12,At Risk (High Value),Bengaluru,Tier 1
+CUST01950,561,2,2152.33,1,4,2,7,Hibernating,Hyderabad,Tier 1
+CUST01951,158,2,3761.38,4,4,3,11,Loyal Customers,Mumbai,Tier 1
+CUST01952,53,1,864.69,5,2,1,8,New Customers,Delhi,Tier 1
+CUST01953,574,2,3943.96,1,4,3,8,Hibernating,Kolkata,Tier 1
+CUST01954,39,6,7010.209999999999,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST01955,158,3,8113.69,4,5,5,14,Champions,Dehradun,Tier 3
+CUST01956,77,2,1621.26,5,4,2,11,Loyal Customers,Vadodara,Tier 2
+CUST01957,484,1,2777.06,2,2,3,7,Hibernating,Pune,Tier 1
+CUST01958,131,3,6533.29,4,5,4,13,Champions,Hyderabad,Tier 1
+CUST01959,464,3,8110.95,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST01960,534,1,3680.42,1,2,3,6,Hibernating,Jaipur,Tier 2
+CUST01962,603,2,4285.889999999999,1,4,4,9,At Risk (High Value),Hyderabad,Tier 1
+CUST01963,146,4,6444.13,4,5,4,13,Champions,Nagpur,Tier 2
+CUST01964,18,3,8768.39,5,5,5,15,Champions,Hyderabad,Tier 1
+CUST01966,85,2,1496.36,4,4,2,10,Loyal Customers,Kolkata,Tier 1
+CUST01967,449,1,2609.72,2,2,3,7,Hibernating,Delhi,Tier 1
+CUST01968,284,1,1872.94,3,2,2,7,Need Attention,Bengaluru,Tier 1
+CUST01969,462,1,454.82,2,2,1,5,Lost,Bengaluru,Tier 1
+CUST01970,668,1,3463.75,1,2,3,6,Hibernating,Mumbai,Tier 1
+CUST01971,264,1,960.51,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST01972,579,2,3744.1400000000003,1,4,3,8,Hibernating,Surat,Tier 2
+CUST01974,15,2,1879.69,5,4,2,11,Loyal Customers,Chennai,Tier 1
+CUST01975,52,2,1410.23,5,4,2,11,Loyal Customers,Bengaluru,Tier 1
+CUST01976,415,2,1468.87,2,4,2,8,Hibernating,Kanpur,Tier 2
+CUST01977,601,1,1584.9,1,2,2,5,Lost,Bengaluru,Tier 1
+CUST01978,14,4,6601.33,5,5,4,14,Champions,Hyderabad,Tier 1
+CUST01979,109,1,794.7,4,2,1,7,New Customers,Indore,Tier 2
+CUST01980,583,2,6410.08,1,4,4,9,At Risk (High Value),Nagpur,Tier 2
+CUST01981,596,1,1435.47,1,2,2,5,Lost,Delhi,Tier 1
+CUST01982,488,1,656.27,2,2,1,5,Lost,Lucknow,Tier 2
+CUST01983,681,1,693.43,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST01984,419,3,7395.6900000000005,2,5,5,12,At Risk (High Value),Chennai,Tier 1
+CUST01985,39,3,8199.86,5,5,5,15,Champions,Delhi,Tier 1
+CUST01986,462,2,1170.21,2,4,1,7,Hibernating,Mumbai,Tier 1
+CUST01987,40,4,6832.9,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST01988,446,1,2425.92,2,2,2,6,Lost,Chennai,Tier 1
+CUST01990,327,1,401.04,3,2,1,6,Need Attention,Ahmedabad,Tier 1
+CUST01991,730,1,1709.37,1,2,2,5,Lost,Jaipur,Tier 2
+CUST01992,452,2,713.9100000000001,2,4,1,7,Hibernating,Delhi,Tier 1
+CUST01993,19,1,358.82,5,2,1,8,New Customers,Kolkata,Tier 1
+CUST01994,711,1,1185.58,1,2,1,4,Lost,Delhi,Tier 1
+CUST01995,182,5,7925.679999999999,4,5,5,14,Champions,Ahmedabad,Tier 1
+CUST01996,109,1,2767.36,4,2,3,9,New Customers,Pune,Tier 1
+CUST01998,174,1,2349.84,4,2,2,8,New Customers,Mumbai,Tier 1
+CUST01999,331,1,1601.61,3,2,2,7,Need Attention,Mumbai,Tier 1
+CUST02000,487,1,4699.22,2,2,4,8,Hibernating,Bengaluru,Tier 1
+CUST02001,420,1,986.58,2,2,1,5,Lost,Bengaluru,Tier 1
+CUST02002,214,2,7350.63,3,4,5,12,Potential Loyalists,Delhi,Tier 1
+CUST02003,327,1,1210.22,3,2,1,6,Need Attention,Visakhapatnam,Tier 2
+CUST02004,326,1,2801.88,3,2,3,8,Need Attention,Delhi,Tier 1
+CUST02005,2,6,15181.640000000001,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST02006,32,2,4849.94,5,4,4,13,Champions,Ahmedabad,Tier 1
+CUST02007,90,4,4171.799999999999,4,5,3,12,Loyal Customers,Hyderabad,Tier 1
+CUST02010,582,3,7751.360000000001,1,5,5,11,At Risk (High Value),Chennai,Tier 1
+CUST02011,611,1,350.06,1,2,1,4,Lost,Mumbai,Tier 1
+CUST02012,568,1,1258.08,1,2,1,4,Lost,Mumbai,Tier 1
+CUST02013,492,3,7815.040000000001,1,5,5,11,At Risk (High Value),Visakhapatnam,Tier 2
+CUST02014,65,2,5080.59,5,4,4,13,Champions,Delhi,Tier 1
+CUST02015,14,2,4571.34,5,4,4,13,Champions,Chennai,Tier 1
+CUST02016,522,1,1597.69,1,2,2,5,Lost,Hyderabad,Tier 1
+CUST02017,211,2,5592.6900000000005,3,4,4,11,Potential Loyalists,Bengaluru,Tier 1
+CUST02018,135,1,1724.16,4,2,2,8,New Customers,Coimbatore,Tier 2
+CUST02019,54,2,7266.49,5,4,5,14,Champions,Mumbai,Tier 1
+CUST02020,414,1,587.33,2,2,1,5,Lost,Pune,Tier 1
+CUST02021,594,1,709.13,1,2,1,4,Lost,Guwahati,Tier 3
+CUST02022,48,4,7333.87,5,5,5,15,Champions,Kolkata,Tier 1
+CUST02023,32,2,2666.32,5,4,3,12,Loyal Customers,Vadodara,Tier 2
+CUST02024,351,4,4105.64,2,5,3,10,Hibernating,Mumbai,Tier 1
+CUST02025,264,1,542.54,3,2,1,6,Need Attention,Hyderabad,Tier 1
+CUST02026,73,1,3029.45,5,2,3,10,New Customers,Bengaluru,Tier 1
+CUST02027,449,1,2807.57,2,2,3,7,Hibernating,Ahmedabad,Tier 1
+CUST02028,423,1,1014.7,2,2,1,5,Lost,Jodhpur,Tier 3
+CUST02029,467,1,154.87,2,2,1,5,Lost,Bengaluru,Tier 1
+CUST02031,168,2,3631.48,4,4,3,11,Loyal Customers,Delhi,Tier 1
+CUST02032,120,3,5749.4800000000005,4,5,4,13,Champions,Kolkata,Tier 1
+CUST02033,652,2,8574.26,1,4,5,10,At Risk (High Value),Hyderabad,Tier 1
+CUST02034,251,5,12376.74,3,5,5,13,Potential Loyalists,Raipur,Tier 3
+CUST02035,446,1,3275.92,2,2,3,7,Hibernating,Kolkata,Tier 1
+CUST02036,385,2,5662.29,2,4,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST02037,235,1,1299.25,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST02038,34,2,4522.39,5,4,4,13,Champions,Delhi,Tier 1
+CUST02039,7,5,12591.66,5,5,5,15,Champions,Delhi,Tier 1
+CUST02041,143,5,5455.32,4,5,4,13,Champions,Nagpur,Tier 2
+CUST02042,316,4,5444.74,3,5,4,12,Potential Loyalists,Kolkata,Tier 1
+CUST02043,68,1,3324.3,5,2,3,10,New Customers,Chennai,Tier 1
+CUST02044,546,2,4945.03,1,4,4,9,At Risk (High Value),Mumbai,Tier 1
+CUST02045,320,1,1231.78,3,2,1,6,Need Attention,Indore,Tier 2
+CUST02046,24,6,16924.73,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST02047,629,1,180.68,1,2,1,4,Lost,Mumbai,Tier 1
+CUST02048,41,3,11913.81,5,5,5,15,Champions,Pune,Tier 1
+CUST02050,36,3,4778.16,5,5,4,14,Champions,Mumbai,Tier 1
+CUST02051,520,2,728.59,1,4,1,6,Hibernating,Hyderabad,Tier 1
+CUST02052,1,2,3905.1899999999996,5,4,3,12,Loyal Customers,Chennai,Tier 1
+CUST02053,204,3,7634.4400000000005,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST02054,237,1,906.89,3,2,1,6,Need Attention,Kanpur,Tier 2
+CUST02055,1,5,14630.449999999999,5,5,5,15,Champions,Nagpur,Tier 2
+CUST02057,253,2,2401.38,3,4,2,9,Potential Loyalists,Hyderabad,Tier 1
+CUST02058,482,1,1609.85,2,2,2,6,Lost,Hyderabad,Tier 1
+CUST02059,618,1,3725.24,1,2,3,6,Hibernating,Pune,Tier 1
+CUST02060,23,2,1630.07,5,4,2,11,Loyal Customers,Chennai,Tier 1
+CUST02061,161,1,582.61,4,2,1,7,New Customers,Mumbai,Tier 1
+CUST02062,58,1,2285.34,5,2,2,9,New Customers,Chennai,Tier 1
+CUST02063,73,2,4025.05,5,4,3,12,Loyal Customers,Lucknow,Tier 2
+CUST02064,515,1,332.29,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST02065,261,2,2448.58,3,4,2,9,Potential Loyalists,Mumbai,Tier 1
+CUST02066,188,2,4523.91,4,4,4,12,Champions,Jaipur,Tier 2
+CUST02067,340,1,938.91,2,2,1,5,Lost,Delhi,Tier 1
+CUST02069,1,4,9184.55,5,5,5,15,Champions,Delhi,Tier 1
+CUST02070,19,3,5760.25,5,5,4,14,Champions,Bengaluru,Tier 1
+CUST02071,59,4,9518.05,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST02072,214,2,6203.299999999999,3,4,4,11,Potential Loyalists,Chennai,Tier 1
+CUST02073,710,1,2311.53,1,2,2,5,Lost,Delhi,Tier 1
+CUST02074,610,2,7188.72,1,4,5,10,At Risk (High Value),Bhopal,Tier 2
+CUST02075,537,4,11464.0,1,5,5,11,At Risk (High Value),Bhopal,Tier 2
+CUST02076,220,2,3532.74,3,4,3,10,Potential Loyalists,Indore,Tier 2
+CUST02077,215,2,5011.650000000001,3,4,4,11,Potential Loyalists,Delhi,Tier 1
+CUST02078,272,1,2711.77,3,2,3,8,Need Attention,Hyderabad,Tier 1
+CUST02079,20,2,4307.81,5,4,4,13,Champions,Amritsar,Tier 3
+CUST02080,146,2,4272.67,4,4,4,12,Champions,Jaipur,Tier 2
+CUST02081,529,1,6276.44,1,2,4,7,Hibernating,Mumbai,Tier 1
+CUST02082,248,2,1173.51,3,4,1,8,Potential Loyalists,Mumbai,Tier 1
+CUST02083,161,2,4747.870000000001,4,4,4,12,Champions,Hyderabad,Tier 1
+CUST02084,179,2,2038.02,4,4,2,10,Loyal Customers,Visakhapatnam,Tier 2
+CUST02086,375,3,4147.4400000000005,2,5,3,10,Hibernating,Chennai,Tier 1
+CUST02087,215,1,783.48,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST02088,267,1,5210.3,3,2,4,9,Need Attention,Pune,Tier 1
+CUST02089,66,3,8503.9,5,5,5,15,Champions,Surat,Tier 2
+CUST02090,434,3,4141.0599999999995,2,5,3,10,Hibernating,Hyderabad,Tier 1
+CUST02091,465,1,5131.48,2,2,4,8,Hibernating,Jaipur,Tier 2
+CUST02092,46,1,2995.6,5,2,3,10,New Customers,Ranchi,Tier 3
+CUST02093,168,2,1717.3799999999999,4,4,2,10,Loyal Customers,Delhi,Tier 1
+CUST02094,33,1,2413.96,5,2,2,9,New Customers,Chennai,Tier 1
+CUST02095,564,2,2943.9700000000003,1,4,3,8,Hibernating,Bengaluru,Tier 1
+CUST02096,453,3,4731.59,2,5,4,11,At Risk (High Value),Lucknow,Tier 2
+CUST02097,616,1,1004.48,1,2,1,4,Lost,Kolkata,Tier 1
+CUST02098,393,1,5089.08,2,2,4,8,Hibernating,Kolkata,Tier 1
+CUST02100,27,2,4161.65,5,4,3,12,Loyal Customers,Hyderabad,Tier 1
+CUST02101,295,2,1938.05,3,4,2,9,Potential Loyalists,Visakhapatnam,Tier 2
+CUST02102,389,1,2173.85,2,2,2,6,Lost,Chennai,Tier 1
+CUST02104,207,1,1289.69,3,2,1,6,Need Attention,Pune,Tier 1
+CUST02105,393,3,7740.0599999999995,2,5,5,12,At Risk (High Value),Lucknow,Tier 2
+CUST02106,561,2,2287.68,1,4,2,7,Hibernating,Bengaluru,Tier 1
+CUST02107,201,4,8220.59,3,5,5,13,Potential Loyalists,Indore,Tier 2
+CUST02109,35,3,8924.66,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST02110,70,1,3093.7,5,2,3,10,New Customers,Jodhpur,Tier 3
+CUST02112,616,2,5034.62,1,4,4,9,At Risk (High Value),Delhi,Tier 1
+CUST02113,518,1,659.29,1,2,1,4,Lost,Delhi,Tier 1
+CUST02114,422,3,15376.25,2,5,5,12,At Risk (High Value),Coimbatore,Tier 2
+CUST02115,284,2,4850.84,3,4,4,11,Potential Loyalists,Pune,Tier 1
+CUST02116,129,2,2437.97,4,4,2,10,Loyal Customers,Delhi,Tier 1
+CUST02117,382,3,6660.51,2,5,4,11,At Risk (High Value),Hyderabad,Tier 1
+CUST02118,466,4,16855.9,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST02121,227,4,10660.7,3,5,5,13,Potential Loyalists,Lucknow,Tier 2
+CUST02122,57,2,2392.39,5,4,2,11,Loyal Customers,Chennai,Tier 1
+CUST02123,18,5,18364.96,5,5,5,15,Champions,Ranchi,Tier 3
+CUST02124,390,2,5453.5,2,4,4,10,At Risk (High Value),Hyderabad,Tier 1
+CUST02125,534,4,6863.47,1,5,5,11,At Risk (High Value),Jodhpur,Tier 3
+CUST02126,18,2,4243.95,5,4,3,12,Loyal Customers,Pune,Tier 1
+CUST02127,520,4,6992.49,1,5,5,11,At Risk (High Value),Kolkata,Tier 1
+CUST02128,312,6,15639.470000000001,3,5,5,13,Potential Loyalists,Delhi,Tier 1
+CUST02129,262,3,2522.31,3,5,2,10,Potential Loyalists,Bhopal,Tier 2
+CUST02131,322,1,2174.65,3,2,2,7,Need Attention,Delhi,Tier 1
+CUST02133,81,1,3871.48,4,2,3,9,New Customers,Kolkata,Tier 1
+CUST02134,330,1,399.32,3,2,1,6,Need Attention,Chennai,Tier 1
+CUST02135,432,2,8369.5,2,4,5,11,At Risk (High Value),Ahmedabad,Tier 1
+CUST02136,504,2,5849.26,1,4,4,9,At Risk (High Value),Coimbatore,Tier 2
+CUST02137,244,1,2136.08,3,2,2,7,Need Attention,Mumbai,Tier 1
+CUST02138,149,3,7128.0599999999995,4,5,5,14,Champions,Ahmedabad,Tier 1
+CUST02139,556,1,2978.75,1,2,3,6,Hibernating,Delhi,Tier 1
+CUST02140,646,1,780.48,1,2,1,4,Lost,Indore,Tier 2
+CUST02141,213,1,461.77,3,2,1,6,Need Attention,Surat,Tier 2
+CUST02142,465,3,4168.33,2,5,3,10,Hibernating,Chennai,Tier 1
+CUST02144,435,2,1746.17,2,4,2,8,Hibernating,Bengaluru,Tier 1
+CUST02145,686,1,717.51,1,2,1,4,Lost,Chennai,Tier 1
+CUST02146,556,2,2340.02,1,4,2,7,Hibernating,Surat,Tier 2
+CUST02148,572,1,8086.95,1,2,5,8,Hibernating,Bengaluru,Tier 1
+CUST02149,9,1,1316.1,5,2,2,9,New Customers,Chennai,Tier 1
+CUST02150,482,4,4310.91,2,5,4,11,At Risk (High Value),Surat,Tier 2
+CUST02151,11,4,6334.26,5,5,4,14,Champions,Bengaluru,Tier 1
+CUST02152,480,1,1082.43,2,2,1,5,Lost,Delhi,Tier 1
+CUST02154,120,3,4072.56,4,5,3,12,Loyal Customers,Surat,Tier 2
+CUST02155,420,1,5678.82,2,2,4,8,Hibernating,Mumbai,Tier 1
+CUST02156,568,1,901.01,1,2,1,4,Lost,Delhi,Tier 1
+CUST02157,388,4,3091.65,2,5,3,10,Hibernating,Delhi,Tier 1
+CUST02158,15,2,2520.0,5,4,2,11,Loyal Customers,Bengaluru,Tier 1
+CUST02159,8,2,2725.2799999999997,5,4,3,12,Loyal Customers,Hyderabad,Tier 1
+CUST02160,70,5,10421.68,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST02161,631,4,14890.1,1,5,5,11,At Risk (High Value),Pune,Tier 1
+CUST02162,282,2,5579.9400000000005,3,4,4,11,Potential Loyalists,Kolkata,Tier 1
+CUST02163,35,3,7572.87,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST02164,399,1,557.43,2,2,1,5,Lost,Nagpur,Tier 2
+CUST02165,386,1,237.56,2,2,1,5,Lost,Chennai,Tier 1
+CUST02166,90,1,2169.68,4,2,2,8,New Customers,Mysuru,Tier 3
+CUST02167,267,1,1516.48,3,2,2,7,Need Attention,Kolkata,Tier 1
+CUST02168,203,1,3455.4,3,2,3,8,Need Attention,Mumbai,Tier 1
+CUST02170,118,3,3895.49,4,5,3,12,Loyal Customers,Bengaluru,Tier 1
+CUST02171,72,3,10794.8,5,5,5,15,Champions,Pune,Tier 1
+CUST02172,175,3,4121.29,4,5,3,12,Loyal Customers,Mumbai,Tier 1
+CUST02173,558,1,444.34,1,2,1,4,Lost,Delhi,Tier 1
+CUST02174,411,4,12087.05,2,5,5,12,At Risk (High Value),Indore,Tier 2
+CUST02175,196,4,8235.76,4,5,5,14,Champions,Delhi,Tier 1
+CUST02176,533,1,1203.05,1,2,1,4,Lost,Nagpur,Tier 2
+CUST02177,527,1,292.77,1,2,1,4,Lost,Bengaluru,Tier 1
+CUST02179,40,3,5703.49,5,5,4,14,Champions,Pune,Tier 1
+CUST02180,79,1,3936.6,4,2,3,9,New Customers,Chennai,Tier 1
+CUST02181,149,3,4858.8099999999995,4,5,4,13,Champions,Bengaluru,Tier 1
+CUST02182,538,2,4627.77,1,4,4,9,At Risk (High Value),Delhi,Tier 1
+CUST02183,72,2,5077.05,5,4,4,13,Champions,Mumbai,Tier 1
+CUST02184,18,1,300.27,5,2,1,8,New Customers,Bengaluru,Tier 1
+CUST02185,285,4,7815.46,3,5,5,13,Potential Loyalists,Pune,Tier 1
+CUST02186,85,6,13759.33,4,5,5,14,Champions,Vadodara,Tier 2
+CUST02187,282,2,3844.6899999999996,3,4,3,10,Potential Loyalists,Indore,Tier 2
+CUST02188,506,1,5951.07,1,2,4,7,Hibernating,Jaipur,Tier 2
+CUST02189,354,1,238.38,2,2,1,5,Lost,Lucknow,Tier 2
+CUST02190,648,3,5802.6,1,5,4,10,At Risk (High Value),Pune,Tier 1
+CUST02191,548,2,2522.4700000000003,1,4,2,7,Hibernating,Bengaluru,Tier 1
+CUST02192,364,1,728.22,2,2,1,5,Lost,Visakhapatnam,Tier 2
+CUST02194,691,1,3649.94,1,2,3,6,Hibernating,Kolkata,Tier 1
+CUST02195,71,1,187.35,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST02196,89,2,4275.389999999999,4,4,4,12,Champions,Hyderabad,Tier 1
+CUST02197,427,5,9285.98,2,5,5,12,At Risk (High Value),Hyderabad,Tier 1
+CUST02198,699,1,2277.94,1,2,2,5,Lost,Indore,Tier 2
+CUST02199,525,1,4410.09,1,2,4,7,Hibernating,Chennai,Tier 1
+CUST02201,624,1,3975.22,1,2,3,6,Hibernating,Mysuru,Tier 3
+CUST02202,225,3,9845.66,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST02203,212,5,8972.97,3,5,5,13,Potential Loyalists,Hyderabad,Tier 1
+CUST02204,495,2,2335.99,1,4,2,7,Hibernating,Mumbai,Tier 1
+CUST02205,16,2,5302.33,5,4,4,13,Champions,Ahmedabad,Tier 1
+CUST02206,121,3,6736.7,4,5,4,13,Champions,Visakhapatnam,Tier 2
+CUST02207,571,4,4377.799999999999,1,5,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST02208,96,1,2085.87,4,2,2,8,New Customers,Indore,Tier 2
+CUST02209,46,3,3894.96,5,5,3,13,Loyal Customers,Bengaluru,Tier 1
+CUST02210,598,2,8838.060000000001,1,4,5,10,At Risk (High Value),Visakhapatnam,Tier 2
+CUST02211,477,2,3510.0099999999998,2,4,3,9,Hibernating,Ahmedabad,Tier 1
+CUST02213,441,2,8049.5599999999995,2,4,5,11,At Risk (High Value),Mumbai,Tier 1
+CUST02215,217,1,787.32,3,2,1,6,Need Attention,Ahmedabad,Tier 1
+CUST02216,262,2,7290.33,3,4,5,12,Potential Loyalists,Bengaluru,Tier 1
+CUST02217,13,3,4492.58,5,5,4,14,Champions,Surat,Tier 2
+CUST02218,8,1,151.38,5,2,1,8,New Customers,Bengaluru,Tier 1
+CUST02219,24,2,4291.5599999999995,5,4,4,13,Champions,Indore,Tier 2
+CUST02220,443,6,16002.49,2,5,5,12,At Risk (High Value),Mumbai,Tier 1
+CUST02221,216,5,19500.12,3,5,5,13,Potential Loyalists,Pune,Tier 1
+CUST02222,111,2,1575.53,4,4,2,10,Loyal Customers,Chennai,Tier 1
+CUST02223,228,1,562.6,3,2,1,6,Need Attention,Mumbai,Tier 1
+CUST02224,272,3,3076.49,3,5,3,11,Potential Loyalists,Delhi,Tier 1
+CUST02225,105,4,7457.85,4,5,5,14,Champions,Mumbai,Tier 1
+CUST02227,432,1,1298.95,2,2,1,5,Lost,Bengaluru,Tier 1
+CUST02228,97,3,4719.97,4,5,4,13,Champions,Kolkata,Tier 1
+CUST02229,695,1,3602.73,1,2,3,6,Hibernating,Bengaluru,Tier 1
+CUST02230,254,2,1491.92,3,4,2,9,Potential Loyalists,Bengaluru,Tier 1
+CUST02231,643,1,1224.93,1,2,1,4,Lost,Ahmedabad,Tier 1
+CUST02232,582,2,1380.68,1,4,2,7,Hibernating,Mumbai,Tier 1
+CUST02233,601,3,6896.95,1,5,5,11,At Risk (High Value),Coimbatore,Tier 2
+CUST02234,104,6,8540.990000000002,4,5,5,14,Champions,Nagpur,Tier 2
+CUST02235,609,1,1105.56,1,2,1,4,Lost,Pune,Tier 1
+CUST02236,53,8,14089.56,5,5,5,15,Champions,Kolkata,Tier 1
+CUST02238,119,4,3137.28,4,5,3,12,Loyal Customers,Delhi,Tier 1
+CUST02239,8,5,3884.27,5,5,3,13,Loyal Customers,Mumbai,Tier 1
+CUST02240,104,4,7219.780000000001,4,5,5,14,Champions,Delhi,Tier 1
+CUST02241,244,5,11566.81,3,5,5,13,Potential Loyalists,Lucknow,Tier 2
+CUST02243,367,3,5580.6,2,5,4,11,At Risk (High Value),Kolkata,Tier 1
+CUST02245,369,3,3061.37,2,5,3,10,Hibernating,Indore,Tier 2
+CUST02246,477,5,5642.07,2,5,4,11,At Risk (High Value),Chennai,Tier 1
+CUST02247,32,3,5243.969999999999,5,5,4,14,Champions,Mumbai,Tier 1
+CUST02248,351,1,7175.37,2,2,5,9,Hibernating,Surat,Tier 2
+CUST02249,445,4,9658.2,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST02250,547,1,1927.05,1,2,2,5,Lost,Mumbai,Tier 1
+CUST02252,427,3,11349.19,2,5,5,12,At Risk (High Value),Visakhapatnam,Tier 2
+CUST02253,97,1,1895.01,4,2,2,8,New Customers,Pune,Tier 1
+CUST02254,88,2,1242.55,4,4,1,9,Loyal Customers,Surat,Tier 2
+CUST02255,597,1,1496.58,1,2,2,5,Lost,Bhopal,Tier 2
+CUST02257,112,4,5488.360000000001,4,5,4,13,Champions,Chennai,Tier 1
+CUST02258,61,1,1989.84,5,2,2,9,New Customers,Hyderabad,Tier 1
+CUST02260,91,3,2555.15,4,5,2,11,Loyal Customers,Hyderabad,Tier 1
+CUST02261,634,1,1820.58,1,2,2,5,Lost,Jaipur,Tier 2
+CUST02262,84,2,1879.87,4,4,2,10,Loyal Customers,Kolkata,Tier 1
+CUST02263,180,2,4935.9,4,4,4,12,Champions,Coimbatore,Tier 2
+CUST02264,67,1,1940.79,5,2,2,9,New Customers,Hyderabad,Tier 1
+CUST02265,399,5,3996.04,2,5,3,10,Hibernating,Kolkata,Tier 1
+CUST02266,355,4,8052.11,2,5,5,12,At Risk (High Value),Kolkata,Tier 1
+CUST02267,607,1,509.02,1,2,1,4,Lost,Kolkata,Tier 1
+CUST02268,36,2,3445.19,5,4,3,12,Loyal Customers,Pune,Tier 1
+CUST02269,474,3,3589.47,2,5,3,10,Hibernating,Delhi,Tier 1
+CUST02270,20,3,6663.13,5,5,4,14,Champions,Chennai,Tier 1
+CUST02271,124,2,3886.8499999999995,4,4,3,11,Loyal Customers,Mumbai,Tier 1
+CUST02272,172,4,6106.16,4,5,4,13,Champions,Hyderabad,Tier 1
+CUST02276,312,4,7584.95,3,5,5,13,Potential Loyalists,Kolkata,Tier 1
+CUST02277,423,1,3208.8,2,2,3,7,Hibernating,Ahmedabad,Tier 1
+CUST02278,15,5,10196.960000000001,5,5,5,15,Champions,Chennai,Tier 1
+CUST02279,135,2,3506.2799999999997,4,4,3,11,Loyal Customers,Kolkata,Tier 1
+CUST02280,67,2,3061.67,5,4,3,12,Loyal Customers,Mumbai,Tier 1
+CUST02281,388,1,2670.52,2,2,3,7,Hibernating,Bengaluru,Tier 1
+CUST02283,504,4,8132.19,1,5,5,11,At Risk (High Value),Chennai,Tier 1
+CUST02284,72,1,4336.78,5,2,4,11,New Customers,Mumbai,Tier 1
+CUST02285,304,3,3508.37,3,5,3,11,Potential Loyalists,Delhi,Tier 1
+CUST02286,116,2,1281.3600000000001,4,4,1,9,Loyal Customers,Bengaluru,Tier 1
+CUST02287,608,1,901.03,1,2,1,4,Lost,Raipur,Tier 3
+CUST02289,214,1,1079.64,3,2,1,6,Need Attention,Chennai,Tier 1
+CUST02290,4,2,5857.99,5,4,4,13,Champions,Delhi,Tier 1
+CUST02291,154,2,6529.94,4,4,4,12,Champions,Kolkata,Tier 1
+CUST02292,483,2,1629.37,2,4,2,8,Hibernating,Bengaluru,Tier 1
+CUST02293,86,2,3891.85,4,4,3,11,Loyal Customers,Delhi,Tier 1
+CUST02294,242,3,5388.049999999999,3,5,4,12,Potential Loyalists,Chennai,Tier 1
+CUST02295,365,1,1125.88,2,2,1,5,Lost,Mumbai,Tier 1
+CUST02296,108,4,14139.380000000001,4,5,5,14,Champions,Mumbai,Tier 1
+CUST02297,153,3,3991.63,4,5,3,12,Loyal Customers,Delhi,Tier 1
+CUST02298,62,3,9682.73,5,5,5,15,Champions,Mumbai,Tier 1
+CUST02300,12,5,8811.85,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST02301,632,1,2405.33,1,2,2,5,Lost,Lucknow,Tier 2
+CUST02302,347,1,2321.62,2,2,2,6,Lost,Kolkata,Tier 1
+CUST02303,212,4,9312.41,3,5,5,13,Potential Loyalists,Chennai,Tier 1
+CUST02304,408,2,1567.26,2,4,2,8,Hibernating,Bengaluru,Tier 1
+CUST02305,61,2,5673.52,5,4,4,13,Champions,Vadodara,Tier 2
+CUST02306,438,1,4340.74,2,2,4,8,Hibernating,Hyderabad,Tier 1
+CUST02309,127,3,5591.09,4,5,4,13,Champions,Mumbai,Tier 1
+CUST02310,479,2,3362.5600000000004,2,4,3,9,Hibernating,Bengaluru,Tier 1
+CUST02311,427,1,620.36,2,2,1,5,Lost,Chennai,Tier 1
+CUST02312,2,1,2962.66,5,2,3,10,New Customers,Bhopal,Tier 2
+CUST02313,566,1,318.77,1,2,1,4,Lost,Chennai,Tier 1
+CUST02314,350,4,8663.46,2,5,5,12,At Risk (High Value),Pune,Tier 1
+CUST02315,506,3,2526.3,1,5,2,8,Hibernating,Varanasi,Tier 3
+CUST02316,357,1,964.93,2,2,1,5,Lost,Mumbai,Tier 1
+CUST02317,198,2,2444.63,4,4,2,10,Loyal Customers,Bengaluru,Tier 1
+CUST02318,31,3,3520.8500000000004,5,5,3,13,Loyal Customers,Hyderabad,Tier 1
+CUST02319,598,1,287.28,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST02320,445,5,7672.360000000001,2,5,5,12,At Risk (High Value),Hyderabad,Tier 1
+CUST02321,545,2,3898.48,1,4,3,8,Hibernating,Visakhapatnam,Tier 2
+CUST02323,662,1,1631.78,1,2,2,5,Lost,Kolkata,Tier 1
+CUST02324,85,1,1295.99,4,2,1,7,New Customers,Bengaluru,Tier 1
+CUST02325,103,1,477.55,4,2,1,7,New Customers,Surat,Tier 2
+CUST02326,565,1,2226.67,1,2,2,5,Lost,Nashik,Tier 2
+CUST02327,93,2,6198.38,4,4,4,12,Champions,Surat,Tier 2
+CUST02328,4,1,760.34,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST02329,187,4,6807.950000000001,4,5,5,14,Champions,Kolkata,Tier 1
+CUST02330,340,1,1786.56,2,2,2,6,Lost,Mumbai,Tier 1
+CUST02331,649,1,801.2,1,2,1,4,Lost,Bengaluru,Tier 1
+CUST02332,40,1,176.48,5,2,1,8,New Customers,Mumbai,Tier 1
+CUST02333,117,3,2369.09,4,5,2,11,Loyal Customers,Kolkata,Tier 1
+CUST02334,106,3,6137.8,4,5,4,13,Champions,Pune,Tier 1
+CUST02336,308,1,2591.46,3,2,2,7,Need Attention,Hyderabad,Tier 1
+CUST02337,472,2,2729.09,2,4,3,9,Hibernating,Hyderabad,Tier 1
+CUST02338,229,2,4263.83,3,4,4,11,Potential Loyalists,Hyderabad,Tier 1
+CUST02339,530,2,2755.2200000000003,1,4,3,8,Hibernating,Mumbai,Tier 1
+CUST02340,616,2,4570.610000000001,1,4,4,9,At Risk (High Value),Hyderabad,Tier 1
+CUST02341,23,4,15763.5,5,5,5,15,Champions,Ahmedabad,Tier 1
+CUST02344,61,4,11918.02,5,5,5,15,Champions,Bengaluru,Tier 1
+CUST02345,337,1,2438.16,3,2,2,7,Need Attention,Kanpur,Tier 2
+CUST02347,102,1,321.69,4,2,1,7,New Customers,Pune,Tier 1
+CUST02349,512,2,2280.39,1,4,2,7,Hibernating,Kolkata,Tier 1
+CUST02350,208,1,3238.17,3,2,3,8,Need Attention,Mumbai,Tier 1
+CUST02351,63,2,3792.3199999999997,5,4,3,12,Loyal Customers,Kolkata,Tier 1
+CUST02352,473,2,5705.73,2,4,4,10,At Risk (High Value),Visakhapatnam,Tier 2
+CUST02353,343,3,4433.83,2,5,4,11,At Risk (High Value),Kolkata,Tier 1
+CUST02355,105,4,5775.27,4,5,4,13,Champions,Ahmedabad,Tier 1
+CUST02356,22,2,4937.139999999999,5,4,4,13,Champions,Mumbai,Tier 1
+CUST02357,202,1,138.54,3,2,1,6,Need Attention,Coimbatore,Tier 2
+CUST02358,178,4,6995.07,4,5,5,14,Champions,Mumbai,Tier 1
+CUST02359,543,1,1812.09,1,2,2,5,Lost,Chennai,Tier 1
+CUST02360,54,7,10715.449999999999,5,5,5,15,Champions,Delhi,Tier 1
+CUST02362,148,1,1065.03,4,2,1,7,New Customers,Hyderabad,Tier 1
+CUST02363,163,5,7531.88,4,5,5,14,Champions,Bengaluru,Tier 1
+CUST02365,199,3,4836.110000000001,4,5,4,13,Champions,Kolkata,Tier 1
+CUST02366,75,4,8115.969999999999,5,5,5,15,Champions,Mumbai,Tier 1
+CUST02367,58,2,2060.59,5,4,2,11,Loyal Customers,Mumbai,Tier 1
+CUST02368,504,1,1310.25,1,2,2,5,Lost,Kolkata,Tier 1
+CUST02369,569,3,6454.75,1,5,4,10,At Risk (High Value),Bengaluru,Tier 1
+CUST02370,548,2,3773.42,1,4,3,8,Hibernating,Ahmedabad,Tier 1
+CUST02371,22,1,3497.66,5,2,3,10,New Customers,Pune,Tier 1
+CUST02372,296,2,5139.5,3,4,4,11,Potential Loyalists,Nagpur,Tier 2
+CUST02373,293,1,398.5,3,2,1,6,Need Attention,Pune,Tier 1
+CUST02374,69,2,3104.81,5,4,3,12,Loyal Customers,Hyderabad,Tier 1
+CUST02375,207,2,2900.91,3,4,3,10,Potential Loyalists,Pune,Tier 1
+CUST02376,391,3,1982.8400000000001,2,5,2,9,Hibernating,Bengaluru,Tier 1
+CUST02377,158,1,1554.72,4,2,2,8,New Customers,Bengaluru,Tier 1
+CUST02378,356,2,1124.13,2,4,1,7,Hibernating,Lucknow,Tier 2
+CUST02379,658,1,349.88,1,2,1,4,Lost,Hyderabad,Tier 1
+CUST02380,658,1,766.45,1,2,1,4,Lost,Lucknow,Tier 2
+CUST02381,346,1,2315.44,2,2,2,6,Lost,Surat,Tier 2
+CUST02382,533,1,1642.63,1,2,2,5,Lost,Indore,Tier 2
+CUST02385,635,2,4800.73,1,4,4,9,At Risk (High Value),Bengaluru,Tier 1
+CUST02386,273,1,3542.69,3,2,3,8,Need Attention,Kolkata,Tier 1
+CUST02387,55,1,521.53,5,2,1,8,New Customers,Hyderabad,Tier 1
+CUST02388,10,1,1870.12,5,2,2,9,New Customers,Kolkata,Tier 1
+CUST02389,525,3,8674.81,1,5,5,11,At Risk (High Value),Pune,Tier 1
+CUST02390,530,2,4073.49,1,4,3,8,Hibernating,Pune,Tier 1
+CUST02392,107,3,4751.42,4,5,4,13,Champions,Delhi,Tier 1
+CUST02393,289,1,2309.83,3,2,2,7,Need Attention,Hyderabad,Tier 1
+CUST02394,646,2,1423.74,1,4,2,7,Hibernating,Delhi,Tier 1
+CUST02395,512,2,9495.64,1,4,5,10,At Risk (High Value),Coimbatore,Tier 2
+CUST02397,132,1,3538.7,4,2,3,9,New Customers,Delhi,Tier 1
+CUST02398,215,5,11959.59,3,5,5,13,Potential Loyalists,Mumbai,Tier 1
+CUST02399,206,1,2023.06,3,2,2,7,Need Attention,Pune,Tier 1
+CUST02400,8,2,4642.66,5,4,4,13,Champions,Kolkata,Tier 1
